@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="MySplashScreen" parent="AmoledTheme.SplashScreen"/>
+	<integer name="default_theme">5</integer>
+	<string-array name="donation_items">
+		<item>Friedchicken</item>
+		<item>Icecola</item>
+		<item>Tomatosauce</item>
+	</string-array>
+</resources>

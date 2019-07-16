@@ -15,57 +15,63 @@
   ~ limitations under the License.
   ~
   ~ Special thanks to the project contributors and collaborators
-  ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
+  ~   https://github.com/jahirfiquitiva/IconShowcase#special-thanks
   -->
 
 <resources>
-
     <version>1</version>
 
-    <category title="Latest" />
-
     <category title="System" />
-    <item drawable="an_icon" />
-    <item drawable="andy" />
-    <item drawable="another_icon" />
-    <item drawable="icon_one" />
-    <item drawable="icon_with_a_long_name" />
-    <item drawable="icons_everywhere" />
-    <item drawable="second_icon" />
-    <item drawable="this_is_an_icon" />
-
-    <category title="Google Apps" />
-    <item drawable="an_icon" />
-    <item drawable="andy" />
-    <item drawable="another_icon" />
-    <item drawable="icon_one" />
-    <item drawable="icon_with_a_long_name" />
-    <item drawable="icons_everywhere" />
-    <item drawable="second_icon" />
-    <item drawable="this_is_an_icon" />
-
-    <category title="Games" />
-    <item drawable="a_better_camera" />
-    <item drawable="adaway" />
-    <item drawable="adobe_creative_cloud" />
-    <item drawable="afterfocus" />
-
-    <category title="Drawers" />
-    <item drawable="a_better_camera" />
-    <item drawable="aa" />
-    <item drawable="acdisplay" />
-    <item drawable="afterlight" />
-    <item drawable="airdroid" />
-    <item drawable="alarmpad" />
+      <item drawable="browser" />
+      <item drawable="calculator" />
+      <item drawable="camera" />
+      <item drawable="clock" />
+      <item drawable="contacts" />
+      <item drawable="dialer" />
+      <item drawable="download" />
+      <item drawable="files" />
+      <item drawable="gallery" />
+      <item drawable="message" />
+      <item drawable="note" />
+      <item drawable="screen_recorder" />
+      <item drawable="settings" />
+      <item drawable="sim1_tool" />
+      <item drawable="sim2_tool" />
+      <item drawable="voice_recorder" />
 
     <category title="All" />
-    <item drawable="an_icon" />
-    <item drawable="andy" />
-    <item drawable="another_icon" />
-    <item drawable="icon_one" />
-    <item drawable="icon_with_a_long_name" />
-    <item drawable="icons_everywhere" />
-    <item drawable="second_icon" />
-    <item drawable="this_is_an_icon" />
-
+      <item drawable="adguard_content_blocker" />
+      <item drawable="adm_pro" />
+      <item drawable="alipay" />
+      <item drawable="apple_music" />
+      <item drawable="browser" />
+      <item drawable="calculator" />
+      <item drawable="camera" />
+      <item drawable="chrome" />
+      <item drawable="clock" />
+      <item drawable="contacts" />
+      <item drawable="coolapk" />
+      <item drawable="dialer" />
+      <item drawable="download" />
+      <item drawable="files" />
+      <item drawable="gallery" />
+      <item drawable="google" />
+      <item drawable="google_play" />
+      <item drawable="jd" />
+      <item drawable="meeye" />
+      <item drawable="message" />
+      <item drawable="netease_cloudmusic" />
+      <item drawable="note" />
+      <item drawable="qq" />
+      <item drawable="qq_browser" />
+      <item drawable="screen_recorder" />
+      <item drawable="settings" />
+      <item drawable="sim1_tool" />
+      <item drawable="sim2_tool" />
+      <item drawable="thunder" />
+      <item drawable="tim" />
+      <item drawable="twitter" />
+      <item drawable="voice_recorder" />
+      <item drawable="wechat" />
+      <item drawable="zhihu" />
 </resources>

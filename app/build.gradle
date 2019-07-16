@@ -34,7 +34,7 @@ android {
 
     applicationVariants.all { variant ->
         variant.outputs.all { output ->
-            outputFileName = "MyBlueprintApp-v${variant.versionName}-${variant.name}.apk"
+            outputFileName = "PinkBee-v${variant.versionName}-${variant.name}.apk"
         }
     }
 
@@ -52,11 +52,11 @@ android {
                                 onesignal_google_project_number: "1234567890"]
                                 */
 
-        applicationId "jahirfiquitiva.apps.blueprint.demo"
+        applicationId "pink.bee"
         minSdkVersion versions.minSdk
         targetSdkVersion versions.targetSdk
-        versionCode 145
-        versionName "1.4.5"
+        versionCode 2
+        versionName "Beta 1.1"
         vectorDrawables.useSupportLibrary = true
         proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
         consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'

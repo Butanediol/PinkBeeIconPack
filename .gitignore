@@ -91,3 +91,4 @@ proguard/
 /projectFilesBackup
 /reports
 /report
+app/release/output.json

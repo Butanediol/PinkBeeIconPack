@@ -16,27 +16,22 @@
   -->
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
     <string-array name="credits_photos" formatted="false" tools:ignore="TypographyDashes">
-        <item>https://lh3.googleusercontent.com/-0mdcClKXlgM/AAAAAAAAAAI/AAAAAAAAAAA/xgdLWeAg7pM/s120-c/photo.jpg</item>
-        <item>https://ssl.gstatic.com/images/branding/product/2x/avatar_square_grey_512dp.png</item>
+        <item>https://img.vim-cn.com/a7/6fa6bc82d4838af3df4b5a4e7e22df962429ec.jpg</item>
     </string-array>
 
     <string-array name="credits_titles">
-        <item>Your Name</item>
-        <item>Another Name</item>
+        <item>丁二 Butanediol</item>
     </string-array>
 
     <string-array name="credits_descriptions">
-        <item>Details of first credited person</item>
-        <item>Details of another credited person</item>
+        <item>Fanatic vector fan.</item>
     </string-array>
 
     <string-array name="credits_buttons">
-        <item>Google+|Instagram</item>
-        <item>Facebook|Website|Twitter</item>
+        <item>Twitter|GitHub|Coolapk</item>
     </string-array>
 
     <string-array name="credits_links">
-        <item>https://www.google.com/+JahirFiquitivaR|http://instagram.com/jahirfiquitiva</item>
-        <item>https://facebook.com/|https://jahirfiquitiva.com/|https://twitter.com/jahirfiquitiva</item>
+        <item>https://twitter.com/Butanediol2|https://github.com/Butanediol|https://www.coolapk.com/u/724972</item>
     </string-array>
 </resources>
