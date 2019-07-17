@@ -271,7 +271,13 @@
     <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="weichat" />
     <item component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.MainActivity}" drawable="zhihu" />
     <item component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.LauncherActivity}" drawable="zhihu" />
-
+    <item component="ComponentInfo{cn.canva.editor/com.canva.app.editor.splash.SplashActivity}" drawable="canva"/>
+    <item component="ComponentInfo{com.theotino.chinadaily/com.theotino.chinadaily.CdAt}" drawable="china_daily"/>
+    <item component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}" drawable="duolingo"/>
+    <item component="ComponentInfo{com.topjohnwu.magisk/a.c}" drawable="magisk_manager"/>
+    <item component="ComponentInfo{com.xiaomi.hm.health/com.xiaomi.hm.health.activity.StartUpActivity}" drawable="mi_fit"/>
+    <item component="ComponentInfo{com.picacomic.fregata/com.picacomic.fregata.activities.SplashActivity}" drawable="picacg"/>
+    <item component="ComponentInfo{com.hengye.share/com.hengye.share.Launcher}" drawable="share"/>
 
 
 

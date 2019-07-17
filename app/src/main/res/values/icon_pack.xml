@@ -24,20 +24,27 @@
         <item>browser</item>
         <item>calculator</item>
         <item>camera</item>
+        <item>canva</item>
+        <item>china_daily</item>
         <item>chrome</item>
         <item>contacts</item>
         <item>dialer</item>
         <item>download</item>
+        <item>duolingo</item>
         <item>files</item>
         <item>gallery</item>
         <item>google</item>
         <item>google_play</item>
         <item>jd</item>
+        <item>magisk_manager</item>
         <item>message</item>
+        <item>mi_fit</item>
         <item>note</item>
+        <item>pic_acg</item>
         <item>qq_browser</item>
         <item>screen_recorder</item>
         <item>settings</item>
+        <item>share</item>
         <item>sim1_tool</item>
         <item>sim2_tool</item>
         <item>thunder</item>
@@ -61,25 +68,32 @@
         <item>browser</item>
         <item>calculator</item>
         <item>camera</item>
+        <item>canva</item>
+        <item>china_daily</item>
         <item>chrome</item>
         <item>clock</item>
         <item>contacts</item>
         <item>coolapk</item>
         <item>dialer</item>
         <item>download</item>
+        <item>duolingo</item>
         <item>files</item>
         <item>gallery</item>
         <item>google</item>
         <item>google_play</item>
         <item>jd</item>
+        <item>magisk_manager</item>
         <item>meeye</item>
         <item>message</item>
+        <item>mi_fit</item>
         <item>netease_cloudmusic</item>
         <item>note</item>
+        <item>pic_acg</item>
         <item>qq</item>
         <item>qq_browser</item>
         <item>screen_recorder</item>
         <item>settings</item>
+        <item>share</item>
         <item>sim1_tool</item>
         <item>sim2_tool</item>
         <item>thunder</item>

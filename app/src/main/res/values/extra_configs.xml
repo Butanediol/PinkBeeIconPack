@@ -25,15 +25,19 @@
 
     <!--    These arrays are for the list of apps or links in main section. -->
     <string-array name="home_list_titles">
-        <item>Contact me</item>
+        <item>向联系咱？</item>
+        <item>跟咱聊聊？</item>
     </string-array>
     <string-array name="home_list_descriptions">
         <item>Twitter@Butanediol2</item>
+        <item>Telegram Group</item>
     </string-array>
     <string-array name="home_list_icons">
         <item>twitter</item>
+        <item>message</item>
     </string-array>
     <string-array name="home_list_links">
         <item>https://www.twitter.com/Butanediol2</item>
+        <item>https://t.me/joinchat/Dyb9qUal8Vwx2-7kFk9NcQ</item>
     </string-array>
 </resources>
