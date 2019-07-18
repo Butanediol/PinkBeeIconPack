@@ -15,7 +15,7 @@
   ~ limitations under the License.
   ~
   ~ Special thanks to the project contributors and collaborators
-  ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
+  ~   https://github.com/jahirfiquitiva/IconShowcase#special-thanks
   -->
 
 <resources>
@@ -39,11 +39,30 @@
       <item drawable="sim2_tool" />
       <item drawable="voice_recorder" />
 
+    <category title="New" />
+      <item drawable="amap" />
+      <item drawable="baidu_netdisk" />
+      <item drawable="ehviewer" />
+      <item drawable="iconmask" />
+      <item drawable="nekogram" />
+      <item drawable="telegram" />
+      <item drawable="telegram_x" />
+      <item drawable="the12306" />
+      <item drawable="weibo" />
+      <item drawable="xianyu" />
+
+    <category title="Google" />
+      <item drawable="chrome" />
+      <item drawable="google" />
+      <item drawable="google_play" />
+
     <category title="All" />
       <item drawable="adguard_content_blocker" />
       <item drawable="adm_pro" />
       <item drawable="alipay" />
+      <item drawable="amap" />
       <item drawable="apple_music" />
+      <item drawable="baidu_netdisk" />
       <item drawable="browser" />
       <item drawable="calculator" />
       <item drawable="camera" />
@@ -56,15 +75,18 @@
       <item drawable="dialer" />
       <item drawable="download" />
       <item drawable="duolingo" />
+      <item drawable="ehviewer" />
       <item drawable="files" />
       <item drawable="gallery" />
       <item drawable="google" />
       <item drawable="google_play" />
+      <item drawable="iconmask" />
       <item drawable="jd" />
       <item drawable="magisk_manager" />
       <item drawable="meeye" />
       <item drawable="message" />
       <item drawable="mi_fit" />
+      <item drawable="nekogram" />
       <item drawable="netease_cloudmusic" />
       <item drawable="note" />
       <item drawable="pic_acg" />
@@ -75,10 +97,15 @@
       <item drawable="share" />
       <item drawable="sim1_tool" />
       <item drawable="sim2_tool" />
+      <item drawable="telegram" />
+      <item drawable="telegram_x" />
+      <item drawable="the12306" />
       <item drawable="thunder" />
       <item drawable="tim" />
       <item drawable="twitter" />
       <item drawable="voice_recorder" />
       <item drawable="wechat" />
+      <item drawable="weibo" />
+      <item drawable="xianyu" />
       <item drawable="zhihu" />
 </resources>

@@ -25,7 +25,7 @@
 
     <!--    These arrays are for the list of apps or links in main section. -->
     <string-array name="home_list_titles">
-        <item>向联系咱？</item>
+        <item>想联系咱？</item>
         <item>跟咱聊聊？</item>
     </string-array>
     <string-array name="home_list_descriptions">

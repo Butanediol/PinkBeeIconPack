@@ -268,7 +268,7 @@
     <item component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}" drawable="qq" />
     <item component="ComponentInfo{com.tencent.tim/com.tencent.mobileqq.activity.SplashActivity}" drawable="tim" />
     <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="twitter" />
-    <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="weichat" />
+    <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="wechat" />
     <item component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.MainActivity}" drawable="zhihu" />
     <item component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.LauncherActivity}" drawable="zhihu" />
     <item component="ComponentInfo{cn.canva.editor/com.canva.app.editor.splash.SplashActivity}" drawable="canva"/>

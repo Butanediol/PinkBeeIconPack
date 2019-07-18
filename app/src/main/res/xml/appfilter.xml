@@ -20,6 +20,9 @@
 
 <resources>
 
+	<iconmask img1="iconmask"/>
+	<scale factor="1.0"/>
+
     <item component="ComponentInfo{com.dv.adm.pay/com.dv.adm.pay.Main}" drawable="adm_pro" />
     <item component="ComponentInfo{com.dv.adm/com.dv.adm.Main}" drawable="adm_pro" />
     <item component="ComponentInfo{com.dv.adm.pay/com.dv.get.Main}" drawable="adm_pro"/>
@@ -263,12 +266,13 @@
     <item component="ComponentInfo{com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity}" drawable="apple_music" />
     <item component="ComponentInfo{com.coolapk.market/com.coolapk.market.view.main.MainActivity}" drawable="coolapk" />
     <item component="ComponentInfo{com.yeyebbc.meeye.iconpack/.MainActivity}" drawable="meeye" />
+    <item component="ComponentInfo{com.yeyebbc.play.meeye.iconpack/com.yeyebbc.play.meeye.iconpack.MainActivity}" drawable="meeye" />
     <item component="ComponentInfo{com.yeyebbc.meeye.iconpack/com.yeyebbc.meeye.iconpack.MainActivity}" drawable="meeye" />
     <item component="ComponentInfo{com.netease.cloudmusic/com.netease.cloudmusic.activity.LoadingActivity}" drawable="netease_cloudmusic" />
     <item component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}" drawable="qq" />
     <item component="ComponentInfo{com.tencent.tim/com.tencent.mobileqq.activity.SplashActivity}" drawable="tim" />
     <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="twitter" />
-    <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="weichat" />
+    <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="wechat" />
     <item component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.MainActivity}" drawable="zhihu" />
     <item component="ComponentInfo{com.zhihu.android/com.zhihu.android.app.ui.activity.LauncherActivity}" drawable="zhihu" />
     <item component="ComponentInfo{cn.canva.editor/com.canva.app.editor.splash.SplashActivity}" drawable="canva"/>
@@ -278,6 +282,15 @@
     <item component="ComponentInfo{com.xiaomi.hm.health/com.xiaomi.hm.health.activity.StartUpActivity}" drawable="mi_fit"/>
     <item component="ComponentInfo{com.picacomic.fregata/com.picacomic.fregata.activities.SplashActivity}" drawable="picacg"/>
     <item component="ComponentInfo{com.hengye.share/com.hengye.share.Launcher}" drawable="share"/>
+    <item component="ComponentInfo{com.hippo.ehviewer/com.hippo.ehviewer.ui.MainActivity}" drawable="ehviewer"/>
+    <item component="ComponentInfo{tw.nekomimi.nekogram/org.telegram.ui.LaunchActivity}" drawable="nekogram"/>
+    <item component="ComponentInfo{com.autonavi.minimap/com.autonavi.map.activity.SplashActivity}" drawable="amap"/>
+    <item component="ComponentInfo{com.taobao.idlefish/com.taobao.fleamarket.home.activity.InitActivity}" drawable="xianyu"/>
+    <item component="ComponentInfo{com.MobileTicket/com.alipay.mobile.quinox.LauncherActivity}" drawable="the12306"/>
+    <item component="ComponentInfo{com.baidu.netdisk/com.baidu.netdisk.ui.Navigate}" drawable="baidu_netdisk"/>
+    <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
+    <item component="ComponentInfo{org.thunderdog.challegram/org.thunderdog.challegram.MainActivity}" drawable="telegram_x" />
+    <item component="ComponentInfo{com.sina.weibo/com.sina.weibo.SplashActivity}" drawable="weibo" />
 
 
 
