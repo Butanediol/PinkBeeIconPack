@@ -40,16 +40,19 @@
       <item drawable="voice_recorder" />
 
     <category title="New" />
-      <item drawable="amap" />
-      <item drawable="baidu_netdisk" />
-      <item drawable="ehviewer" />
-      <item drawable="iconmask" />
-      <item drawable="nekogram" />
-      <item drawable="telegram" />
-      <item drawable="telegram_x" />
-      <item drawable="the12306" />
-      <item drawable="weibo" />
-      <item drawable="xianyu" />
+      <item drawable="actions_services" />
+      <item drawable="amazon_kindle" />
+      <item drawable="app_ops" />
+      <item drawable="appsales" />
+      <item drawable="automate" />
+      <item drawable="balance" />
+      <item drawable="bilibili" />
+      <item drawable="blocker" />
+      <item drawable="boc" />
+      <item drawable="ctrip" />
+      <item drawable="taobao" />
+      <item drawable="v2rayng" />
+      <item drawable="zhihu_daily" />
 
     <category title="Google" />
       <item drawable="chrome" />
@@ -57,12 +60,21 @@
       <item drawable="google_play" />
 
     <category title="All" />
+      <item drawable="actions_services" />
       <item drawable="adguard_content_blocker" />
       <item drawable="adm_pro" />
       <item drawable="alipay" />
       <item drawable="amap" />
+      <item drawable="amazon_kindle" />
+      <item drawable="app_ops" />
       <item drawable="apple_music" />
+      <item drawable="appsales" />
+      <item drawable="automate" />
       <item drawable="baidu_netdisk" />
+      <item drawable="balance" />
+      <item drawable="bilibili" />
+      <item drawable="blocker" />
+      <item drawable="boc" />
       <item drawable="browser" />
       <item drawable="calculator" />
       <item drawable="camera" />
@@ -72,6 +84,7 @@
       <item drawable="clock" />
       <item drawable="contacts" />
       <item drawable="coolapk" />
+      <item drawable="ctrip" />
       <item drawable="dialer" />
       <item drawable="download" />
       <item drawable="duolingo" />
@@ -80,7 +93,6 @@
       <item drawable="gallery" />
       <item drawable="google" />
       <item drawable="google_play" />
-      <item drawable="iconmask" />
       <item drawable="jd" />
       <item drawable="magisk_manager" />
       <item drawable="meeye" />
@@ -97,15 +109,18 @@
       <item drawable="share" />
       <item drawable="sim1_tool" />
       <item drawable="sim2_tool" />
+      <item drawable="taobao" />
       <item drawable="telegram" />
       <item drawable="telegram_x" />
       <item drawable="the12306" />
       <item drawable="thunder" />
       <item drawable="tim" />
       <item drawable="twitter" />
+      <item drawable="v2rayng" />
       <item drawable="voice_recorder" />
       <item drawable="wechat" />
       <item drawable="weibo" />
       <item drawable="xianyu" />
       <item drawable="zhihu" />
+      <item drawable="zhihu_daily" />
 </resources>

@@ -291,7 +291,19 @@
     <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
     <item component="ComponentInfo{org.thunderdog.challegram/org.thunderdog.challegram.MainActivity}" drawable="telegram_x" />
     <item component="ComponentInfo{com.sina.weibo/com.sina.weibo.SplashActivity}" drawable="weibo" />
-
+    <item component="ComponentInfo{com.v2ray.ang/com.v2ray.ang.ui.MainActivity}" drawable="v2rayng"/>
+    <item component="ComponentInfo{com.chinamworld.bocmbci/com.boc.bocsoft.mobile.bocmobile.buss.system.splash.SplashActivity}" drawable="boc"/>
+    <item component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.ui.splash.SplashActivity}" drawable="bilibili"/>
+    <item component="ComponentInfo{com.taobao.taobao/com.taobao.tao.welcome.Welcome}" drawable="taobao"/>
+    <item component="ComponentInfo{ctrip.android.view/ctrip.business.splash.CtripSplashActivity}" drawable="ctrip"/>
+    <item component="ComponentInfo{com.zhihu.daily.android/com.zhihu.daily.android.activity.MainActivity_}" drawable="zhihu_daily"/>
+    <item component="ComponentInfo{com.google.android.as/com.google.android.apps.miphone.aiai.allapps.main.MainDummyActivity}" drawable="actions_services"/>
+    <item component="ComponentInfo{com.amazon.kindle/com.amazon.kindle.UpgradePage}" drawable="amazon_kindle"/>
+    <item component="ComponentInfo{net.tsapps.appsales/net.tsapps.appsales.MainActivity}" drawable="appsales"/>
+    <item component="ComponentInfo{rikka.appops/rikka.appops.SplashActivity}" drawable="app_ops"/>
+    <item component="ComponentInfo{com.llamalab.automate/com.llamalab.automate.FlowListActivity}" drawable="automate"/>
+    <item component="ComponentInfo{com.runtastic.android.balance.lite/com.runtastic.android.appstart.StartActivity}" drawable="balance"/>
+    <item component="ComponentInfo{com.merxury.blocker/com.merxury.blocker.ui.home.HomeActivity}" drawable="blocker"/>
 
 
 
