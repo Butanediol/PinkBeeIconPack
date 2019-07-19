@@ -31,13 +31,16 @@
         <item>chrome</item>
         <item>contacts</item>
         <item>dialer</item>
+        <item>dingding</item>
         <item>download</item>
         <item>duolingo</item>
         <item>ehviewer</item>
+        <item>everphoto</item>
         <item>files</item>
         <item>gallery</item>
         <item>google</item>
         <item>google_play</item>
+        <item>hhw</item>
         <item>jd</item>
         <item>magisk_manager</item>
         <item>message</item>
@@ -55,9 +58,12 @@
         <item>telegram_x</item>
         <item>the12306</item>
         <item>thunder</item>
+        <item>tik_tok</item>
         <item>voice_recorder</item>
         <item>weibo</item>
+        <item>wzry</item>
         <item>xianyu</item>
+        <item>zuiyou</item>
     </string-array>
 
     <!-- These sections below are for your "Previews" section -->
@@ -86,13 +92,16 @@
         <item>contacts</item>
         <item>coolapk</item>
         <item>dialer</item>
+        <item>dingding</item>
         <item>download</item>
         <item>duolingo</item>
         <item>ehviewer</item>
+        <item>everphoto</item>
         <item>files</item>
         <item>gallery</item>
         <item>google</item>
         <item>google_play</item>
+        <item>hhw</item>
         <item>jd</item>
         <item>magisk_manager</item>
         <item>meeye</item>
@@ -113,13 +122,16 @@
         <item>telegram_x</item>
         <item>the12306</item>
         <item>thunder</item>
+        <item>tik_tok</item>
         <item>tim</item>
         <item>twitter</item>
         <item>voice_recorder</item>
         <item>wechat</item>
         <item>weibo</item>
+        <item>wzry</item>
         <item>xianyu</item>
         <item>zhihu</item>
+        <item>zuiyou</item>
     </string-array>
 
 </resources>

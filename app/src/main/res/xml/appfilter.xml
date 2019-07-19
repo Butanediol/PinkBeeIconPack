@@ -304,7 +304,13 @@
     <item component="ComponentInfo{com.llamalab.automate/com.llamalab.automate.FlowListActivity}" drawable="automate"/>
     <item component="ComponentInfo{com.runtastic.android.balance.lite/com.runtastic.android.appstart.StartActivity}" drawable="balance"/>
     <item component="ComponentInfo{com.merxury.blocker/com.merxury.blocker.ui.home.HomeActivity}" drawable="blocker"/>
-
+    <item component="ComponentInfo{com.alibaba.android.rimet/com.alibaba.android.rimet.biz.SplashActivity}" drawable="dingding"/>   
+    <item component="ComponentInfo{com.shanghailvbing.hhw.mz/com.platform.main.MainActivity}" drawable="hhw"/>  
+    <item component="ComponentInfo{com.shanghailvbing.hhw.azsy/com.platform.main.MainActivity}" drawable="hhw"/>    
+    <item component="ComponentInfo{com.tencent.tmgp.sgame/com.tencent.tmgp.sgame.SGameActivity}" drawable="wzry"/>  
+    <item component="ComponentInfo{cn.xiaochuankeji.tieba/cn.xiaochuankeji.tieba.ui.base.SplashActivity}" drawable="zuiyou"/>   
+    <item component="ComponentInfo{tc.everphoto/everphoto.ui.feature.splash.SplashActivity}" drawable="everphoto"/>     
+    <item component="ComponentInfo{com.ss.android.ugc.awemd/com.stub.plugin.Stub01}" drawable="tik_tok"/> 
 
 
 

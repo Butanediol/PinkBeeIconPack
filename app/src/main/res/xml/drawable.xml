@@ -40,24 +40,21 @@
       <item drawable="voice_recorder" />
 
     <category title="New" />
-      <item drawable="actions_services" />
-      <item drawable="amazon_kindle" />
-      <item drawable="app_ops" />
-      <item drawable="appsales" />
-      <item drawable="automate" />
-      <item drawable="balance" />
-      <item drawable="bilibili" />
-      <item drawable="blocker" />
-      <item drawable="boc" />
-      <item drawable="ctrip" />
-      <item drawable="taobao" />
-      <item drawable="v2rayng" />
-      <item drawable="zhihu_daily" />
+      <item drawable="dingding" />
+      <item drawable="everphoto" />
+      <item drawable="hhw" />
+      <item drawable="tik_tok" />
+      <item drawable="wzry" />
+      <item drawable="zuiyou" />
 
     <category title="Google" />
       <item drawable="chrome" />
       <item drawable="google" />
       <item drawable="google_play" />
+
+    <category title="Games" />
+      <item drawable="hhw" />
+      <item drawable="wzry" />
 
     <category title="All" />
       <item drawable="actions_services" />
@@ -86,13 +83,16 @@
       <item drawable="coolapk" />
       <item drawable="ctrip" />
       <item drawable="dialer" />
+      <item drawable="dingding" />
       <item drawable="download" />
       <item drawable="duolingo" />
       <item drawable="ehviewer" />
+      <item drawable="everphoto" />
       <item drawable="files" />
       <item drawable="gallery" />
       <item drawable="google" />
       <item drawable="google_play" />
+      <item drawable="hhw" />
       <item drawable="jd" />
       <item drawable="magisk_manager" />
       <item drawable="meeye" />
@@ -114,13 +114,16 @@
       <item drawable="telegram_x" />
       <item drawable="the12306" />
       <item drawable="thunder" />
+      <item drawable="tik_tok" />
       <item drawable="tim" />
       <item drawable="twitter" />
       <item drawable="v2rayng" />
       <item drawable="voice_recorder" />
       <item drawable="wechat" />
       <item drawable="weibo" />
+      <item drawable="wzry" />
       <item drawable="xianyu" />
       <item drawable="zhihu" />
       <item drawable="zhihu_daily" />
+      <item drawable="zuiyou" />
 </resources>
