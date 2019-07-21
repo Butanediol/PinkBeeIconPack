@@ -41,21 +41,21 @@
       <item drawable="voice_recorder" />
 
     <category title="New" />
-      <item drawable="baidu_input" />
-      <item drawable="firefox" />
-      <item drawable="mail" />
-      <item drawable="mixplorer" />
-      <item drawable="moo_music" />
+      <item drawable="airfrozen" />
+      <item drawable="bmap" />
+      <item drawable="card_package" />
+      <item drawable="file_manager" />
+      <item drawable="laowang_¦Í¦Ñ¦Ç" />
+      <item drawable="meituan" />
       <item drawable="myandroidtools" />
-      <item drawable="outlook" />
+      <item drawable="oneplus_bbs" />
+      <item drawable="oneplus_market" />
+      <item drawable="oneplus_switch" />
       <item drawable="paypal" />
-      <item drawable="picsart" />
-      <item drawable="ps_cc" />
-      <item drawable="sdmaid" />
-      <item drawable="shouji_market" />
-      <item drawable="ssr" />
-      <item drawable="steam" />
-      <item drawable="via" />
+      <item drawable="see" />
+      <item drawable="taichi" />
+      <item drawable="xbrowser" />
+      <item drawable="zhiyoo" />
 
     <category title="Google" />
       <item drawable="chrome" />
@@ -66,6 +66,13 @@
       <item drawable="baidu_input" />
       <item drawable="baidu_netdisk" />
 
+    <category title="OnePlus" />
+      <item drawable="card_package" />
+      <item drawable="file_manager" />
+      <item drawable="oneplus_bbs" />
+      <item drawable="oneplus_market" />
+      <item drawable="oneplus_switch" />
+
     <category title="Games" />
       <item drawable="hhw" />
       <item drawable="wzry" />
@@ -74,6 +81,7 @@
       <item drawable="actions_services" />
       <item drawable="adguard_content_blocker" />
       <item drawable="adm_pro" />
+      <item drawable="airfrozen" />
       <item drawable="alipay" />
       <item drawable="amap" />
       <item drawable="amazon_kindle" />
@@ -86,11 +94,13 @@
       <item drawable="balance" />
       <item drawable="bilibili" />
       <item drawable="blocker" />
+      <item drawable="bmap" />
       <item drawable="boc" />
       <item drawable="browser" />
       <item drawable="calculator" />
       <item drawable="camera" />
       <item drawable="canva" />
+      <item drawable="card_package" />
       <item drawable="china_daily" />
       <item drawable="chrome" />
       <item drawable="clock" />
@@ -103,6 +113,7 @@
       <item drawable="duolingo" />
       <item drawable="ehviewer" />
       <item drawable="everphoto" />
+      <item drawable="file_manager" />
       <item drawable="files" />
       <item drawable="firefox" />
       <item drawable="gallery" />
@@ -110,9 +121,11 @@
       <item drawable="google_play" />
       <item drawable="hhw" />
       <item drawable="jd" />
+      <item drawable="laowang_¦Í¦Ñ¦Ç" />
       <item drawable="magisk_manager" />
       <item drawable="mail" />
       <item drawable="meeye" />
+      <item drawable="meituan" />
       <item drawable="message" />
       <item drawable="mi_fit" />
       <item drawable="mixplorer" />
@@ -121,6 +134,9 @@
       <item drawable="nekogram" />
       <item drawable="netease_cloudmusic" />
       <item drawable="note" />
+      <item drawable="oneplus_bbs" />
+      <item drawable="oneplus_market" />
+      <item drawable="oneplus_switch" />
       <item drawable="outlook" />
       <item drawable="paypal" />
       <item drawable="pic_acg" />
@@ -130,6 +146,7 @@
       <item drawable="qq_browser" />
       <item drawable="screen_recorder" />
       <item drawable="sdmaid" />
+      <item drawable="see" />
       <item drawable="settings" />
       <item drawable="share" />
       <item drawable="shouji_market" />
@@ -137,6 +154,7 @@
       <item drawable="sim2_tool" />
       <item drawable="ssr" />
       <item drawable="steam" />
+      <item drawable="taichi" />
       <item drawable="taobao" />
       <item drawable="telegram" />
       <item drawable="telegram_x" />
@@ -151,8 +169,10 @@
       <item drawable="wechat" />
       <item drawable="weibo" />
       <item drawable="wzry" />
+      <item drawable="xbrowser" />
       <item drawable="xianyu" />
       <item drawable="zhihu" />
       <item drawable="zhihu_daily" />
+      <item drawable="zhiyoo" />
       <item drawable="zuiyou" />
 </resources>

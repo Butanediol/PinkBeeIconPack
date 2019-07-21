@@ -21,13 +21,16 @@
     <string-array name="icons_preview">
         <item>adguard_content_blocker</item>
         <item>adm_pro</item>
+        <item>airfrozen</item>
         <item>amap</item>
         <item>baidu_input</item>
         <item>baidu_netdisk</item>
+        <item>bmap</item>
         <item>browser</item>
         <item>calculator</item>
         <item>camera</item>
         <item>canva</item>
+        <item>card_package</item>
         <item>china_daily</item>
         <item>chrome</item>
         <item>contacts</item>
@@ -37,6 +40,7 @@
         <item>duolingo</item>
         <item>ehviewer</item>
         <item>everphoto</item>
+        <item>file_manager</item>
         <item>files</item>
         <item>firefox</item>
         <item>gallery</item>
@@ -44,16 +48,23 @@
         <item>google_play</item>
         <item>hhw</item>
         <item>jd</item>
+        <item>laowang_νρη</item>
         <item>magisk_manager</item>
         <item>mail</item>
+        <item>meituan</item>
         <item>message</item>
         <item>mi_fit</item>
         <item>mixplorer</item>
         <item>moo_music</item>
         <item>myandroidtools</item>
+        <item>myandroidtools</item>
         <item>nekogram</item>
         <item>note</item>
+        <item>oneplus_bbs</item>
+        <item>oneplus_market</item>
+        <item>oneplus_switch</item>
         <item>outlook</item>
+        <item>paypal</item>
         <item>paypal</item>
         <item>pic_acg</item>
         <item>picsart</item>
@@ -61,6 +72,7 @@
         <item>qq_browser</item>
         <item>screen_recorder</item>
         <item>sdmaid</item>
+        <item>see</item>
         <item>settings</item>
         <item>share</item>
         <item>shouji_market</item>
@@ -68,6 +80,7 @@
         <item>sim2_tool</item>
         <item>ssr</item>
         <item>steam</item>
+        <item>taichi</item>
         <item>telegram</item>
         <item>telegram_x</item>
         <item>the12306</item>
@@ -77,7 +90,9 @@
         <item>voice_recorder</item>
         <item>weibo</item>
         <item>wzry</item>
+        <item>xbrowser</item>
         <item>xianyu</item>
+        <item>zhiyoo</item>
         <item>zuiyou</item>
     </string-array>
 
@@ -93,15 +108,18 @@
     <string-array name="all">
         <item>adguard_content_blocker</item>
         <item>adm_pro</item>
+        <item>airfrozen</item>
         <item>alipay</item>
         <item>amap</item>
         <item>apple_music</item>
         <item>baidu_input</item>
         <item>baidu_netdisk</item>
+        <item>bmap</item>
         <item>browser</item>
         <item>calculator</item>
         <item>camera</item>
         <item>canva</item>
+        <item>card_package</item>
         <item>china_daily</item>
         <item>chrome</item>
         <item>clock</item>
@@ -113,6 +131,7 @@
         <item>duolingo</item>
         <item>ehviewer</item>
         <item>everphoto</item>
+        <item>file_manager</item>
         <item>files</item>
         <item>firefox</item>
         <item>gallery</item>
@@ -120,18 +139,25 @@
         <item>google_play</item>
         <item>hhw</item>
         <item>jd</item>
+        <item>laowang_νρη</item>
         <item>magisk_manager</item>
         <item>mail</item>
         <item>meeye</item>
+        <item>meituan</item>
         <item>message</item>
         <item>mi_fit</item>
         <item>mixplorer</item>
         <item>moo_music</item>
         <item>myandroidtools</item>
+        <item>myandroidtools</item>
         <item>nekogram</item>
         <item>netease_cloudmusic</item>
         <item>note</item>
+        <item>oneplus_bbs</item>
+        <item>oneplus_market</item>
+        <item>oneplus_switch</item>
         <item>outlook</item>
+        <item>paypal</item>
         <item>paypal</item>
         <item>pic_acg</item>
         <item>picsart</item>
@@ -140,6 +166,7 @@
         <item>qq_browser</item>
         <item>screen_recorder</item>
         <item>sdmaid</item>
+        <item>see</item>
         <item>settings</item>
         <item>share</item>
         <item>shouji_market</item>
@@ -147,6 +174,7 @@
         <item>sim2_tool</item>
         <item>ssr</item>
         <item>steam</item>
+        <item>taichi</item>
         <item>telegram</item>
         <item>telegram_x</item>
         <item>the12306</item>
@@ -159,8 +187,10 @@
         <item>wechat</item>
         <item>weibo</item>
         <item>wzry</item>
+        <item>xbrowser</item>
         <item>xianyu</item>
         <item>zhihu</item>
+        <item>zhiyoo</item>
         <item>zuiyou</item>
     </string-array>
 

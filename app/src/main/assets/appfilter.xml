@@ -327,7 +327,20 @@
     <item component="ComponentInfo{eu.thedarken.sdm/eu.thedarken.sdm.main.ui.SDMMainActivity}" drawable="sd_maid"/>
     <item component="ComponentInfo{in.zhaoj.shadowsocksr/com.github.shadowsocks.Shadowsocks}" drawable="ssr"/>
     <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="steam"/>
-
+    <item component="ComponentInfo{me.yourbay.airfrozen/me.yourbay.airfrozen.main.uimodule.Launcher}" drawable="airfrozen"/>
+    <item component="ComponentInfo{me.gfuil.bmap/me.gfuil.bmap.StartActivity}" drawable="bmap"/>
+    <item component="ComponentInfo{com.sankuai.meituan/com.meituan.android.pt.homepage.activity.Welcome}" drawable="meituan"/>
+    <item component="ComponentInfo{com.caij.see/com.caij.see.ui.activity.SplashActivity}" drawable="see"/>
+    <item component="ComponentInfo{me.weishu.exp/me.weishu.exp.ui.MainActivity}" drawable="taichi"/>
+    <item component="ComponentInfo{com.mmbox.xbrowser/com.mmbox.xbrowser.BrowserActivity}" drawable="xbrowser"/>
+    <item component="ComponentInfo{com.findtheway/com.findtheway.activity.MainActivity}" drawable="laowang_vpn"/>
+    <item component="ComponentInfo{com.nearme.browser/com.android.browser.BrowserActivity}" drawable="browser"/>
+    <item component="ComponentInfo{com.oneplus.card/com.oneplus.card.entity.activity.CardlistActivity}" drawable="card_package"/>
+    <item component="ComponentInfo{com.oneplus.filemanager/com.oneplus.filemanager.HomePageActivity}" drawable="file_manager"/>
+    <item component="ComponentInfo{com.oppo.market/com.oppo.market.activity.MainActivity}" drawable="oneplus_market"/>
+    <item component="ComponentInfo{com.oneplus.backuprestore/com.oneplus.backuprestore.activity.BootActivity}" drawable="oneplus_switch"/>
+    <item component="ComponentInfo{com.oneplus.bbs/com.oneplus.bbs.ui.activity.PreStartActivity}" drawable="oneplus_bbs"/>
+    <item component="ComponentInfo{com.zhiyoo/com.zhiyoo.ui.MainActivity}" drawable="zhiyoo"/>
 
 
 
