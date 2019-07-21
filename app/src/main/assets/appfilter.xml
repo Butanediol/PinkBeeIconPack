@@ -311,7 +311,22 @@
     <item component="ComponentInfo{cn.xiaochuankeji.tieba/cn.xiaochuankeji.tieba.ui.base.SplashActivity}" drawable="zuiyou"/>   
     <item component="ComponentInfo{tc.everphoto/everphoto.ui.feature.splash.SplashActivity}" drawable="everphoto"/>     
     <item component="ComponentInfo{com.ss.android.ugc.awemd/com.stub.plugin.Stub01}" drawable="tik_tok"/> 
-
+    <item component="ComponentInfo{air.com.adobe.pstouchphone/air.com.adobe.pstouchphone.AppEntry}" drawable="ps_cc"/>  
+    <item component="ComponentInfo{com.picsart.studio/com.socialin.android.photo.picsinphoto.MainPagerActivity}" drawable="picsart"/>   
+    <item component="ComponentInfo{mark.via/mark.via.ui.activity.BrowserActivity}" drawable="via"/> 
+    <item component="ComponentInfo{cn.com.shouji.market/cn.com.shouji.market.LogoActivity}" drawable="shouji_market"/>
+    <item component="ComponentInfo{com.samsung.android.email.provider/com.samsung.android.email.ui.activity.MessageListXL}" drawable="email"/>
+    <item component="ComponentInfo{com.tencent.blackkey/com.tencent.blackkey.frontend.adapters.sap.ApplicationActivity}" drawable="moo_music"/>
+    <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="mixplorer"/>
+    <item component="ComponentInfo{cn.wq.myandroidtools/cn.wq.myandroidtoolspro.MainActivity}" drawable="myandroidtools"/>
+    <item component="ComponentInfo{mark.via/mark.via.ui.activity.BrowserActivity}" drawable="via"/>
+    <item component="ComponentInfo{com.baidu.input/com.baidu.input.ImeAppMainActivity}" drawable="baidu_input"/>
+    <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox"/>
+    <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="outlook"/>
+    <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal"/>
+    <item component="ComponentInfo{eu.thedarken.sdm/eu.thedarken.sdm.main.ui.SDMMainActivity}" drawable="sd_maid"/>
+    <item component="ComponentInfo{in.zhaoj.shadowsocksr/com.github.shadowsocks.Shadowsocks}" drawable="ssr"/>
+    <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="steam"/>
 
 
 

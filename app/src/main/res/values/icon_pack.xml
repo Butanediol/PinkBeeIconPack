@@ -22,6 +22,7 @@
         <item>adguard_content_blocker</item>
         <item>adm_pro</item>
         <item>amap</item>
+        <item>baidu_input</item>
         <item>baidu_netdisk</item>
         <item>browser</item>
         <item>calculator</item>
@@ -37,28 +38,42 @@
         <item>ehviewer</item>
         <item>everphoto</item>
         <item>files</item>
+        <item>firefox</item>
         <item>gallery</item>
         <item>google</item>
         <item>google_play</item>
         <item>hhw</item>
         <item>jd</item>
         <item>magisk_manager</item>
+        <item>mail</item>
         <item>message</item>
         <item>mi_fit</item>
+        <item>mixplorer</item>
+        <item>moo_music</item>
+        <item>myandroidtools</item>
         <item>nekogram</item>
         <item>note</item>
+        <item>outlook</item>
+        <item>paypal</item>
         <item>pic_acg</item>
+        <item>picsart</item>
+        <item>ps_cc</item>
         <item>qq_browser</item>
         <item>screen_recorder</item>
+        <item>sdmaid</item>
         <item>settings</item>
         <item>share</item>
+        <item>shouji_market</item>
         <item>sim1_tool</item>
         <item>sim2_tool</item>
+        <item>ssr</item>
+        <item>steam</item>
         <item>telegram</item>
         <item>telegram_x</item>
         <item>the12306</item>
         <item>thunder</item>
         <item>tik_tok</item>
+        <item>via</item>
         <item>voice_recorder</item>
         <item>weibo</item>
         <item>wzry</item>
@@ -81,6 +96,7 @@
         <item>alipay</item>
         <item>amap</item>
         <item>apple_music</item>
+        <item>baidu_input</item>
         <item>baidu_netdisk</item>
         <item>browser</item>
         <item>calculator</item>
@@ -98,26 +114,39 @@
         <item>ehviewer</item>
         <item>everphoto</item>
         <item>files</item>
+        <item>firefox</item>
         <item>gallery</item>
         <item>google</item>
         <item>google_play</item>
         <item>hhw</item>
         <item>jd</item>
         <item>magisk_manager</item>
+        <item>mail</item>
         <item>meeye</item>
         <item>message</item>
         <item>mi_fit</item>
+        <item>mixplorer</item>
+        <item>moo_music</item>
+        <item>myandroidtools</item>
         <item>nekogram</item>
         <item>netease_cloudmusic</item>
         <item>note</item>
+        <item>outlook</item>
+        <item>paypal</item>
         <item>pic_acg</item>
+        <item>picsart</item>
+        <item>ps_cc</item>
         <item>qq</item>
         <item>qq_browser</item>
         <item>screen_recorder</item>
+        <item>sdmaid</item>
         <item>settings</item>
         <item>share</item>
+        <item>shouji_market</item>
         <item>sim1_tool</item>
         <item>sim2_tool</item>
+        <item>ssr</item>
+        <item>steam</item>
         <item>telegram</item>
         <item>telegram_x</item>
         <item>the12306</item>
@@ -125,6 +154,7 @@
         <item>tik_tok</item>
         <item>tim</item>
         <item>twitter</item>
+        <item>via</item>
         <item>voice_recorder</item>
         <item>wechat</item>
         <item>weibo</item>

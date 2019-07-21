@@ -15,10 +15,9 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="Beta 0.4" />
+    <version title="Beta 0.5" />
     <item text="再次见面，请多关照！" />
     <item text="每天三次，每次七个，救救开发者的头发！" />
-    <item text="求你们发点申请吧，我都不知道画什么了。" />
     <item text="本次更新请切换到图标浏览页，点击筛选，选择 New 标签" />
     <item text="加入 Telegram 群组: https://t.me/joinchat/Dyb9qUal8Vwx2-7kFk9NcQ" /> <!-- this one is empty and therefore ignored -->
 </resources>
