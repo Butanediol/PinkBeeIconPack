@@ -73,6 +73,10 @@
       <item drawable="oneplus_market" />
       <item drawable="oneplus_switch" />
 
+    <category title="Xperia" />
+      <item drawable="fm_radio" />
+      <item drawable="sony_music" />
+
     <category title="Games" />
       <item drawable="hhw" />
       <item drawable="wzry" />
@@ -85,6 +89,8 @@
       <item drawable="alipay" />
       <item drawable="amap" />
       <item drawable="amazon_kindle" />
+      <item drawable="amazon_shopping" />
+      <item drawable="apkpure" />
       <item drawable="app_ops" />
       <item drawable="apple_music" />
       <item drawable="appsales" />
@@ -116,12 +122,15 @@
       <item drawable="file_manager" />
       <item drawable="files" />
       <item drawable="firefox" />
+      <item drawable="fm_radio" />
       <item drawable="gallery" />
       <item drawable="google" />
       <item drawable="google_play" />
+      <item drawable="greenline_guahao" />
       <item drawable="hhw" />
       <item drawable="jd" />
-      <item drawable="laowang_�ͦѦ�" />
+      <item drawable="jiemian_news" />
+      <item drawable="laowang_vpn" />
       <item drawable="magisk_manager" />
       <item drawable="mail" />
       <item drawable="meeye" />
@@ -130,6 +139,7 @@
       <item drawable="mi_fit" />
       <item drawable="mixplorer" />
       <item drawable="moo_music" />
+      <item drawable="mx_player" />
       <item drawable="myandroidtools" />
       <item drawable="nekogram" />
       <item drawable="netease_cloudmusic" />
@@ -152,6 +162,7 @@
       <item drawable="shouji_market" />
       <item drawable="sim1_tool" />
       <item drawable="sim2_tool" />
+      <item drawable="sony_music" />
       <item drawable="ssr" />
       <item drawable="steam" />
       <item drawable="taichi" />
@@ -162,6 +173,7 @@
       <item drawable="thunder" />
       <item drawable="tik_tok" />
       <item drawable="tim" />
+      <item drawable="titanium_backup" />
       <item drawable="twitter" />
       <item drawable="v2rayng" />
       <item drawable="via" />
