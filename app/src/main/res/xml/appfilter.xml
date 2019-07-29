@@ -353,6 +353,27 @@
     <item component="ComponentInfo{com.sonymobile.email/com.sonymobile.email.activity.Welcome}" drawable="mail"/>
     <item component="ComponentInfo{com.sonyericsson.fmradio/com.sonyericsson.fmradio.ui.FmRadioActivity}" drawable="fm_radio"/>
     <item component="ComponentInfo{com.sonyericsson.music/com.sonyericsson.music.MusicActivity}" drawable="sony_music"/>
+    <item component="ComponentInfo{com.colanotes.android/com.colanotes.android.activity.LaunchActivity}" drawable="colanotes"/>
+    <item component="ComponentInfo{com.estrongs.android.pop.pro/com.estrongs.android.pop.view.FileExplorerActivity}" drawable="es_file_explorer_pro"/>
+    <item component="ComponentInfo{com.foobnix.pro.pdf.reader/com.foobnix.ui2.MainTabs2}" drawable="librera_pro"/>
+    <item component="ComponentInfo{bin.mt.plus/bin.mt.plus.Main}" drawable="mt_manager"/>
+    <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityWelcomeMX}" drawable="mx_player"/>
+    <item component="ComponentInfo{com.flyersoft.moonreaderp/com.flyersoft.moonreaderp.ActivityMain}" drawable="moon_reader_pro"/>
+    <item component="ComponentInfo{ru.alexandermalikov.protectednotes/ru.alexandermalikov.protectednotes.SplashActivity}" drawable="private_notepad"/>
+    <item component="ComponentInfo{com.kabouzeid.gramophone/com.kabouzeid.gramophone.ui.activities.MainActivity}" drawable="phonograph"/>
+    <item component="ComponentInfo{io.moreless.tide/io.moreless.tide.play.PlayActivity}" drawable="tide"/>
+    <item component="ComponentInfo{com.plan.kot32.tomatotime/com.plan.kot32.tomatotime.activity.SplashActivity}" drawable="tomatodo"/>
+    <item component="ComponentInfo{cn.com.langeasy.LangEasyLexis/cn.com.langeasy.LangEasyLexis.activity.SplashActivity}" drawable="langeasy"/>
+    <item component="ComponentInfo{com.quark.browser/com.ucpro.MainActivity}" drawable="quark"/>
+    <item component="ComponentInfo{com.eusoft.eudic/com.eusoft.dict.activity.SplashActivity}" drawable="eudic"/>
+    <item component="ComponentInfo{cn.com.langeasy.EasyListen/cn.com.langeasy.LangEasyLrc.ui.SplashActivity}" drawable="easylisten"/>
+    <item component="ComponentInfo{com.apkpure.aegon/com.apkpure.aegon.main.activity.SplashActivity}" drawable="apkpure"/>
+    <item component="ComponentInfo{com.cleanmaster.mguard/com.keniu.security.main.MainActivity}" drawable="clean_master"/>
+    <item component="ComponentInfo{com.speedsoftware.rootexplorer/com.speedsoftware.rootexplorer.RootExplorer}" drawable="root_explorer"/>
+    <item component="ComponentInfo{com.tencent.weread/com.tencent.weread.LauncherActivity}" drawable="weread"/>
+    <item component="ComponentInfo{com.doudoubird.weather/com.doudoubird.weather.StartActivity}" drawable="doudoubird_weather"/>
+    <item component="ComponentInfo{android.zhibo8/android.zhibo8.ui.contollers.main.LaunchActivity}" drawable="zhibo8"/>
+    <item component="ComponentInfo{com.yuanwofei.greenmusic/com.yuanwofei.music.activity.MainActivity}" drawable="greenmusic"/>
 
 
 

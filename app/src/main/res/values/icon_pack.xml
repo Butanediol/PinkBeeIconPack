@@ -24,6 +24,8 @@
         <item>airfrozen</item>
         <item>amap</item>
         <item>amazon_shopping</item>
+        <item>amazon_shopping</item>
+        <item>apkpure</item>
         <item>apkpure</item>
         <item>baidu_input</item>
         <item>baidu_netdisk</item>
@@ -35,25 +37,37 @@
         <item>card_package</item>
         <item>china_daily</item>
         <item>chrome</item>
+        <item>clean_master</item>
+        <item>colanotes</item>
         <item>contacts</item>
         <item>dialer</item>
         <item>dingding</item>
+        <item>doudoubird_weather</item>
         <item>download</item>
         <item>duolingo</item>
+        <item>easylisten</item>
         <item>ehviewer</item>
+        <item>es_file_explorer_pro</item>
+        <item>eudic</item>
         <item>everphoto</item>
         <item>file_manager</item>
         <item>files</item>
         <item>firefox</item>
         <item>fm_radio</item>
+        <item>fm_radio</item>
         <item>gallery</item>
         <item>google</item>
         <item>google_play</item>
         <item>greenline_guahao</item>
+        <item>greenline_guahao</item>
+        <item>greenmusic</item>
         <item>hhw</item>
         <item>jd</item>
         <item>jiemian_news</item>
+        <item>jiemian_news</item>
+        <item>langeasy</item>
         <item>laowang_vpn</item>
+        <item>librera_pro</item>
         <item>magisk_manager</item>
         <item>mail</item>
         <item>meituan</item>
@@ -61,6 +75,9 @@
         <item>mi_fit</item>
         <item>mixplorer</item>
         <item>moo_music</item>
+        <item>moon_reader_pro</item>
+        <item>mt_manager</item>
+        <item>mx_player</item>
         <item>mx_player</item>
         <item>myandroidtools</item>
         <item>myandroidtools</item>
@@ -72,10 +89,14 @@
         <item>outlook</item>
         <item>paypal</item>
         <item>paypal</item>
+        <item>phonograph</item>
         <item>pic_acg</item>
         <item>picsart</item>
+        <item>private_notepad</item>
         <item>ps_cc</item>
         <item>qq_browser</item>
+        <item>quark</item>
+        <item>root_explorer</item>
         <item>screen_recorder</item>
         <item>sdmaid</item>
         <item>see</item>
@@ -85,6 +106,7 @@
         <item>sim1_tool</item>
         <item>sim2_tool</item>
         <item>sony_music</item>
+        <item>sony_music</item>
         <item>ssr</item>
         <item>steam</item>
         <item>taichi</item>
@@ -92,14 +114,19 @@
         <item>telegram_x</item>
         <item>the12306</item>
         <item>thunder</item>
+        <item>tide</item>
         <item>tik_tok</item>
         <item>titanium_backup</item>
+        <item>titanium_backup</item>
+        <item>tomatodo</item>
         <item>via</item>
         <item>voice_recorder</item>
         <item>weibo</item>
+        <item>weread</item>
         <item>wzry</item>
         <item>xbrowser</item>
         <item>xianyu</item>
+        <item>zhibo8</item>
         <item>zhiyoo</item>
         <item>zuiyou</item>
     </string-array>
@@ -120,6 +147,8 @@
         <item>alipay</item>
         <item>amap</item>
         <item>amazon_shopping</item>
+        <item>amazon_shopping</item>
+        <item>apkpure</item>
         <item>apkpure</item>
         <item>apple_music</item>
         <item>baidu_input</item>
@@ -132,27 +161,39 @@
         <item>card_package</item>
         <item>china_daily</item>
         <item>chrome</item>
+        <item>clean_master</item>
         <item>clock</item>
+        <item>colanotes</item>
         <item>contacts</item>
         <item>coolapk</item>
         <item>dialer</item>
         <item>dingding</item>
+        <item>doudoubird_weather</item>
         <item>download</item>
         <item>duolingo</item>
+        <item>easylisten</item>
         <item>ehviewer</item>
+        <item>es_file_explorer_pro</item>
+        <item>eudic</item>
         <item>everphoto</item>
         <item>file_manager</item>
         <item>files</item>
         <item>firefox</item>
         <item>fm_radio</item>
+        <item>fm_radio</item>
         <item>gallery</item>
         <item>google</item>
         <item>google_play</item>
         <item>greenline_guahao</item>
+        <item>greenline_guahao</item>
+        <item>greenmusic</item>
         <item>hhw</item>
         <item>jd</item>
         <item>jiemian_news</item>
+        <item>jiemian_news</item>
+        <item>langeasy</item>
         <item>laowang_vpn</item>
+        <item>librera_pro</item>
         <item>magisk_manager</item>
         <item>mail</item>
         <item>meeye</item>
@@ -161,6 +202,9 @@
         <item>mi_fit</item>
         <item>mixplorer</item>
         <item>moo_music</item>
+        <item>moon_reader_pro</item>
+        <item>mt_manager</item>
+        <item>mx_player</item>
         <item>mx_player</item>
         <item>myandroidtools</item>
         <item>myandroidtools</item>
@@ -173,11 +217,15 @@
         <item>outlook</item>
         <item>paypal</item>
         <item>paypal</item>
+        <item>phonograph</item>
         <item>pic_acg</item>
         <item>picsart</item>
+        <item>private_notepad</item>
         <item>ps_cc</item>
         <item>qq</item>
         <item>qq_browser</item>
+        <item>quark</item>
+        <item>root_explorer</item>
         <item>screen_recorder</item>
         <item>sdmaid</item>
         <item>see</item>
@@ -187,6 +235,7 @@
         <item>sim1_tool</item>
         <item>sim2_tool</item>
         <item>sony_music</item>
+        <item>sony_music</item>
         <item>ssr</item>
         <item>steam</item>
         <item>taichi</item>
@@ -194,17 +243,22 @@
         <item>telegram_x</item>
         <item>the12306</item>
         <item>thunder</item>
+        <item>tide</item>
         <item>tik_tok</item>
         <item>tim</item>
         <item>titanium_backup</item>
+        <item>titanium_backup</item>
+        <item>tomatodo</item>
         <item>twitter</item>
         <item>via</item>
         <item>voice_recorder</item>
         <item>wechat</item>
         <item>weibo</item>
+        <item>weread</item>
         <item>wzry</item>
         <item>xbrowser</item>
         <item>xianyu</item>
+        <item>zhibo8</item>
         <item>zhihu</item>
         <item>zhiyoo</item>
         <item>zuiyou</item>
