@@ -28,7 +28,9 @@
         <item>apkpure</item>
         <item>apkpure</item>
         <item>baidu_input</item>
+        <item>baidu_map</item>
         <item>baidu_netdisk</item>
+        <item>baidu_translate</item>
         <item>bmap</item>
         <item>browser</item>
         <item>calculator</item>
@@ -36,18 +38,24 @@
         <item>canva</item>
         <item>card_package</item>
         <item>china_daily</item>
+        <item>chinaunicom</item>
         <item>chrome</item>
         <item>clean_master</item>
+        <item>codoon</item>
         <item>colanotes</item>
         <item>contacts</item>
+        <item>ct_client</item>
         <item>dialer</item>
         <item>dingding</item>
+        <item>douban</item>
         <item>doudoubird_weather</item>
         <item>download</item>
         <item>duolingo</item>
         <item>easylisten</item>
+        <item>ecitic_bank</item>
         <item>ehviewer</item>
         <item>es_file_explorer_pro</item>
+        <item>etao</item>
         <item>eudic</item>
         <item>everphoto</item>
         <item>file_manager</item>
@@ -56,13 +64,17 @@
         <item>fm_radio</item>
         <item>fm_radio</item>
         <item>gallery</item>
+        <item>gh_helper</item>
         <item>google</item>
         <item>google_play</item>
         <item>greenline_guahao</item>
         <item>greenline_guahao</item>
         <item>greenmusic</item>
         <item>hhw</item>
+        <item>hsbb</item>
         <item>jd</item>
+        <item>jd_jr</item>
+        <item>jd_jxj</item>
         <item>jiemian_news</item>
         <item>jiemian_news</item>
         <item>langeasy</item>
@@ -105,6 +117,7 @@
         <item>shouji_market</item>
         <item>sim1_tool</item>
         <item>sim2_tool</item>
+        <item>smzdm</item>
         <item>sony_music</item>
         <item>sony_music</item>
         <item>ssr</item>
@@ -123,6 +136,7 @@
         <item>voice_recorder</item>
         <item>weibo</item>
         <item>weread</item>
+        <item>wps_office</item>
         <item>wzry</item>
         <item>xbrowser</item>
         <item>xianyu</item>
@@ -152,7 +166,9 @@
         <item>apkpure</item>
         <item>apple_music</item>
         <item>baidu_input</item>
+        <item>baidu_map</item>
         <item>baidu_netdisk</item>
+        <item>baidu_translate</item>
         <item>bmap</item>
         <item>browser</item>
         <item>calculator</item>
@@ -160,20 +176,26 @@
         <item>canva</item>
         <item>card_package</item>
         <item>china_daily</item>
+        <item>chinaunicom</item>
         <item>chrome</item>
         <item>clean_master</item>
         <item>clock</item>
+        <item>codoon</item>
         <item>colanotes</item>
         <item>contacts</item>
         <item>coolapk</item>
+        <item>ct_client</item>
         <item>dialer</item>
         <item>dingding</item>
+        <item>douban</item>
         <item>doudoubird_weather</item>
         <item>download</item>
         <item>duolingo</item>
         <item>easylisten</item>
+        <item>ecitic_bank</item>
         <item>ehviewer</item>
         <item>es_file_explorer_pro</item>
+        <item>etao</item>
         <item>eudic</item>
         <item>everphoto</item>
         <item>file_manager</item>
@@ -182,13 +204,17 @@
         <item>fm_radio</item>
         <item>fm_radio</item>
         <item>gallery</item>
+        <item>gh_helper</item>
         <item>google</item>
         <item>google_play</item>
         <item>greenline_guahao</item>
         <item>greenline_guahao</item>
         <item>greenmusic</item>
         <item>hhw</item>
+        <item>hsbb</item>
         <item>jd</item>
+        <item>jd_jr</item>
+        <item>jd_jxj</item>
         <item>jiemian_news</item>
         <item>jiemian_news</item>
         <item>langeasy</item>
@@ -234,6 +260,7 @@
         <item>shouji_market</item>
         <item>sim1_tool</item>
         <item>sim2_tool</item>
+        <item>smzdm</item>
         <item>sony_music</item>
         <item>sony_music</item>
         <item>ssr</item>
@@ -255,6 +282,7 @@
         <item>wechat</item>
         <item>weibo</item>
         <item>weread</item>
+        <item>wps_office</item>
         <item>wzry</item>
         <item>xbrowser</item>
         <item>xianyu</item>

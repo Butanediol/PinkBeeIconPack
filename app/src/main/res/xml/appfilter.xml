@@ -374,8 +374,20 @@
     <item component="ComponentInfo{com.doudoubird.weather/com.doudoubird.weather.StartActivity}" drawable="doudoubird_weather"/>
     <item component="ComponentInfo{android.zhibo8/android.zhibo8.ui.contollers.main.LaunchActivity}" drawable="zhibo8"/>
     <item component="ComponentInfo{com.yuanwofei.greenmusic/com.yuanwofei.music.activity.MainActivity}" drawable="greenmusic"/>
-
-
+    <item component="ComponentInfo{com.douban.frodo/com.douban.frodo.activity.SplashActivity}" drawable="douban"/>
+    <item component="ComponentInfo{com.nfyg.hsbb/com.nfyg.hsbb.HSLauncherActivity}" drawable="hsbb"/>
+    <item component="ComponentInfo{com.baidu.BaiduMap/com.baidu.baidumaps.WelcomeScreen}" drawable="baidu_map"/>
+    <item component="ComponentInfo{com.baidu.baidutranslate/com.baidu.baidutranslate.activity.SplashActivity}" drawable="baidu_translate"/>
+    <item component="ComponentInfo{com.ct.client/com.ct.client.SplashActivity}" drawable="ct_client"/>
+    <item component="ComponentInfo{com.sinovatech.unicom.ui/com.sinovatech.unicom.ui.WelcomeClient}" drawable="chinaunicom"/>
+    <item component="ComponentInfo{com.codoon.gps/com.codoon.gps.ui.login.WelcomeActivity}" drawable="codoon"/>
+    <item component="ComponentInfo{com.taobao.etao/com.taobao.sns.activity.LaunchActivity}" drawable="etao"/>
+    <item component="ComponentInfo{com.ecitic.bank.mobile/com.ecitic.bank.mobile.ui.SplashActivity}" drawable="ecitic_bank"/>
+    <item component="ComponentInfo{com.jd.jrapp/com.jd.jrapp.bm.mainbox.WelcomeActivity}" drawable="jd_jr"/>
+    <item component="ComponentInfo{cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}" drawable="wps_office"/>
+    <item component="ComponentInfo{com.jd.jxj/com.jd.jxj.ui.activity.LoadingActivity}" drawable="jd_jxj"/>
+    <item component="ComponentInfo{com.smzdm.client.android/com.smzdm.client.android.welcome.WelComeActivity}" drawable="smzdm"/>
+    <item component="ComponentInfo{com.gh.gamecenter/com.gh.gamecenter.SplashScreenActivity}" drawable="gh_helper"/>
 
 
 
