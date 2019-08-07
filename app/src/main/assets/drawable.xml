@@ -41,20 +41,17 @@
       <item drawable="voice_recorder" />
 
     <category title="New" />
-      <item drawable="baidu_map" />
-      <item drawable="baidu_translate" />
-      <item drawable="chinaunicom" />
-      <item drawable="codoon" />
-      <item drawable="ct_client" />
-      <item drawable="douban" />
-      <item drawable="ecitic_bank" />
-      <item drawable="etao" />
-      <item drawable="gh_helper" />
-      <item drawable="hsbb" />
-      <item drawable="jd_jr" />
-      <item drawable="jd_jxj" />
-      <item drawable="smzdm" />
-      <item drawable="wps_office" />
+      <item drawable="baidu_tieba" />
+      <item drawable="eleme" />
+      <item drawable="iqiyi" />
+      <item drawable="kiwi_browser" />
+      <item drawable="meet_you" />
+      <item drawable="rimet_chuichui" />
+      <item drawable="silencequan" />
+      <item drawable="tumblr" />
+      <item drawable="weibo" />
+      <item drawable="weibo_intl" />
+      <item drawable="xiaomi_youpin" />
 
     <category title="Google" />
       <item drawable="chrome" />
@@ -63,7 +60,10 @@
 
     <category title="Baidu" />
       <item drawable="baidu_input" />
+      <item drawable="baidu_map" />
       <item drawable="baidu_netdisk" />
+      <item drawable="baidu_tieba" />
+      <item drawable="baidu_translate" />
 
     <category title="OnePlus" />
       <item drawable="card_package" />
@@ -97,6 +97,7 @@
       <item drawable="baidu_input" />
       <item drawable="baidu_map" />
       <item drawable="baidu_netdisk" />
+      <item drawable="baidu_tieba" />
       <item drawable="baidu_translate" />
       <item drawable="balance" />
       <item drawable="bilibili" />
@@ -128,6 +129,7 @@
       <item drawable="easylisten" />
       <item drawable="ecitic_bank" />
       <item drawable="ehviewer" />
+      <item drawable="eleme" />
       <item drawable="es_file_explorer_pro" />
       <item drawable="etao" />
       <item drawable="eudic" />
@@ -144,15 +146,18 @@
       <item drawable="greenmusic" />
       <item drawable="hhw" />
       <item drawable="hsbb" />
+      <item drawable="iqiyi" />
       <item drawable="jd" />
       <item drawable="jd_jr" />
       <item drawable="jd_jxj" />
       <item drawable="jiemian_news" />
+      <item drawable="kiwi_browser" />
       <item drawable="langeasy" />
       <item drawable="laowang_vpn" />
       <item drawable="librera_pro" />
       <item drawable="magisk_manager" />
       <item drawable="mail" />
+      <item drawable="meet_you" />
       <item drawable="meeye" />
       <item drawable="meituan" />
       <item drawable="message" />
@@ -179,6 +184,7 @@
       <item drawable="qq" />
       <item drawable="qq_browser" />
       <item drawable="quark" />
+      <item drawable="rimet_chuichui" />
       <item drawable="root_explorer" />
       <item drawable="screen_recorder" />
       <item drawable="sdmaid" />
@@ -186,6 +192,7 @@
       <item drawable="settings" />
       <item drawable="share" />
       <item drawable="shouji_market" />
+      <item drawable="silencequan" />
       <item drawable="sim1_tool" />
       <item drawable="sim2_tool" />
       <item drawable="smzdm" />
@@ -203,17 +210,21 @@
       <item drawable="tim" />
       <item drawable="titanium_backup" />
       <item drawable="tomatodo" />
+      <item drawable="tumblr" />
       <item drawable="twitter" />
       <item drawable="v2rayng" />
       <item drawable="via" />
       <item drawable="voice_recorder" />
       <item drawable="wechat" />
       <item drawable="weibo" />
+      <item drawable="weibo" />
+      <item drawable="weibo_intl" />
       <item drawable="weread" />
       <item drawable="wps_office" />
       <item drawable="wzry" />
       <item drawable="xbrowser" />
       <item drawable="xianyu" />
+      <item drawable="xiaomi_youpin" />
       <item drawable="zhibo8" />
       <item drawable="zhihu" />
       <item drawable="zhihu_daily" />

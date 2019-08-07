@@ -388,7 +388,16 @@
     <item component="ComponentInfo{com.jd.jxj/com.jd.jxj.ui.activity.LoadingActivity}" drawable="jd_jxj"/>
     <item component="ComponentInfo{com.smzdm.client.android/com.smzdm.client.android.welcome.WelComeActivity}" drawable="smzdm"/>
     <item component="ComponentInfo{com.gh.gamecenter/com.gh.gamecenter.SplashScreenActivity}" drawable="gh_helper"/>
-
+    <item component="ComponentInfo{com.kiwibrowser.browser/com.google.android.apps.chrome.Main}" drawable="kiwi_browser"/>
+    <item component="ComponentInfo{com.weico.international/com.weico.international.activity.LogoActivity}" drawable="weibo_intl"/>
+    <item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}" drawable="tumblr"/>
+    <item component="ComponentInfo{me.ele/me.ele.Launcher}" drawable="eleme"/>
+    <item component="ComponentInfo{com.jrsen.android.rimet/com.jrsen.android.rimet.MainActivity}" drawable="rimet_chuichui"/>
+    <item component="ComponentInfo{com.lingan.seeyou/com.lingan.seeyou.ui.activity.main.WelcomeActivity}" drawable="meet_you"/>
+    <item component="ComponentInfo{com.baidu.tieba/com.baidu.tieba.LogoActivity}" drawable="baidu_tieba"/>
+    <item component="ComponentInfo{com.qiyi.video/com.qiyi.video.WelcomeActivity}" drawable="iqiyi"/>
+    <item component="ComponentInfo{cn.silence795.silencequan/cn.silence795.silencequan.activity.MainActivity}" drawable="silencequan"/>
+    <item component="ComponentInfo{com.xiaomi.youpin/com.xiaomi.youpin.activity.SplashActivity}" drawable="xiaomi_youpin"/>
 
 
 

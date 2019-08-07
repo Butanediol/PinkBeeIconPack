@@ -30,6 +30,7 @@
         <item>baidu_input</item>
         <item>baidu_map</item>
         <item>baidu_netdisk</item>
+        <item>baidu_tieba</item>
         <item>baidu_translate</item>
         <item>bmap</item>
         <item>browser</item>
@@ -54,6 +55,7 @@
         <item>easylisten</item>
         <item>ecitic_bank</item>
         <item>ehviewer</item>
+        <item>eleme</item>
         <item>es_file_explorer_pro</item>
         <item>etao</item>
         <item>eudic</item>
@@ -72,16 +74,19 @@
         <item>greenmusic</item>
         <item>hhw</item>
         <item>hsbb</item>
+        <item>iqiyi</item>
         <item>jd</item>
         <item>jd_jr</item>
         <item>jd_jxj</item>
         <item>jiemian_news</item>
         <item>jiemian_news</item>
+        <item>kiwi_browser</item>
         <item>langeasy</item>
         <item>laowang_vpn</item>
         <item>librera_pro</item>
         <item>magisk_manager</item>
         <item>mail</item>
+        <item>meet_you</item>
         <item>meituan</item>
         <item>message</item>
         <item>mi_fit</item>
@@ -108,6 +113,7 @@
         <item>ps_cc</item>
         <item>qq_browser</item>
         <item>quark</item>
+        <item>rimet_chuichui</item>
         <item>root_explorer</item>
         <item>screen_recorder</item>
         <item>sdmaid</item>
@@ -115,6 +121,7 @@
         <item>settings</item>
         <item>share</item>
         <item>shouji_market</item>
+        <item>silencequan</item>
         <item>sim1_tool</item>
         <item>sim2_tool</item>
         <item>smzdm</item>
@@ -132,14 +139,18 @@
         <item>titanium_backup</item>
         <item>titanium_backup</item>
         <item>tomatodo</item>
+        <item>tumblr</item>
         <item>via</item>
         <item>voice_recorder</item>
         <item>weibo</item>
+        <item>weibo</item>
+        <item>weibo_intl</item>
         <item>weread</item>
         <item>wps_office</item>
         <item>wzry</item>
         <item>xbrowser</item>
         <item>xianyu</item>
+        <item>xiaomi_youpin</item>
         <item>zhibo8</item>
         <item>zhiyoo</item>
         <item>zuiyou</item>
@@ -168,6 +179,7 @@
         <item>baidu_input</item>
         <item>baidu_map</item>
         <item>baidu_netdisk</item>
+        <item>baidu_tieba</item>
         <item>baidu_translate</item>
         <item>bmap</item>
         <item>browser</item>
@@ -194,6 +206,7 @@
         <item>easylisten</item>
         <item>ecitic_bank</item>
         <item>ehviewer</item>
+        <item>eleme</item>
         <item>es_file_explorer_pro</item>
         <item>etao</item>
         <item>eudic</item>
@@ -212,16 +225,19 @@
         <item>greenmusic</item>
         <item>hhw</item>
         <item>hsbb</item>
+        <item>iqiyi</item>
         <item>jd</item>
         <item>jd_jr</item>
         <item>jd_jxj</item>
         <item>jiemian_news</item>
         <item>jiemian_news</item>
+        <item>kiwi_browser</item>
         <item>langeasy</item>
         <item>laowang_vpn</item>
         <item>librera_pro</item>
         <item>magisk_manager</item>
         <item>mail</item>
+        <item>meet_you</item>
         <item>meeye</item>
         <item>meituan</item>
         <item>message</item>
@@ -251,6 +267,7 @@
         <item>qq</item>
         <item>qq_browser</item>
         <item>quark</item>
+        <item>rimet_chuichui</item>
         <item>root_explorer</item>
         <item>screen_recorder</item>
         <item>sdmaid</item>
@@ -258,6 +275,7 @@
         <item>settings</item>
         <item>share</item>
         <item>shouji_market</item>
+        <item>silencequan</item>
         <item>sim1_tool</item>
         <item>sim2_tool</item>
         <item>smzdm</item>
@@ -276,16 +294,20 @@
         <item>titanium_backup</item>
         <item>titanium_backup</item>
         <item>tomatodo</item>
+        <item>tumblr</item>
         <item>twitter</item>
         <item>via</item>
         <item>voice_recorder</item>
         <item>wechat</item>
         <item>weibo</item>
+        <item>weibo</item>
+        <item>weibo_intl</item>
         <item>weread</item>
         <item>wps_office</item>
         <item>wzry</item>
         <item>xbrowser</item>
         <item>xianyu</item>
+        <item>xiaomi_youpin</item>
         <item>zhibo8</item>
         <item>zhihu</item>
         <item>zhiyoo</item>
