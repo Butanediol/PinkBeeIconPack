@@ -41,17 +41,20 @@
       <item drawable="voice_recorder" />
 
     <category title="New" />
-      <item drawable="baidu_tieba" />
-      <item drawable="eleme" />
-      <item drawable="iqiyi" />
-      <item drawable="kiwi_browser" />
-      <item drawable="meet_you" />
-      <item drawable="rimet_chuichui" />
-      <item drawable="silencequan" />
-      <item drawable="tumblr" />
-      <item drawable="weibo" />
-      <item drawable="weibo_intl" />
-      <item drawable="xiaomi_youpin" />
+      <item drawable="apps2sd_pro" />
+      <item drawable="arknights" />
+      <item drawable="chromium" />
+      <item drawable="douyu_tv" />
+      <item drawable="es_file_explorer" />
+      <item drawable="geometric_weather" />
+      <item drawable="huya_tv" />
+      <item drawable="momo_eng" />
+      <item drawable="qq_mail" />
+      <item drawable="qq_music" />
+      <item drawable="qq_safety_center" />
+      <item drawable="the4399" />
+      <item drawable="wegame" />
+      <item drawable="zlive" />
 
     <category title="Google" />
       <item drawable="chrome" />
@@ -77,7 +80,9 @@
       <item drawable="sony_music" />
 
     <category title="Games" />
+      <item drawable="arknights" />
       <item drawable="hhw" />
+      <item drawable="the4399" />
       <item drawable="wzry" />
 
     <category title="All" />
@@ -92,7 +97,9 @@
       <item drawable="apkpure" />
       <item drawable="app_ops" />
       <item drawable="apple_music" />
+      <item drawable="apps2sd_pro" />
       <item drawable="appsales" />
+      <item drawable="arknights" />
       <item drawable="automate" />
       <item drawable="baidu_input" />
       <item drawable="baidu_map" />
@@ -112,6 +119,7 @@
       <item drawable="china_daily" />
       <item drawable="chinaunicom" />
       <item drawable="chrome" />
+      <item drawable="chromium" />
       <item drawable="clean_master" />
       <item drawable="clock" />
       <item drawable="codoon" />
@@ -124,12 +132,14 @@
       <item drawable="dingding" />
       <item drawable="douban" />
       <item drawable="doudoubird_weather" />
+      <item drawable="douyu_tv" />
       <item drawable="download" />
       <item drawable="duolingo" />
       <item drawable="easylisten" />
       <item drawable="ecitic_bank" />
       <item drawable="ehviewer" />
       <item drawable="eleme" />
+      <item drawable="es_file_explorer" />
       <item drawable="es_file_explorer_pro" />
       <item drawable="etao" />
       <item drawable="eudic" />
@@ -139,6 +149,7 @@
       <item drawable="firefox" />
       <item drawable="fm_radio" />
       <item drawable="gallery" />
+      <item drawable="geometric_weather" />
       <item drawable="gh_helper" />
       <item drawable="google" />
       <item drawable="google_play" />
@@ -146,6 +157,7 @@
       <item drawable="greenmusic" />
       <item drawable="hhw" />
       <item drawable="hsbb" />
+      <item drawable="huya_tv" />
       <item drawable="iqiyi" />
       <item drawable="jd" />
       <item drawable="jd_jr" />
@@ -163,6 +175,7 @@
       <item drawable="message" />
       <item drawable="mi_fit" />
       <item drawable="mixplorer" />
+      <item drawable="momo_eng" />
       <item drawable="moo_music" />
       <item drawable="moon_reader_pro" />
       <item drawable="mt_manager" />
@@ -183,6 +196,9 @@
       <item drawable="ps_cc" />
       <item drawable="qq" />
       <item drawable="qq_browser" />
+      <item drawable="qq_mail" />
+      <item drawable="qq_music" />
+      <item drawable="qq_safety_center" />
       <item drawable="quark" />
       <item drawable="rimet_chuichui" />
       <item drawable="root_explorer" />
@@ -204,6 +220,7 @@
       <item drawable="telegram" />
       <item drawable="telegram_x" />
       <item drawable="the12306" />
+      <item drawable="the4399" />
       <item drawable="thunder" />
       <item drawable="tide" />
       <item drawable="tik_tok" />
@@ -216,6 +233,7 @@
       <item drawable="via" />
       <item drawable="voice_recorder" />
       <item drawable="wechat" />
+      <item drawable="wegame" />
       <item drawable="weibo" />
       <item drawable="weibo" />
       <item drawable="weibo_intl" />
@@ -229,5 +247,6 @@
       <item drawable="zhihu" />
       <item drawable="zhihu_daily" />
       <item drawable="zhiyoo" />
+      <item drawable="zlive" />
       <item drawable="zuiyou" />
 </resources>

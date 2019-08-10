@@ -27,20 +27,25 @@
         <item>amazon_shopping</item>
         <item>apkpure</item>
         <item>apkpure</item>
+        <item>apps2sd_pro</item>
+        <item>arknights</item>
         <item>baidu_input</item>
         <item>baidu_map</item>
         <item>baidu_netdisk</item>
         <item>baidu_tieba</item>
         <item>baidu_translate</item>
+        <item>baimiao</item>
         <item>bmap</item>
         <item>browser</item>
         <item>calculator</item>
         <item>camera</item>
         <item>canva</item>
         <item>card_package</item>
+        <item>ccb</item>
         <item>china_daily</item>
         <item>chinaunicom</item>
         <item>chrome</item>
+        <item>chromium</item>
         <item>clean_master</item>
         <item>codoon</item>
         <item>colanotes</item>
@@ -50,12 +55,14 @@
         <item>dingding</item>
         <item>douban</item>
         <item>doudoubird_weather</item>
+        <item>douyu_tv</item>
         <item>download</item>
         <item>duolingo</item>
         <item>easylisten</item>
         <item>ecitic_bank</item>
         <item>ehviewer</item>
         <item>eleme</item>
+        <item>es_file_explorer</item>
         <item>es_file_explorer_pro</item>
         <item>etao</item>
         <item>eudic</item>
@@ -66,6 +73,7 @@
         <item>fm_radio</item>
         <item>fm_radio</item>
         <item>gallery</item>
+        <item>geometric_weather</item>
         <item>gh_helper</item>
         <item>google</item>
         <item>google_play</item>
@@ -74,6 +82,8 @@
         <item>greenmusic</item>
         <item>hhw</item>
         <item>hsbb</item>
+        <item>hupu</item>
+        <item>huya_tv</item>
         <item>iqiyi</item>
         <item>jd</item>
         <item>jd_jr</item>
@@ -91,6 +101,8 @@
         <item>message</item>
         <item>mi_fit</item>
         <item>mixplorer</item>
+        <item>momo_eng</item>
+        <item>monkeybook</item>
         <item>moo_music</item>
         <item>moon_reader_pro</item>
         <item>mt_manager</item>
@@ -99,6 +111,7 @@
         <item>myandroidtools</item>
         <item>myandroidtools</item>
         <item>nekogram</item>
+        <item>netease_vopen</item>
         <item>note</item>
         <item>oneplus_bbs</item>
         <item>oneplus_market</item>
@@ -112,6 +125,10 @@
         <item>private_notepad</item>
         <item>ps_cc</item>
         <item>qq_browser</item>
+        <item>qq_lite</item>
+        <item>qq_mail</item>
+        <item>qq_music</item>
+        <item>qq_safety_center</item>
         <item>quark</item>
         <item>rimet_chuichui</item>
         <item>root_explorer</item>
@@ -127,12 +144,15 @@
         <item>smzdm</item>
         <item>sony_music</item>
         <item>sony_music</item>
+        <item>sony_weather</item>
         <item>ssr</item>
         <item>steam</item>
         <item>taichi</item>
         <item>telegram</item>
         <item>telegram_x</item>
+        <item>tencent_video</item>
         <item>the12306</item>
+        <item>the4399</item>
         <item>thunder</item>
         <item>tide</item>
         <item>tik_tok</item>
@@ -142,17 +162,24 @@
         <item>tumblr</item>
         <item>via</item>
         <item>voice_recorder</item>
+        <item>wegame</item>
         <item>weibo</item>
         <item>weibo</item>
         <item>weibo_intl</item>
         <item>weread</item>
+        <item>wondertek_paper</item>
         <item>wps_office</item>
         <item>wzry</item>
         <item>xbrowser</item>
         <item>xianyu</item>
         <item>xiaomi_youpin</item>
+        <item>xny_sc</item>
+        <item>youdao_dict</item>
+        <item>zarchiver</item>
+        <item>zarchiver_pro</item>
         <item>zhibo8</item>
         <item>zhiyoo</item>
+        <item>zlive</item>
         <item>zuiyou</item>
     </string-array>
 
@@ -176,20 +203,25 @@
         <item>apkpure</item>
         <item>apkpure</item>
         <item>apple_music</item>
+        <item>apps2sd_pro</item>
+        <item>arknights</item>
         <item>baidu_input</item>
         <item>baidu_map</item>
         <item>baidu_netdisk</item>
         <item>baidu_tieba</item>
         <item>baidu_translate</item>
+        <item>baimiao</item>
         <item>bmap</item>
         <item>browser</item>
         <item>calculator</item>
         <item>camera</item>
         <item>canva</item>
         <item>card_package</item>
+        <item>ccb</item>
         <item>china_daily</item>
         <item>chinaunicom</item>
         <item>chrome</item>
+        <item>chromium</item>
         <item>clean_master</item>
         <item>clock</item>
         <item>codoon</item>
@@ -201,12 +233,14 @@
         <item>dingding</item>
         <item>douban</item>
         <item>doudoubird_weather</item>
+        <item>douyu_tv</item>
         <item>download</item>
         <item>duolingo</item>
         <item>easylisten</item>
         <item>ecitic_bank</item>
         <item>ehviewer</item>
         <item>eleme</item>
+        <item>es_file_explorer</item>
         <item>es_file_explorer_pro</item>
         <item>etao</item>
         <item>eudic</item>
@@ -217,6 +251,7 @@
         <item>fm_radio</item>
         <item>fm_radio</item>
         <item>gallery</item>
+        <item>geometric_weather</item>
         <item>gh_helper</item>
         <item>google</item>
         <item>google_play</item>
@@ -225,6 +260,8 @@
         <item>greenmusic</item>
         <item>hhw</item>
         <item>hsbb</item>
+        <item>hupu</item>
+        <item>huya_tv</item>
         <item>iqiyi</item>
         <item>jd</item>
         <item>jd_jr</item>
@@ -243,6 +280,8 @@
         <item>message</item>
         <item>mi_fit</item>
         <item>mixplorer</item>
+        <item>momo_eng</item>
+        <item>monkeybook</item>
         <item>moo_music</item>
         <item>moon_reader_pro</item>
         <item>mt_manager</item>
@@ -252,6 +291,7 @@
         <item>myandroidtools</item>
         <item>nekogram</item>
         <item>netease_cloudmusic</item>
+        <item>netease_vopen</item>
         <item>note</item>
         <item>oneplus_bbs</item>
         <item>oneplus_market</item>
@@ -266,6 +306,10 @@
         <item>ps_cc</item>
         <item>qq</item>
         <item>qq_browser</item>
+        <item>qq_lite</item>
+        <item>qq_mail</item>
+        <item>qq_music</item>
+        <item>qq_safety_center</item>
         <item>quark</item>
         <item>rimet_chuichui</item>
         <item>root_explorer</item>
@@ -281,12 +325,15 @@
         <item>smzdm</item>
         <item>sony_music</item>
         <item>sony_music</item>
+        <item>sony_weather</item>
         <item>ssr</item>
         <item>steam</item>
         <item>taichi</item>
         <item>telegram</item>
         <item>telegram_x</item>
+        <item>tencent_video</item>
         <item>the12306</item>
+        <item>the4399</item>
         <item>thunder</item>
         <item>tide</item>
         <item>tik_tok</item>
@@ -299,18 +346,25 @@
         <item>via</item>
         <item>voice_recorder</item>
         <item>wechat</item>
+        <item>wegame</item>
         <item>weibo</item>
         <item>weibo</item>
         <item>weibo_intl</item>
         <item>weread</item>
+        <item>wondertek_paper</item>
         <item>wps_office</item>
         <item>wzry</item>
         <item>xbrowser</item>
         <item>xianyu</item>
         <item>xiaomi_youpin</item>
+        <item>xny_sc</item>
+        <item>youdao_dict</item>
+        <item>zarchiver</item>
+        <item>zarchiver_pro</item>
         <item>zhibo8</item>
         <item>zhihu</item>
         <item>zhiyoo</item>
+        <item>zlive</item>
         <item>zuiyou</item>
     </string-array>
 
