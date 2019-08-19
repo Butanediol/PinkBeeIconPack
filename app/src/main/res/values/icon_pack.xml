@@ -52,7 +52,10 @@
         <item>contacts</item>
         <item>ct_client</item>
         <item>dialer</item>
+        <item>didapinche</item>
+        <item>didi_psngr</item>
         <item>dingding</item>
+        <item>dong_che_di</item>
         <item>douban</item>
         <item>doudoubird_weather</item>
         <item>douyu_tv</item>
@@ -60,12 +63,14 @@
         <item>duolingo</item>
         <item>easylisten</item>
         <item>ecitic_bank</item>
+        <item>ecitic_credit</item>
         <item>ehviewer</item>
         <item>eleme</item>
         <item>es_file_explorer</item>
         <item>es_file_explorer_pro</item>
         <item>etao</item>
         <item>eudic</item>
+        <item>evernote</item>
         <item>everphoto</item>
         <item>file_manager</item>
         <item>files</item>
@@ -90,6 +95,7 @@
         <item>jd_jxj</item>
         <item>jiemian_news</item>
         <item>jiemian_news</item>
+        <item>jisu_browser</item>
         <item>kiwi_browser</item>
         <item>langeasy</item>
         <item>laowang_vpn</item>
@@ -124,14 +130,17 @@
         <item>picsart</item>
         <item>private_notepad</item>
         <item>ps_cc</item>
+        <item>q_plus</item>
         <item>qq_browser</item>
         <item>qq_lite</item>
         <item>qq_mail</item>
         <item>qq_music</item>
         <item>qq_safety_center</item>
+        <item>qqemoji</item>
         <item>quark</item>
         <item>rimet_chuichui</item>
         <item>root_explorer</item>
+        <item>rrmj</item>
         <item>screen_recorder</item>
         <item>sdmaid</item>
         <item>see</item>
@@ -160,6 +169,8 @@
         <item>titanium_backup</item>
         <item>tomatodo</item>
         <item>tumblr</item>
+        <item>uc_browser</item>
+        <item>uujian_browser</item>
         <item>via</item>
         <item>voice_recorder</item>
         <item>wegame</item>
@@ -172,9 +183,13 @@
         <item>wzry</item>
         <item>xbrowser</item>
         <item>xianyu</item>
+        <item>xiaomi_shop</item>
         <item>xiaomi_youpin</item>
         <item>xny_sc</item>
+        <item>yandex_browser</item>
+        <item>yingyonghui</item>
         <item>youdao_dict</item>
+        <item>yyets</item>
         <item>zarchiver</item>
         <item>zarchiver_pro</item>
         <item>zhibo8</item>
@@ -230,7 +245,10 @@
         <item>coolapk</item>
         <item>ct_client</item>
         <item>dialer</item>
+        <item>didapinche</item>
+        <item>didi_psngr</item>
         <item>dingding</item>
+        <item>dong_che_di</item>
         <item>douban</item>
         <item>doudoubird_weather</item>
         <item>douyu_tv</item>
@@ -238,12 +256,14 @@
         <item>duolingo</item>
         <item>easylisten</item>
         <item>ecitic_bank</item>
+        <item>ecitic_credit</item>
         <item>ehviewer</item>
         <item>eleme</item>
         <item>es_file_explorer</item>
         <item>es_file_explorer_pro</item>
         <item>etao</item>
         <item>eudic</item>
+        <item>evernote</item>
         <item>everphoto</item>
         <item>file_manager</item>
         <item>files</item>
@@ -268,6 +288,7 @@
         <item>jd_jxj</item>
         <item>jiemian_news</item>
         <item>jiemian_news</item>
+        <item>jisu_browser</item>
         <item>kiwi_browser</item>
         <item>langeasy</item>
         <item>laowang_vpn</item>
@@ -304,15 +325,18 @@
         <item>picsart</item>
         <item>private_notepad</item>
         <item>ps_cc</item>
+        <item>q_plus</item>
         <item>qq</item>
         <item>qq_browser</item>
         <item>qq_lite</item>
         <item>qq_mail</item>
         <item>qq_music</item>
         <item>qq_safety_center</item>
+        <item>qqemoji</item>
         <item>quark</item>
         <item>rimet_chuichui</item>
         <item>root_explorer</item>
+        <item>rrmj</item>
         <item>screen_recorder</item>
         <item>sdmaid</item>
         <item>see</item>
@@ -343,6 +367,8 @@
         <item>tomatodo</item>
         <item>tumblr</item>
         <item>twitter</item>
+        <item>uc_browser</item>
+        <item>uujian_browser</item>
         <item>via</item>
         <item>voice_recorder</item>
         <item>wechat</item>
@@ -356,9 +382,13 @@
         <item>wzry</item>
         <item>xbrowser</item>
         <item>xianyu</item>
+        <item>xiaomi_shop</item>
         <item>xiaomi_youpin</item>
         <item>xny_sc</item>
+        <item>yandex_browser</item>
+        <item>yingyonghui</item>
         <item>youdao_dict</item>
+        <item>yyets</item>
         <item>zarchiver</item>
         <item>zarchiver_pro</item>
         <item>zhibo8</item>

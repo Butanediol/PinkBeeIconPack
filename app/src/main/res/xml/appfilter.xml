@@ -427,6 +427,22 @@
     <item component="ComponentInfo{com.youdao.dict/com.youdao.dict.activity.DictSplashActivity}" drawable="youdao_dict"/>
     <item component="ComponentInfo{com.wondertek.paper/cn.thepaper.paper.ui.splash.welcome.LaunchActivity}" drawable="wondertek_paper"/>
     <item component="ComponentInfo{com.netease.vopen/com.netease.vopen.activity.WelcomeActivity}" drawable="netease_vopen"/>
+    <item component="ComponentInfo{com.didapinche.booking/com.didapinche.booking.home.activity.StartActivity}" drawable="didapinche"/>
+    <item component="ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.app.launch.DidiLoadDexActivity}" drawable="didi_psngr"/>
+    <item component="ComponentInfo{com.yingyonghui.market/com.yingyonghui.market.activity.SplashActivity}" drawable="yingyonghui"/>
+    <item component="ComponentInfo{com.example.administrator.searchpicturetool/com.example.administrator.searchpicturetool.launch.LaunchActivity}" drawable="searchpicturetool"/>
+    <item component="ComponentInfo{cn.uujian.browser/cn.uujian.SplashActivity}" drawable="uujian_browser"/>
+    <item component="ComponentInfo{com.zhongduomei.rrmj.society/com.zhongduomei.rrmj.society.function.launch.activity.LaunchActivity}" drawable="rrmj"/>
+    <item component="ComponentInfo{com.yyets.pro/com.yyets.zimuzu.SplashActivity}" drawable="yyets"/>
+    <item component="ComponentInfo{com.qihoo.contents/com.qihoo.contents.launcher.LauncherActivity}" drawable="jisu_browser"/>
+    <item component="ComponentInfo{com.UCMobile/com.UCMobile.main.UCMobile}" drawable="uc_browser"/>
+    <item component="ComponentInfo{com.yandex.browser/com.yandex.browser.YandexBrowserActivity}" drawable="yandex_browser"/>    <item component="ComponentInfo{x.hook.qqemoji/x.hook.qqemoji.MainActivity}" drawable="qqemoji"/>
+    <item component="ComponentInfo{cn.qssq666.q.plus/cn.qssq666.common.QPlusMainActivity}" drawable="q_plus"/>
+    <item component="ComponentInfo{com.linroid.zlive/com.linroid.zlive.screen.host.HostActivityThird}" drawable="zlive"/>
+    <item component="ComponentInfo{com.citiccard.mobilebank/com.citiccard.mobilebankapp.WelcomeActivity}" drawable="ecitic_credit"/>
+    <item component="ComponentInfo{com.yinxiang/com.evernote.ui.HomeActivity}" drawable="evernote"/>
+    <item component="ComponentInfo{com.xiaomi.shop/com.xiaomi.shop.activity.MainTabActivity}" drawable="xiaomi_shop"/>
+    <item component="ComponentInfo{com.ss.android.auto/com.ss.android.auto.activity.SplashActivity}" drawable="dong_che_di"/>
 
 
 
