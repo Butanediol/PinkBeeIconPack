@@ -453,6 +453,21 @@
     <item component="ComponentInfo{xyz.hanks.note/xyz.hanks.note.ui.activity.MainActivity}" drawable="hanks_note"/>
     <item component="ComponentInfo{com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher}" drawable="camera"/>
     <item component="ComponentInfo{com.unionpay/com.unionpay.activity.UPActivityWelcome}" drawable="unionpay"/>
+    <item component="ComponentInfo{com.fb.fluid/com.fb.fluid.ActivityMain}" drawable="fluid_ng"/>
+    <item component="ComponentInfo{org.zwanoo.android.speedtest/com.ookla.mobile4.screens.main.MainActivity}" drawable="speedtest"/>
+    <item component="ComponentInfo{com.kuss.rewind/com.kuss.rewind.MainActivity}" drawable="rewind"/>
+    <item component="ComponentInfo{com.xingin.xhs/com.xingin.xhs.activity.SplashActivity}" drawable="xhs"/>
+    <item component="ComponentInfo{com.koudai.weidian.buyer/com.koudai.weidian.buyer.activity.SplashActivity}" drawable="weidian"/>
+    <item component="ComponentInfo{org.whale.proxy/org.whale.proxy.f}" drawable="whale_proxy"/>
+    <item component="ComponentInfo{com.dmm.dmmlabo.kancolle/com.dmm.dmmlabo.kancolle.AppEntry}" drawable="kancolle"/>
+    <item component="ComponentInfo{com.lerist.go_hosts/com.lerist.gohosts.ui.activity.MainActivity}" drawable="go_hosts"/>
+    <item component="ComponentInfo{com.reiya.pixiv/com.reiya.pixiv.other.SplashActivity}" drawable="pivision"/>
+    <item component="ComponentInfo{com.iudesk.android.photo.editor/app.activity.MainActivity}" drawable="photo_editor"/>
+    <item component="ComponentInfo{com.downloading.main.baiduyundownload/com.downloading.main.baiduyundownload.ui.S}" drawable="village"/>
+    <item component="ComponentInfo{com.nbc.willcloud.themestore/com.nbc.willcloud.athenasdk.views.LoadingActivity}" drawable="willcloud_themestore"/>
+    <item component="ComponentInfo{com.alibaba.android.rimet/com.alibaba.android.rimet.biz.LaunchHomeActivity}" drawable="dingding"/>
+    <item component="ComponentInfo{com.iflytek.inputmethod.google/com.iflytek.inputmethod.LauncherActivity}" drawable="ifly_ime"/>
+    <item component="ComponentInfo{com.antest1.kcanotify/com.antest1.kcanotify.InitStartActivity}" drawable="kcanotify"/>
 
 
 

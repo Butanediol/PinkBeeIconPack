@@ -75,11 +75,13 @@
         <item>file_manager</item>
         <item>files</item>
         <item>firefox</item>
+        <item>fluid_ng</item>
         <item>fm_radio</item>
         <item>fm_radio</item>
         <item>gallery</item>
         <item>geometric_weather</item>
         <item>gh_helper</item>
+        <item>go_hosts</item>
         <item>google</item>
         <item>google_play</item>
         <item>greenline_guahao</item>
@@ -90,6 +92,7 @@
         <item>hsbb</item>
         <item>hupu</item>
         <item>huya_tv</item>
+        <item>ifly_ime</item>
         <item>iqiyi</item>
         <item>jd</item>
         <item>jd_jr</item>
@@ -97,6 +100,8 @@
         <item>jiemian_news</item>
         <item>jiemian_news</item>
         <item>jisu_browser</item>
+        <item>kancolle</item>
+        <item>kcanotify</item>
         <item>kiwi_browser</item>
         <item>langeasy</item>
         <item>laowang_vpn</item>
@@ -127,8 +132,10 @@
         <item>paypal</item>
         <item>paypal</item>
         <item>phonograph</item>
+        <item>photo_editor</item>
         <item>pic_acg</item>
         <item>picsart</item>
+        <item>pivision</item>
         <item>private_notepad</item>
         <item>ps_cc</item>
         <item>q_plus</item>
@@ -141,6 +148,7 @@
         <item>qqemoji</item>
         <item>quark</item>
         <item>rar</item>
+        <item>rewind</item>
         <item>rimet_chuichui</item>
         <item>root_explorer</item>
         <item>rrmj</item>
@@ -158,6 +166,8 @@
         <item>sony_music</item>
         <item>sony_music</item>
         <item>sony_weather</item>
+        <item>speedtest</item>
+        <item>speedtest_2</item>
         <item>ssr</item>
         <item>steam</item>
         <item>taichi</item>
@@ -179,16 +189,21 @@
         <item>unionpay</item>
         <item>uujian_browser</item>
         <item>via</item>
+        <item>village</item>
         <item>voice_recorder</item>
         <item>wegame</item>
         <item>weibo</item>
         <item>weibo</item>
         <item>weibo_intl</item>
+        <item>weidian</item>
         <item>weread</item>
+        <item>whale_proxy</item>
+        <item>willcloud_themestore</item>
         <item>wondertek_paper</item>
         <item>wps_office</item>
         <item>wzry</item>
         <item>xbrowser</item>
+        <item>xhs</item>
         <item>xianyu</item>
         <item>xiaomi_shop</item>
         <item>xiaomi_youpin</item>
@@ -276,11 +291,13 @@
         <item>file_manager</item>
         <item>files</item>
         <item>firefox</item>
+        <item>fluid_ng</item>
         <item>fm_radio</item>
         <item>fm_radio</item>
         <item>gallery</item>
         <item>geometric_weather</item>
         <item>gh_helper</item>
+        <item>go_hosts</item>
         <item>google</item>
         <item>google_play</item>
         <item>greenline_guahao</item>
@@ -291,6 +308,7 @@
         <item>hsbb</item>
         <item>hupu</item>
         <item>huya_tv</item>
+        <item>ifly_ime</item>
         <item>iqiyi</item>
         <item>jd</item>
         <item>jd_jr</item>
@@ -298,6 +316,8 @@
         <item>jiemian_news</item>
         <item>jiemian_news</item>
         <item>jisu_browser</item>
+        <item>kancolle</item>
+        <item>kcanotify</item>
         <item>kiwi_browser</item>
         <item>langeasy</item>
         <item>laowang_vpn</item>
@@ -330,8 +350,10 @@
         <item>paypal</item>
         <item>paypal</item>
         <item>phonograph</item>
+        <item>photo_editor</item>
         <item>pic_acg</item>
         <item>picsart</item>
+        <item>pivision</item>
         <item>private_notepad</item>
         <item>ps_cc</item>
         <item>q_plus</item>
@@ -345,6 +367,7 @@
         <item>qqemoji</item>
         <item>quark</item>
         <item>rar</item>
+        <item>rewind</item>
         <item>rimet_chuichui</item>
         <item>root_explorer</item>
         <item>rrmj</item>
@@ -362,6 +385,8 @@
         <item>sony_music</item>
         <item>sony_music</item>
         <item>sony_weather</item>
+        <item>speedtest</item>
+        <item>speedtest_2</item>
         <item>ssr</item>
         <item>steam</item>
         <item>taichi</item>
@@ -385,17 +410,22 @@
         <item>unionpay</item>
         <item>uujian_browser</item>
         <item>via</item>
+        <item>village</item>
         <item>voice_recorder</item>
         <item>wechat</item>
         <item>wegame</item>
         <item>weibo</item>
         <item>weibo</item>
         <item>weibo_intl</item>
+        <item>weidian</item>
         <item>weread</item>
+        <item>whale_proxy</item>
+        <item>willcloud_themestore</item>
         <item>wondertek_paper</item>
         <item>wps_office</item>
         <item>wzry</item>
         <item>xbrowser</item>
+        <item>xhs</item>
         <item>xianyu</item>
         <item>xiaomi_shop</item>
         <item>xiaomi_youpin</item>
