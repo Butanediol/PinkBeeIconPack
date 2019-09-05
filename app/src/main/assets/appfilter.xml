@@ -324,7 +324,7 @@
     <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox"/>
     <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="outlook"/>
     <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal"/>
-    <item component="ComponentInfo{eu.thedarken.sdm/eu.thedarken.sdm.main.ui.SDMMainActivity}" drawable="sd_maid"/>
+    <item component="ComponentInfo{eu.thedarken.sdm/eu.thedarken.sdm.main.ui.SDMMainActivity}" drawable="sdmaid"/>
     <item component="ComponentInfo{in.zhaoj.shadowsocksr/com.github.shadowsocks.Shadowsocks}" drawable="ssr"/>
     <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="steam"/>
     <item component="ComponentInfo{me.yourbay.airfrozen/me.yourbay.airfrozen.main.uimodule.Launcher}" drawable="airfrozen"/>
@@ -443,7 +443,16 @@
     <item component="ComponentInfo{com.yinxiang/com.evernote.ui.HomeActivity}" drawable="evernote"/>
     <item component="ComponentInfo{com.xiaomi.shop/com.xiaomi.shop.activity.MainTabActivity}" drawable="xiaomi_shop"/>
     <item component="ComponentInfo{com.ss.android.auto/com.ss.android.auto.activity.SplashActivity}" drawable="dong_che_di"/>
-
+    <item component="ComponentInfo{com.tencent.research.drop/com.tencent.research.drop.ui.main.MainActivity}" drawable="tencent_movie"/>
+    <item component="ComponentInfo{com.rarlab.rar/com.rarlab.rar.MainActivity}" drawable="rar"/>
+    <item component="ComponentInfo{com.tmri.app.main/com.tmri.app.ui.activity.TmriActivity}" drawable="tmri12123"/>
+    <item component="ComponentInfo{com.youku.phone/com.youku.phone.ActivityWelcome}" drawable="youku"/>
+    <item component="ComponentInfo{com.sohu.inputmethod.sogou/com.sohu.inputmethod.sogou.SogouIMELauncher}" drawable="sogou_ime"/>
+    <item component="ComponentInfo{com.mutangtech.qianji/com.mutangtech.qianji.ui.main.MainActivity}" drawable="qianji"/>
+    <item component="ComponentInfo{tv.danmaku.bili/tv.danmaku.bili.MainActivityV2}" drawable="bilibili"/>
+    <item component="ComponentInfo{xyz.hanks.note/xyz.hanks.note.ui.activity.MainActivity}" drawable="hanks_note"/>
+    <item component="ComponentInfo{com.google.android.GoogleCameraEng/com.android.camera.CameraLauncher}" drawable="camera"/>
+    <item component="ComponentInfo{com.unionpay/com.unionpay.activity.UPActivityWelcome}" drawable="unionpay"/>
 
 
 

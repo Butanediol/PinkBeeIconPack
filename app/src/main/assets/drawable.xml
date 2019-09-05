@@ -41,22 +41,14 @@
       <item drawable="voice_recorder" />
 
     <category title="New" />
-      <item drawable="didapinche" />
-      <item drawable="didi_psngr" />
-      <item drawable="dong_che_di" />
-      <item drawable="ecitic_credit" />
-      <item drawable="evernote" />
-      <item drawable="jisu_browser" />
-      <item drawable="q_plus" />
-      <item drawable="qqemoji" />
-      <item drawable="rrmj" />
-      <item drawable="uc_browser" />
-      <item drawable="uujian_browser" />
-      <item drawable="xiaomi_shop" />
-      <item drawable="yandex_browser" />
-      <item drawable="yingyonghui" />
-      <item drawable="yyets" />
-      <item drawable="zlive" />
+      <item drawable="hanks_note" />
+      <item drawable="qianji" />
+      <item drawable="rar" />
+      <item drawable="sogou_ime" />
+      <item drawable="tencent_movie" />
+      <item drawable="tmri12123" />
+      <item drawable="unionpay" />
+      <item drawable="youku" />
 
     <category title="Google" />
       <item drawable="chrome" />
@@ -164,6 +156,7 @@
       <item drawable="google_play" />
       <item drawable="greenline_guahao" />
       <item drawable="greenmusic" />
+      <item drawable="hanks_note" />
       <item drawable="hhw" />
       <item drawable="hsbb" />
       <item drawable="hupu" />
@@ -208,6 +201,7 @@
       <item drawable="private_notepad" />
       <item drawable="ps_cc" />
       <item drawable="q_plus" />
+      <item drawable="qianji" />
       <item drawable="qq" />
       <item drawable="qq_browser" />
       <item drawable="qq_lite" />
@@ -216,6 +210,7 @@
       <item drawable="qq_safety_center" />
       <item drawable="qqemoji" />
       <item drawable="quark" />
+      <item drawable="rar" />
       <item drawable="rimet_chuichui" />
       <item drawable="root_explorer" />
       <item drawable="rrmj" />
@@ -229,6 +224,7 @@
       <item drawable="sim1_tool" />
       <item drawable="sim2_tool" />
       <item drawable="smzdm" />
+      <item drawable="sogou_ime" />
       <item drawable="sony_music" />
       <item drawable="sony_weather" />
       <item drawable="ssr" />
@@ -237,6 +233,7 @@
       <item drawable="taobao" />
       <item drawable="telegram" />
       <item drawable="telegram_x" />
+      <item drawable="tencent_movie" />
       <item drawable="tencent_video" />
       <item drawable="the12306" />
       <item drawable="the4399" />
@@ -245,10 +242,12 @@
       <item drawable="tik_tok" />
       <item drawable="tim" />
       <item drawable="titanium_backup" />
+      <item drawable="tmri12123" />
       <item drawable="tomatodo" />
       <item drawable="tumblr" />
       <item drawable="twitter" />
       <item drawable="uc_browser" />
+      <item drawable="unionpay" />
       <item drawable="uujian_browser" />
       <item drawable="v2rayng" />
       <item drawable="via" />
@@ -270,6 +269,7 @@
       <item drawable="yandex_browser" />
       <item drawable="yingyonghui" />
       <item drawable="youdao_dict" />
+      <item drawable="youku" />
       <item drawable="yyets" />
       <item drawable="zarchiver" />
       <item drawable="zarchiver_pro" />

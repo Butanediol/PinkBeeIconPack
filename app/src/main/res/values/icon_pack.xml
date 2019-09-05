@@ -85,6 +85,7 @@
         <item>greenline_guahao</item>
         <item>greenline_guahao</item>
         <item>greenmusic</item>
+        <item>hanks_note</item>
         <item>hhw</item>
         <item>hsbb</item>
         <item>hupu</item>
@@ -131,6 +132,7 @@
         <item>private_notepad</item>
         <item>ps_cc</item>
         <item>q_plus</item>
+        <item>qianji</item>
         <item>qq_browser</item>
         <item>qq_lite</item>
         <item>qq_mail</item>
@@ -138,6 +140,7 @@
         <item>qq_safety_center</item>
         <item>qqemoji</item>
         <item>quark</item>
+        <item>rar</item>
         <item>rimet_chuichui</item>
         <item>root_explorer</item>
         <item>rrmj</item>
@@ -151,6 +154,7 @@
         <item>sim1_tool</item>
         <item>sim2_tool</item>
         <item>smzdm</item>
+        <item>sogou_ime</item>
         <item>sony_music</item>
         <item>sony_music</item>
         <item>sony_weather</item>
@@ -159,6 +163,7 @@
         <item>taichi</item>
         <item>telegram</item>
         <item>telegram_x</item>
+        <item>tencent_movie</item>
         <item>tencent_video</item>
         <item>the12306</item>
         <item>the4399</item>
@@ -167,9 +172,11 @@
         <item>tik_tok</item>
         <item>titanium_backup</item>
         <item>titanium_backup</item>
+        <item>tmri12123</item>
         <item>tomatodo</item>
         <item>tumblr</item>
         <item>uc_browser</item>
+        <item>unionpay</item>
         <item>uujian_browser</item>
         <item>via</item>
         <item>voice_recorder</item>
@@ -189,6 +196,7 @@
         <item>yandex_browser</item>
         <item>yingyonghui</item>
         <item>youdao_dict</item>
+        <item>youku</item>
         <item>yyets</item>
         <item>zarchiver</item>
         <item>zarchiver_pro</item>
@@ -278,6 +286,7 @@
         <item>greenline_guahao</item>
         <item>greenline_guahao</item>
         <item>greenmusic</item>
+        <item>hanks_note</item>
         <item>hhw</item>
         <item>hsbb</item>
         <item>hupu</item>
@@ -326,6 +335,7 @@
         <item>private_notepad</item>
         <item>ps_cc</item>
         <item>q_plus</item>
+        <item>qianji</item>
         <item>qq</item>
         <item>qq_browser</item>
         <item>qq_lite</item>
@@ -334,6 +344,7 @@
         <item>qq_safety_center</item>
         <item>qqemoji</item>
         <item>quark</item>
+        <item>rar</item>
         <item>rimet_chuichui</item>
         <item>root_explorer</item>
         <item>rrmj</item>
@@ -347,6 +358,7 @@
         <item>sim1_tool</item>
         <item>sim2_tool</item>
         <item>smzdm</item>
+        <item>sogou_ime</item>
         <item>sony_music</item>
         <item>sony_music</item>
         <item>sony_weather</item>
@@ -355,6 +367,7 @@
         <item>taichi</item>
         <item>telegram</item>
         <item>telegram_x</item>
+        <item>tencent_movie</item>
         <item>tencent_video</item>
         <item>the12306</item>
         <item>the4399</item>
@@ -364,10 +377,12 @@
         <item>tim</item>
         <item>titanium_backup</item>
         <item>titanium_backup</item>
+        <item>tmri12123</item>
         <item>tomatodo</item>
         <item>tumblr</item>
         <item>twitter</item>
         <item>uc_browser</item>
+        <item>unionpay</item>
         <item>uujian_browser</item>
         <item>via</item>
         <item>voice_recorder</item>
@@ -388,6 +403,7 @@
         <item>yandex_browser</item>
         <item>yingyonghui</item>
         <item>youdao_dict</item>
+        <item>youku</item>
         <item>yyets</item>
         <item>zarchiver</item>
         <item>zarchiver_pro</item>
