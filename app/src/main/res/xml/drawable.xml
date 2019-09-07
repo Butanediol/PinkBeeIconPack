@@ -41,26 +41,26 @@
       <item drawable="voice_recorder" />
 
     <category title="New" />
-      <item drawable="fluid_ng" />
-      <item drawable="go_hosts" />
-      <item drawable="ifly_ime" />
-      <item drawable="kancolle" />
-      <item drawable="kcanotify" />
-      <item drawable="photo_editor" />
-      <item drawable="pivision" />
-      <item drawable="rewind" />
-      <item drawable="speedtest" />
-      <item drawable="speedtest_2" />
-      <item drawable="village" />
-      <item drawable="weidian" />
-      <item drawable="whale_proxy" />
-      <item drawable="willcloud_themestore" />
-      <item drawable="xhs" />
+      <item drawable="bluewhale" />
+      <item drawable="gmail" />
+      <item drawable="greenify" />
+      <item drawable="iherb_cn" />
+      <item drawable="kwai" />
+      <item drawable="sony_support" />
+      <item drawable="thunder_vpn" />
+      <item drawable="tomvpn" />
+      <item drawable="toutiao" />
+      <item drawable="what_s_new" />
+      <item drawable="wutacam" />
+      <item drawable="ximalaya" />
+      <item drawable="youtube" />
 
     <category title="Google" />
       <item drawable="chrome" />
+      <item drawable="gmail" />
       <item drawable="google" />
       <item drawable="google_play" />
+      <item drawable="youtube" />
 
     <category title="Baidu" />
       <item drawable="baidu_input" />
@@ -79,6 +79,8 @@
     <category title="Xperia" />
       <item drawable="fm_radio" />
       <item drawable="sony_music" />
+      <item drawable="sony_support" />
+      <item drawable="what_s_new" />
 
     <category title="Games" />
       <item drawable="arknights" />
@@ -113,6 +115,7 @@
       <item drawable="balance" />
       <item drawable="bilibili" />
       <item drawable="blocker" />
+      <item drawable="bluewhale" />
       <item drawable="bmap" />
       <item drawable="boc" />
       <item drawable="browser" />
@@ -162,9 +165,11 @@
       <item drawable="gallery" />
       <item drawable="geometric_weather" />
       <item drawable="gh_helper" />
+      <item drawable="gmail" />
       <item drawable="go_hosts" />
       <item drawable="google" />
       <item drawable="google_play" />
+      <item drawable="greenify" />
       <item drawable="greenline_guahao" />
       <item drawable="greenmusic" />
       <item drawable="hanks_note" />
@@ -173,6 +178,7 @@
       <item drawable="hupu" />
       <item drawable="huya_tv" />
       <item drawable="ifly_ime" />
+      <item drawable="iherb_cn" />
       <item drawable="iqiyi" />
       <item drawable="jd" />
       <item drawable="jd_jr" />
@@ -182,6 +188,7 @@
       <item drawable="kancolle" />
       <item drawable="kcanotify" />
       <item drawable="kiwi_browser" />
+      <item drawable="kwai" />
       <item drawable="langeasy" />
       <item drawable="laowang_vpn" />
       <item drawable="librera_pro" />
@@ -243,6 +250,7 @@
       <item drawable="smzdm" />
       <item drawable="sogou_ime" />
       <item drawable="sony_music" />
+      <item drawable="sony_support" />
       <item drawable="sony_weather" />
       <item drawable="speedtest" />
       <item drawable="speedtest_2" />
@@ -257,12 +265,15 @@
       <item drawable="the12306" />
       <item drawable="the4399" />
       <item drawable="thunder" />
+      <item drawable="thunder_vpn" />
       <item drawable="tide" />
       <item drawable="tik_tok" />
       <item drawable="tim" />
       <item drawable="titanium_backup" />
       <item drawable="tmri12123" />
       <item drawable="tomatodo" />
+      <item drawable="tomvpn" />
+      <item drawable="toutiao" />
       <item drawable="tumblr" />
       <item drawable="twitter" />
       <item drawable="uc_browser" />
@@ -280,20 +291,24 @@
       <item drawable="weidian" />
       <item drawable="weread" />
       <item drawable="whale_proxy" />
+      <item drawable="what_s_new" />
       <item drawable="willcloud_themestore" />
       <item drawable="wondertek_paper" />
       <item drawable="wps_office" />
+      <item drawable="wutacam" />
       <item drawable="wzry" />
       <item drawable="xbrowser" />
       <item drawable="xhs" />
       <item drawable="xianyu" />
       <item drawable="xiaomi_shop" />
       <item drawable="xiaomi_youpin" />
+      <item drawable="ximalaya" />
       <item drawable="xny_sc" />
       <item drawable="yandex_browser" />
       <item drawable="yingyonghui" />
       <item drawable="youdao_dict" />
       <item drawable="youku" />
+      <item drawable="youtube" />
       <item drawable="yyets" />
       <item drawable="zarchiver" />
       <item drawable="zarchiver_pro" />

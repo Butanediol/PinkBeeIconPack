@@ -468,6 +468,20 @@
     <item component="ComponentInfo{com.alibaba.android.rimet/com.alibaba.android.rimet.biz.LaunchHomeActivity}" drawable="dingding"/>
     <item component="ComponentInfo{com.iflytek.inputmethod.google/com.iflytek.inputmethod.LauncherActivity}" drawable="ifly_ime"/>
     <item component="ComponentInfo{com.antest1.kcanotify/com.antest1.kcanotify.InitStartActivity}" drawable="kcanotify"/>
+    <item component="ComponentInfo{com.smile.gifmaker/com.yxcorp.gifshow.HomeActivity}" drawable="kwai"/>
+    <item component="ComponentInfo{com.bluewhale.vpn.shadowsocks/com.bluewhale.vpn.shadowsocks.SplashActivity}" drawable="bluewhale"/>
+    <item component="ComponentInfo{com.amamiya.nanoiconpack.miracles/com.amamiya.nanoiconpack.miracles.activities.SplashActivity}" drawable="miracles"/>
+    <item component="ComponentInfo{com.ss.android.article.news/com.ss.android.article.news.activity.SplashBadgeActivity}" drawable="toutiao"/>
+    <item component="ComponentInfo{com.ximalaya.ting.android/com.ximalaya.ting.android.host.activity.WelComeActivity}" drawable="ximalaya"/>
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube"/>
+    <item component="ComponentInfo{com.iherb.cn/com.iherb.other.BeforeSplashActivity}" drawable="iherb_cn"/>
+    <item component="ComponentInfo{com.google.android.gm/com.google.android.gm.ConversationListActivityGmail}" drawable="gmail"/>
+    <item component="ComponentInfo{com.oasisfeng.greenify/com.oasisfeng.greenify.GreenifyActivity}" drawable="greenify"/>
+    <item component="ComponentInfo{com.sonymobile.support/com.sonymobile.support.InAppSupportLauncher}" drawable="sony_support"/>
+    <item component="ComponentInfo{com.fast.free.unblock.thunder.vpn/com.signallab.thunder.activity.MainActivity}" drawable="thunder_vpn"/>
+    <item component="ComponentInfo{me.xhss.tomvpn/me.xhss.tomvpn.MainActivity}" drawable="tomvpn"/>
+    <item component="ComponentInfo{com.sonymobile.entrance/com.sonymobile.entrance.EntranceActivity}" drawable="what_s_new"/>
+    <item component="ComponentInfo{com.benqu.wuta/com.benqu.wuta.activities.splash.SplashActivity}" drawable="wutacam"/>
 
 
 

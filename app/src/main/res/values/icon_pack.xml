@@ -35,6 +35,7 @@
         <item>baidu_tieba</item>
         <item>baidu_translate</item>
         <item>baimiao</item>
+        <item>bluewhale</item>
         <item>bmap</item>
         <item>browser</item>
         <item>calculator</item>
@@ -81,9 +82,11 @@
         <item>gallery</item>
         <item>geometric_weather</item>
         <item>gh_helper</item>
+        <item>gmail</item>
         <item>go_hosts</item>
         <item>google</item>
         <item>google_play</item>
+        <item>greenify</item>
         <item>greenline_guahao</item>
         <item>greenline_guahao</item>
         <item>greenmusic</item>
@@ -93,6 +96,7 @@
         <item>hupu</item>
         <item>huya_tv</item>
         <item>ifly_ime</item>
+        <item>iherb_cn</item>
         <item>iqiyi</item>
         <item>jd</item>
         <item>jd_jr</item>
@@ -103,6 +107,7 @@
         <item>kancolle</item>
         <item>kcanotify</item>
         <item>kiwi_browser</item>
+        <item>kwai</item>
         <item>langeasy</item>
         <item>laowang_vpn</item>
         <item>librera_pro</item>
@@ -165,6 +170,7 @@
         <item>sogou_ime</item>
         <item>sony_music</item>
         <item>sony_music</item>
+        <item>sony_support</item>
         <item>sony_weather</item>
         <item>speedtest</item>
         <item>speedtest_2</item>
@@ -178,12 +184,15 @@
         <item>the12306</item>
         <item>the4399</item>
         <item>thunder</item>
+        <item>thunder_vpn</item>
         <item>tide</item>
         <item>tik_tok</item>
         <item>titanium_backup</item>
         <item>titanium_backup</item>
         <item>tmri12123</item>
         <item>tomatodo</item>
+        <item>tomvpn</item>
+        <item>toutiao</item>
         <item>tumblr</item>
         <item>uc_browser</item>
         <item>unionpay</item>
@@ -198,20 +207,24 @@
         <item>weidian</item>
         <item>weread</item>
         <item>whale_proxy</item>
+        <item>what_s_new</item>
         <item>willcloud_themestore</item>
         <item>wondertek_paper</item>
         <item>wps_office</item>
+        <item>wutacam</item>
         <item>wzry</item>
         <item>xbrowser</item>
         <item>xhs</item>
         <item>xianyu</item>
         <item>xiaomi_shop</item>
         <item>xiaomi_youpin</item>
+        <item>ximalaya</item>
         <item>xny_sc</item>
         <item>yandex_browser</item>
         <item>yingyonghui</item>
         <item>youdao_dict</item>
         <item>youku</item>
+        <item>youtube</item>
         <item>yyets</item>
         <item>zarchiver</item>
         <item>zarchiver_pro</item>
@@ -249,6 +262,7 @@
         <item>baidu_tieba</item>
         <item>baidu_translate</item>
         <item>baimiao</item>
+        <item>bluewhale</item>
         <item>bmap</item>
         <item>browser</item>
         <item>calculator</item>
@@ -297,9 +311,11 @@
         <item>gallery</item>
         <item>geometric_weather</item>
         <item>gh_helper</item>
+        <item>gmail</item>
         <item>go_hosts</item>
         <item>google</item>
         <item>google_play</item>
+        <item>greenify</item>
         <item>greenline_guahao</item>
         <item>greenline_guahao</item>
         <item>greenmusic</item>
@@ -309,6 +325,7 @@
         <item>hupu</item>
         <item>huya_tv</item>
         <item>ifly_ime</item>
+        <item>iherb_cn</item>
         <item>iqiyi</item>
         <item>jd</item>
         <item>jd_jr</item>
@@ -319,6 +336,7 @@
         <item>kancolle</item>
         <item>kcanotify</item>
         <item>kiwi_browser</item>
+        <item>kwai</item>
         <item>langeasy</item>
         <item>laowang_vpn</item>
         <item>librera_pro</item>
@@ -384,6 +402,7 @@
         <item>sogou_ime</item>
         <item>sony_music</item>
         <item>sony_music</item>
+        <item>sony_support</item>
         <item>sony_weather</item>
         <item>speedtest</item>
         <item>speedtest_2</item>
@@ -397,6 +416,7 @@
         <item>the12306</item>
         <item>the4399</item>
         <item>thunder</item>
+        <item>thunder_vpn</item>
         <item>tide</item>
         <item>tik_tok</item>
         <item>tim</item>
@@ -404,6 +424,8 @@
         <item>titanium_backup</item>
         <item>tmri12123</item>
         <item>tomatodo</item>
+        <item>tomvpn</item>
+        <item>toutiao</item>
         <item>tumblr</item>
         <item>twitter</item>
         <item>uc_browser</item>
@@ -420,20 +442,24 @@
         <item>weidian</item>
         <item>weread</item>
         <item>whale_proxy</item>
+        <item>what_s_new</item>
         <item>willcloud_themestore</item>
         <item>wondertek_paper</item>
         <item>wps_office</item>
+        <item>wutacam</item>
         <item>wzry</item>
         <item>xbrowser</item>
         <item>xhs</item>
         <item>xianyu</item>
         <item>xiaomi_shop</item>
         <item>xiaomi_youpin</item>
+        <item>ximalaya</item>
         <item>xny_sc</item>
         <item>yandex_browser</item>
         <item>yingyonghui</item>
         <item>youdao_dict</item>
         <item>youku</item>
+        <item>youtube</item>
         <item>yyets</item>
         <item>zarchiver</item>
         <item>zarchiver_pro</item>
