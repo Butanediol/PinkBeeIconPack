@@ -23,6 +23,8 @@
     <iconmask img1="iconmask"/>
     <scale factor="1.0"/>
 
+    <calendar component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" prefix="google_calendar_d"/>
+
     <item component="ComponentInfo{com.dv.adm.pay/com.dv.adm.pay.Main}" drawable="adm_pro" />
     <item component="ComponentInfo{com.dv.adm/com.dv.adm.Main}" drawable="adm_pro" />
     <item component="ComponentInfo{com.dv.adm.pay/com.dv.get.Main}" drawable="adm_pro"/>
@@ -482,7 +484,18 @@
     <item component="ComponentInfo{me.xhss.tomvpn/me.xhss.tomvpn.MainActivity}" drawable="tomvpn"/>
     <item component="ComponentInfo{com.sonymobile.entrance/com.sonymobile.entrance.EntranceActivity}" drawable="what_s_new"/>
     <item component="ComponentInfo{com.benqu.wuta/com.benqu.wuta.activities.splash.SplashActivity}" drawable="wutacam"/>
-
+    <item component="ComponentInfo{com.supercell.boombeach.landing/com.supercell.boombeach.GameAppKunlun}" drawable="boom_beach"/>
+    <item component="ComponentInfo{in.zhaoj.shadowsocksrr/com.github.shadowsocks.Shadowsocks}" drawable="ssrr"/>
+    <item component="ComponentInfo{com.soundcloud.android/com.soundcloud.android.main.LauncherActivity}" drawable="soundcloud"/>
+    <item component="ComponentInfo{com.vy.visvacn/com.vy.visvacn.user.login.ui.SplashActivity}" drawable="tazai"/>
+    <item component="ComponentInfo{com.google.android.apps.translate/com.google.android.apps.translate.TranslateActivity}" drawable="google_translate"/>
+    <item component="ComponentInfo{com.qihoo.appstore/com.qihoo.appstore.home.LauncherActivity}" drawable="qihoo_appstore"/>
+    <!-- <item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" drawable="google_calendar"/> -->
+    <item component="ComponentInfo{com.cmcc.hemuyi/com.arcsoft.closeli.SplashActivity}" drawable="hemu"/>
+    <item component="ComponentInfo{com.lionmobi.powerclean/com.lionmobi.powerclean.activity.SplashActivity}" drawable="power_clean"/>
+    <item component="ComponentInfo{cn.gov.tax.its/cn.gov.tax.its.MainActivity}" drawable="gov_tax"/>
+    <item component="ComponentInfo{com.qeeniao.mobile.kdjz/com.qeeniao.mobile.kdjz.BlankActivity}" drawable="kdjz"/>
+    <item component="ComponentInfo{com.jx.cmcc.ict.ibelieve/com.jx.cmcc.ict.ibelieve.activity.MainGuideActivity}" drawable="cmcc_ibelieve"/>
 
 
 

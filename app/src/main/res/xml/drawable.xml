@@ -41,25 +41,26 @@
       <item drawable="voice_recorder" />
 
     <category title="New" />
-      <item drawable="bluewhale" />
-      <item drawable="gmail" />
-      <item drawable="greenify" />
-      <item drawable="iherb_cn" />
-      <item drawable="kwai" />
-      <item drawable="sony_support" />
-      <item drawable="thunder_vpn" />
-      <item drawable="tomvpn" />
-      <item drawable="toutiao" />
-      <item drawable="what_s_new" />
-      <item drawable="wutacam" />
-      <item drawable="ximalaya" />
-      <item drawable="youtube" />
+      <item drawable="boom_beach" />
+      <item drawable="cmcc_ibelieve" />
+      <item drawable="google_calendar" />
+      <item drawable="google_translate" />
+      <item drawable="gov_tax" />
+      <item drawable="hemu" />
+      <item drawable="kdjz" />
+      <item drawable="power_clean" />
+      <item drawable="qihoo_appstore" />
+      <item drawable="soundcloud" />
+      <item drawable="ssrr" />
+      <item drawable="tazai" />
 
     <category title="Google" />
       <item drawable="chrome" />
       <item drawable="gmail" />
       <item drawable="google" />
+      <item drawable="google_calendar" />
       <item drawable="google_play" />
+      <item drawable="google_translate" />
       <item drawable="youtube" />
 
     <category title="Baidu" />
@@ -84,6 +85,7 @@
 
     <category title="Games" />
       <item drawable="arknights" />
+      <item drawable="boom_beach" />
       <item drawable="hhw" />
       <item drawable="kancolle" />
       <item drawable="kcanotify" />
@@ -118,6 +120,7 @@
       <item drawable="bluewhale" />
       <item drawable="bmap" />
       <item drawable="boc" />
+      <item drawable="boom_beach" />
       <item drawable="browser" />
       <item drawable="calculator" />
       <item drawable="camera" />
@@ -130,6 +133,7 @@
       <item drawable="chromium" />
       <item drawable="clean_master" />
       <item drawable="clock" />
+      <item drawable="cmcc_ibelieve" />
       <item drawable="codoon" />
       <item drawable="colanotes" />
       <item drawable="contacts" />
@@ -168,11 +172,15 @@
       <item drawable="gmail" />
       <item drawable="go_hosts" />
       <item drawable="google" />
+      <item drawable="google_calendar" />
       <item drawable="google_play" />
+      <item drawable="google_translate" />
+      <item drawable="gov_tax" />
       <item drawable="greenify" />
       <item drawable="greenline_guahao" />
       <item drawable="greenmusic" />
       <item drawable="hanks_note" />
+      <item drawable="hemu" />
       <item drawable="hhw" />
       <item drawable="hsbb" />
       <item drawable="hupu" />
@@ -187,6 +195,7 @@
       <item drawable="jisu_browser" />
       <item drawable="kancolle" />
       <item drawable="kcanotify" />
+      <item drawable="kdjz" />
       <item drawable="kiwi_browser" />
       <item drawable="kwai" />
       <item drawable="langeasy" />
@@ -221,10 +230,12 @@
       <item drawable="pic_acg" />
       <item drawable="picsart" />
       <item drawable="pivision" />
+      <item drawable="power_clean" />
       <item drawable="private_notepad" />
       <item drawable="ps_cc" />
       <item drawable="q_plus" />
       <item drawable="qianji" />
+      <item drawable="qihoo_appstore" />
       <item drawable="qq" />
       <item drawable="qq_browser" />
       <item drawable="qq_lite" />
@@ -252,12 +263,15 @@
       <item drawable="sony_music" />
       <item drawable="sony_support" />
       <item drawable="sony_weather" />
+      <item drawable="soundcloud" />
       <item drawable="speedtest" />
       <item drawable="speedtest_2" />
       <item drawable="ssr" />
+      <item drawable="ssrr" />
       <item drawable="steam" />
       <item drawable="taichi" />
       <item drawable="taobao" />
+      <item drawable="tazai" />
       <item drawable="telegram" />
       <item drawable="telegram_x" />
       <item drawable="tencent_movie" />

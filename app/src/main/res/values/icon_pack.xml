@@ -37,6 +37,7 @@
         <item>baimiao</item>
         <item>bluewhale</item>
         <item>bmap</item>
+        <item>boom_beach</item>
         <item>browser</item>
         <item>calculator</item>
         <item>camera</item>
@@ -48,6 +49,7 @@
         <item>chrome</item>
         <item>chromium</item>
         <item>clean_master</item>
+        <item>cmcc_ibelieve</item>
         <item>codoon</item>
         <item>colanotes</item>
         <item>contacts</item>
@@ -85,12 +87,16 @@
         <item>gmail</item>
         <item>go_hosts</item>
         <item>google</item>
+        <item>google_calendar</item>
         <item>google_play</item>
+        <item>google_translate</item>
+        <item>gov_tax</item>
         <item>greenify</item>
         <item>greenline_guahao</item>
         <item>greenline_guahao</item>
         <item>greenmusic</item>
         <item>hanks_note</item>
+        <item>hemu</item>
         <item>hhw</item>
         <item>hsbb</item>
         <item>hupu</item>
@@ -106,6 +112,7 @@
         <item>jisu_browser</item>
         <item>kancolle</item>
         <item>kcanotify</item>
+        <item>kdjz</item>
         <item>kiwi_browser</item>
         <item>kwai</item>
         <item>langeasy</item>
@@ -141,10 +148,12 @@
         <item>pic_acg</item>
         <item>picsart</item>
         <item>pivision</item>
+        <item>power_clean</item>
         <item>private_notepad</item>
         <item>ps_cc</item>
         <item>q_plus</item>
         <item>qianji</item>
+        <item>qihoo_appstore</item>
         <item>qq_browser</item>
         <item>qq_lite</item>
         <item>qq_mail</item>
@@ -172,11 +181,14 @@
         <item>sony_music</item>
         <item>sony_support</item>
         <item>sony_weather</item>
+        <item>soundcloud</item>
         <item>speedtest</item>
         <item>speedtest_2</item>
         <item>ssr</item>
+        <item>ssrr</item>
         <item>steam</item>
         <item>taichi</item>
+        <item>tazai</item>
         <item>telegram</item>
         <item>telegram_x</item>
         <item>tencent_movie</item>
@@ -264,6 +276,7 @@
         <item>baimiao</item>
         <item>bluewhale</item>
         <item>bmap</item>
+        <item>boom_beach</item>
         <item>browser</item>
         <item>calculator</item>
         <item>camera</item>
@@ -276,6 +289,7 @@
         <item>chromium</item>
         <item>clean_master</item>
         <item>clock</item>
+        <item>cmcc_ibelieve</item>
         <item>codoon</item>
         <item>colanotes</item>
         <item>contacts</item>
@@ -314,12 +328,16 @@
         <item>gmail</item>
         <item>go_hosts</item>
         <item>google</item>
+        <item>google_calendar</item>
         <item>google_play</item>
+        <item>google_translate</item>
+        <item>gov_tax</item>
         <item>greenify</item>
         <item>greenline_guahao</item>
         <item>greenline_guahao</item>
         <item>greenmusic</item>
         <item>hanks_note</item>
+        <item>hemu</item>
         <item>hhw</item>
         <item>hsbb</item>
         <item>hupu</item>
@@ -335,6 +353,7 @@
         <item>jisu_browser</item>
         <item>kancolle</item>
         <item>kcanotify</item>
+        <item>kdjz</item>
         <item>kiwi_browser</item>
         <item>kwai</item>
         <item>langeasy</item>
@@ -372,10 +391,12 @@
         <item>pic_acg</item>
         <item>picsart</item>
         <item>pivision</item>
+        <item>power_clean</item>
         <item>private_notepad</item>
         <item>ps_cc</item>
         <item>q_plus</item>
         <item>qianji</item>
+        <item>qihoo_appstore</item>
         <item>qq</item>
         <item>qq_browser</item>
         <item>qq_lite</item>
@@ -404,11 +425,14 @@
         <item>sony_music</item>
         <item>sony_support</item>
         <item>sony_weather</item>
+        <item>soundcloud</item>
         <item>speedtest</item>
         <item>speedtest_2</item>
         <item>ssr</item>
+        <item>ssrr</item>
         <item>steam</item>
         <item>taichi</item>
+        <item>tazai</item>
         <item>telegram</item>
         <item>telegram_x</item>
         <item>tencent_movie</item>
