@@ -41,18 +41,17 @@
       <item drawable="voice_recorder" />
 
     <category title="New" />
-      <item drawable="boom_beach" />
-      <item drawable="cmcc_ibelieve" />
-      <item drawable="google_calendar" />
-      <item drawable="google_translate" />
-      <item drawable="gov_tax" />
-      <item drawable="hemu" />
-      <item drawable="kdjz" />
-      <item drawable="power_clean" />
-      <item drawable="qihoo_appstore" />
-      <item drawable="soundcloud" />
-      <item drawable="ssrr" />
-      <item drawable="tazai" />
+      <item drawable="autohome" />
+      <item drawable="autoprice_speed" />
+      <item drawable="eleme_xingxuan" />
+      <item drawable="eyepetizer" />
+      <item drawable="jianying" />
+      <item drawable="kfc" />
+      <item drawable="kugou" />
+      <item drawable="meituan_takeoutnew" />
+      <item drawable="surf_vpn" />
+      <item drawable="woodenletter" />
+      <item drawable="zhuanzhuan" />
 
     <category title="Google" />
       <item drawable="chrome" />
@@ -107,7 +106,9 @@
       <item drawable="apps2sd_pro" />
       <item drawable="appsales" />
       <item drawable="arknights" />
+      <item drawable="autohome" />
       <item drawable="automate" />
+      <item drawable="autoprice_speed" />
       <item drawable="baidu_input" />
       <item drawable="baidu_map" />
       <item drawable="baidu_netdisk" />
@@ -155,12 +156,14 @@
       <item drawable="ecitic_credit" />
       <item drawable="ehviewer" />
       <item drawable="eleme" />
+      <item drawable="eleme_xingxuan" />
       <item drawable="es_file_explorer" />
       <item drawable="es_file_explorer_pro" />
       <item drawable="etao" />
       <item drawable="eudic" />
       <item drawable="evernote" />
       <item drawable="everphoto" />
+      <item drawable="eyepetizer" />
       <item drawable="file_manager" />
       <item drawable="files" />
       <item drawable="firefox" />
@@ -191,12 +194,15 @@
       <item drawable="jd" />
       <item drawable="jd_jr" />
       <item drawable="jd_jxj" />
+      <item drawable="jianying" />
       <item drawable="jiemian_news" />
       <item drawable="jisu_browser" />
       <item drawable="kancolle" />
       <item drawable="kcanotify" />
       <item drawable="kdjz" />
+      <item drawable="kfc" />
       <item drawable="kiwi_browser" />
+      <item drawable="kugou" />
       <item drawable="kwai" />
       <item drawable="langeasy" />
       <item drawable="laowang_vpn" />
@@ -206,6 +212,7 @@
       <item drawable="meet_you" />
       <item drawable="meeye" />
       <item drawable="meituan" />
+      <item drawable="meituan_takeoutnew" />
       <item drawable="message" />
       <item drawable="mi_fit" />
       <item drawable="mixplorer" />
@@ -269,6 +276,7 @@
       <item drawable="ssr" />
       <item drawable="ssrr" />
       <item drawable="steam" />
+      <item drawable="surf_vpn" />
       <item drawable="taichi" />
       <item drawable="taobao" />
       <item drawable="tazai" />
@@ -308,6 +316,7 @@
       <item drawable="what_s_new" />
       <item drawable="willcloud_themestore" />
       <item drawable="wondertek_paper" />
+      <item drawable="woodenletter" />
       <item drawable="wps_office" />
       <item drawable="wutacam" />
       <item drawable="wzry" />
@@ -330,6 +339,7 @@
       <item drawable="zhihu" />
       <item drawable="zhihu_daily" />
       <item drawable="zhiyoo" />
+      <item drawable="zhuanzhuan" />
       <item drawable="zlive" />
       <item drawable="zuiyou" />
 </resources>

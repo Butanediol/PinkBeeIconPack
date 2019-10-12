@@ -496,6 +496,18 @@
     <item component="ComponentInfo{cn.gov.tax.its/cn.gov.tax.its.MainActivity}" drawable="gov_tax"/>
     <item component="ComponentInfo{com.qeeniao.mobile.kdjz/com.qeeniao.mobile.kdjz.BlankActivity}" drawable="kdjz"/>
     <item component="ComponentInfo{com.jx.cmcc.ict.ibelieve/com.jx.cmcc.ict.ibelieve.activity.MainGuideActivity}" drawable="cmcc_ibelieve"/>
+    <item component="ComponentInfo{com.sankuai.meituan.takeoutnew/com.sankuai.meituan.takeoutnew.ui.page.boot.WelcomeActivity}" drawable="meituan_takeoutnew"/>
+    <item component="ComponentInfo{com.yek.android.kfc.activitys/com.yum.brandkfc.SplashAct}" drawable="kfc"/>
+    <item component="ComponentInfo{com.wuba.zhuanzhuan/com.wuba.zhuanzhuan.presentation.view.activity.LaunchActivity}" drawable="zhuanzhuan"/>
+    <item component="ComponentInfo{com.kugou.android/com.kugou.android.app.splash.SplashActivity}" drawable="kugou"/>
+    <item component="ComponentInfo{com.baidu.lbs.waimai/com.baidu.lbs.waimai.SplashActivity}" drawable="eleme_xingxuan"/>
+    <item component="ComponentInfo{com.cubic.autohome/com.cubic.autohome.LogoActivity}" drawable="autohome"/>
+    <item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityMediaList}" drawable="mx_player"/> 
+    <item component="ComponentInfo{com.xfx.surfvpn/com.xfx.surfvpn.LoadingActivity}" drawable="surf_vpn"/>
+    <item component="ComponentInfo{com.One.WoodenLetter/com.One.WoodenLetter.LetterActivity}" drawable="woodenletter"/>
+    <item component="ComponentInfo{com.lemon.lv/com.vega.launcher.PreInstallConfirmActivity}" drawable="jianying"/>
+    <item component="ComponentInfo{com.wandoujia.eyepetizer/com.wandoujia.eyepetizer.ui.activity.LandingActivity}" drawable="eyepetizer"/>
+    <item component="ComponentInfo{com.ss.android.autoprice/com.ss.android.auto.activity.SplashActivity}" drawable="autoprice_speed"/>
 
 
 

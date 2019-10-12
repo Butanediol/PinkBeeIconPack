@@ -29,6 +29,8 @@
         <item>apkpure</item>
         <item>apps2sd_pro</item>
         <item>arknights</item>
+        <item>autohome</item>
+        <item>autoprice_speed</item>
         <item>baidu_input</item>
         <item>baidu_map</item>
         <item>baidu_netdisk</item>
@@ -69,12 +71,14 @@
         <item>ecitic_credit</item>
         <item>ehviewer</item>
         <item>eleme</item>
+        <item>eleme_xingxuan</item>
         <item>es_file_explorer</item>
         <item>es_file_explorer_pro</item>
         <item>etao</item>
         <item>eudic</item>
         <item>evernote</item>
         <item>everphoto</item>
+        <item>eyepetizer</item>
         <item>file_manager</item>
         <item>files</item>
         <item>firefox</item>
@@ -107,13 +111,16 @@
         <item>jd</item>
         <item>jd_jr</item>
         <item>jd_jxj</item>
+        <item>jianying</item>
         <item>jiemian_news</item>
         <item>jiemian_news</item>
         <item>jisu_browser</item>
         <item>kancolle</item>
         <item>kcanotify</item>
         <item>kdjz</item>
+        <item>kfc</item>
         <item>kiwi_browser</item>
+        <item>kugou</item>
         <item>kwai</item>
         <item>langeasy</item>
         <item>laowang_vpn</item>
@@ -122,6 +129,7 @@
         <item>mail</item>
         <item>meet_you</item>
         <item>meituan</item>
+        <item>meituan_takeoutnew</item>
         <item>message</item>
         <item>mi_fit</item>
         <item>mixplorer</item>
@@ -187,6 +195,7 @@
         <item>ssr</item>
         <item>ssrr</item>
         <item>steam</item>
+        <item>surf_vpn</item>
         <item>taichi</item>
         <item>tazai</item>
         <item>telegram</item>
@@ -222,6 +231,7 @@
         <item>what_s_new</item>
         <item>willcloud_themestore</item>
         <item>wondertek_paper</item>
+        <item>woodenletter</item>
         <item>wps_office</item>
         <item>wutacam</item>
         <item>wzry</item>
@@ -242,6 +252,7 @@
         <item>zarchiver_pro</item>
         <item>zhibo8</item>
         <item>zhiyoo</item>
+        <item>zhuanzhuan</item>
         <item>zlive</item>
         <item>zuiyou</item>
     </string-array>
@@ -268,6 +279,8 @@
         <item>apple_music</item>
         <item>apps2sd_pro</item>
         <item>arknights</item>
+        <item>autohome</item>
+        <item>autoprice_speed</item>
         <item>baidu_input</item>
         <item>baidu_map</item>
         <item>baidu_netdisk</item>
@@ -310,12 +323,14 @@
         <item>ecitic_credit</item>
         <item>ehviewer</item>
         <item>eleme</item>
+        <item>eleme_xingxuan</item>
         <item>es_file_explorer</item>
         <item>es_file_explorer_pro</item>
         <item>etao</item>
         <item>eudic</item>
         <item>evernote</item>
         <item>everphoto</item>
+        <item>eyepetizer</item>
         <item>file_manager</item>
         <item>files</item>
         <item>firefox</item>
@@ -348,13 +363,16 @@
         <item>jd</item>
         <item>jd_jr</item>
         <item>jd_jxj</item>
+        <item>jianying</item>
         <item>jiemian_news</item>
         <item>jiemian_news</item>
         <item>jisu_browser</item>
         <item>kancolle</item>
         <item>kcanotify</item>
         <item>kdjz</item>
+        <item>kfc</item>
         <item>kiwi_browser</item>
+        <item>kugou</item>
         <item>kwai</item>
         <item>langeasy</item>
         <item>laowang_vpn</item>
@@ -364,6 +382,7 @@
         <item>meet_you</item>
         <item>meeye</item>
         <item>meituan</item>
+        <item>meituan_takeoutnew</item>
         <item>message</item>
         <item>mi_fit</item>
         <item>mixplorer</item>
@@ -431,6 +450,7 @@
         <item>ssr</item>
         <item>ssrr</item>
         <item>steam</item>
+        <item>surf_vpn</item>
         <item>taichi</item>
         <item>tazai</item>
         <item>telegram</item>
@@ -469,6 +489,7 @@
         <item>what_s_new</item>
         <item>willcloud_themestore</item>
         <item>wondertek_paper</item>
+        <item>woodenletter</item>
         <item>wps_office</item>
         <item>wutacam</item>
         <item>wzry</item>
@@ -490,6 +511,7 @@
         <item>zhibo8</item>
         <item>zhihu</item>
         <item>zhiyoo</item>
+        <item>zhuanzhuan</item>
         <item>zlive</item>
         <item>zuiyou</item>
     </string-array>
