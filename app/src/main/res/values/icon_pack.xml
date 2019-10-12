@@ -41,6 +41,7 @@
         <item>bmap</item>
         <item>boom_beach</item>
         <item>browser</item>
+        <item>busintelligentonline</item>
         <item>calculator</item>
         <item>camera</item>
         <item>canva</item>
@@ -108,6 +109,8 @@
         <item>ifly_ime</item>
         <item>iherb_cn</item>
         <item>iqiyi</item>
+        <item>ireader</item>
+        <item>ithome</item>
         <item>jd</item>
         <item>jd_jr</item>
         <item>jd_jxj</item>
@@ -143,9 +146,14 @@
         <item>myandroidtools</item>
         <item>myandroidtools</item>
         <item>nekogram</item>
+        <item>netease_mail</item>
+        <item>netease_news</item>
         <item>netease_vopen</item>
         <item>note</item>
+        <item>onedrive</item>
+        <item>onenote</item>
         <item>oneplus_bbs</item>
+        <item>oneplus_game_space</item>
         <item>oneplus_market</item>
         <item>oneplus_switch</item>
         <item>outlook</item>
@@ -168,6 +176,7 @@
         <item>qq_music</item>
         <item>qq_safety_center</item>
         <item>qqemoji</item>
+        <item>qsync</item>
         <item>quark</item>
         <item>rar</item>
         <item>rewind</item>
@@ -195,6 +204,7 @@
         <item>ssr</item>
         <item>ssrr</item>
         <item>steam</item>
+        <item>summoners_war</item>
         <item>surf_vpn</item>
         <item>taichi</item>
         <item>tazai</item>
@@ -206,14 +216,17 @@
         <item>the4399</item>
         <item>thunder</item>
         <item>thunder_vpn</item>
+        <item>tiantonglaw</item>
         <item>tide</item>
         <item>tik_tok</item>
         <item>titanium_backup</item>
         <item>titanium_backup</item>
+        <item>tmall</item>
         <item>tmri12123</item>
         <item>tomatodo</item>
         <item>tomvpn</item>
         <item>toutiao</item>
+        <item>tssq</item>
         <item>tumblr</item>
         <item>uc_browser</item>
         <item>unionpay</item>
@@ -291,6 +304,7 @@
         <item>bmap</item>
         <item>boom_beach</item>
         <item>browser</item>
+        <item>busintelligentonline</item>
         <item>calculator</item>
         <item>camera</item>
         <item>canva</item>
@@ -360,6 +374,8 @@
         <item>ifly_ime</item>
         <item>iherb_cn</item>
         <item>iqiyi</item>
+        <item>ireader</item>
+        <item>ithome</item>
         <item>jd</item>
         <item>jd_jr</item>
         <item>jd_jxj</item>
@@ -397,9 +413,14 @@
         <item>myandroidtools</item>
         <item>nekogram</item>
         <item>netease_cloudmusic</item>
+        <item>netease_mail</item>
+        <item>netease_news</item>
         <item>netease_vopen</item>
         <item>note</item>
+        <item>onedrive</item>
+        <item>onenote</item>
         <item>oneplus_bbs</item>
+        <item>oneplus_game_space</item>
         <item>oneplus_market</item>
         <item>oneplus_switch</item>
         <item>outlook</item>
@@ -423,6 +444,7 @@
         <item>qq_music</item>
         <item>qq_safety_center</item>
         <item>qqemoji</item>
+        <item>qsync</item>
         <item>quark</item>
         <item>rar</item>
         <item>rewind</item>
@@ -450,6 +472,7 @@
         <item>ssr</item>
         <item>ssrr</item>
         <item>steam</item>
+        <item>summoners_war</item>
         <item>surf_vpn</item>
         <item>taichi</item>
         <item>tazai</item>
@@ -461,15 +484,18 @@
         <item>the4399</item>
         <item>thunder</item>
         <item>thunder_vpn</item>
+        <item>tiantonglaw</item>
         <item>tide</item>
         <item>tik_tok</item>
         <item>tim</item>
         <item>titanium_backup</item>
         <item>titanium_backup</item>
+        <item>tmall</item>
         <item>tmri12123</item>
         <item>tomatodo</item>
         <item>tomvpn</item>
         <item>toutiao</item>
+        <item>tssq</item>
         <item>tumblr</item>
         <item>twitter</item>
         <item>uc_browser</item>

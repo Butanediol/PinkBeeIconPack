@@ -41,17 +41,19 @@
       <item drawable="voice_recorder" />
 
     <category title="New" />
-      <item drawable="autohome" />
-      <item drawable="autoprice_speed" />
-      <item drawable="eleme_xingxuan" />
-      <item drawable="eyepetizer" />
-      <item drawable="jianying" />
-      <item drawable="kfc" />
-      <item drawable="kugou" />
-      <item drawable="meituan_takeoutnew" />
-      <item drawable="surf_vpn" />
-      <item drawable="woodenletter" />
-      <item drawable="zhuanzhuan" />
+      <item drawable="busintelligentonline" />
+      <item drawable="ireader" />
+      <item drawable="ithome" />
+      <item drawable="netease_mail" />
+      <item drawable="netease_news" />
+      <item drawable="onedrive" />
+      <item drawable="onenote" />
+      <item drawable="oneplus_game_space" />
+      <item drawable="qsync" />
+      <item drawable="summoners_war" />
+      <item drawable="tiantonglaw" />
+      <item drawable="tmall" />
+      <item drawable="tssq" />
 
     <category title="Google" />
       <item drawable="chrome" />
@@ -61,6 +63,12 @@
       <item drawable="google_play" />
       <item drawable="google_translate" />
       <item drawable="youtube" />
+
+    <category title="Netease" />
+      <item drawable="netease_cloudmusic" />
+      <item drawable="netease_mail" />
+      <item drawable="netease_news" />
+      <item drawable="netease_vopen" />
 
     <category title="Baidu" />
       <item drawable="baidu_input" />
@@ -73,6 +81,7 @@
       <item drawable="card_package" />
       <item drawable="file_manager" />
       <item drawable="oneplus_bbs" />
+      <item drawable="oneplus_game_space" />
       <item drawable="oneplus_market" />
       <item drawable="oneplus_switch" />
 
@@ -88,6 +97,7 @@
       <item drawable="hhw" />
       <item drawable="kancolle" />
       <item drawable="kcanotify" />
+      <item drawable="summoners_war" />
       <item drawable="the4399" />
       <item drawable="wzry" />
 
@@ -123,6 +133,7 @@
       <item drawable="boc" />
       <item drawable="boom_beach" />
       <item drawable="browser" />
+      <item drawable="busintelligentonline" />
       <item drawable="calculator" />
       <item drawable="camera" />
       <item drawable="canva" />
@@ -191,6 +202,8 @@
       <item drawable="ifly_ime" />
       <item drawable="iherb_cn" />
       <item drawable="iqiyi" />
+      <item drawable="ireader" />
+      <item drawable="ithome" />
       <item drawable="jd" />
       <item drawable="jd_jr" />
       <item drawable="jd_jxj" />
@@ -225,9 +238,14 @@
       <item drawable="myandroidtools" />
       <item drawable="nekogram" />
       <item drawable="netease_cloudmusic" />
+      <item drawable="netease_mail" />
+      <item drawable="netease_news" />
       <item drawable="netease_vopen" />
       <item drawable="note" />
+      <item drawable="onedrive" />
+      <item drawable="onenote" />
       <item drawable="oneplus_bbs" />
+      <item drawable="oneplus_game_space" />
       <item drawable="oneplus_market" />
       <item drawable="oneplus_switch" />
       <item drawable="outlook" />
@@ -250,6 +268,7 @@
       <item drawable="qq_music" />
       <item drawable="qq_safety_center" />
       <item drawable="qqemoji" />
+      <item drawable="qsync" />
       <item drawable="quark" />
       <item drawable="rar" />
       <item drawable="rewind" />
@@ -276,6 +295,7 @@
       <item drawable="ssr" />
       <item drawable="ssrr" />
       <item drawable="steam" />
+      <item drawable="summoners_war" />
       <item drawable="surf_vpn" />
       <item drawable="taichi" />
       <item drawable="taobao" />
@@ -288,14 +308,17 @@
       <item drawable="the4399" />
       <item drawable="thunder" />
       <item drawable="thunder_vpn" />
+      <item drawable="tiantonglaw" />
       <item drawable="tide" />
       <item drawable="tik_tok" />
       <item drawable="tim" />
       <item drawable="titanium_backup" />
+      <item drawable="tmall" />
       <item drawable="tmri12123" />
       <item drawable="tomatodo" />
       <item drawable="tomvpn" />
       <item drawable="toutiao" />
+      <item drawable="tssq" />
       <item drawable="tumblr" />
       <item drawable="twitter" />
       <item drawable="uc_browser" />

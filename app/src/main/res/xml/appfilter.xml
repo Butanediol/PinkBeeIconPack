@@ -508,6 +508,21 @@
     <item component="ComponentInfo{com.lemon.lv/com.vega.launcher.PreInstallConfirmActivity}" drawable="jianying"/>
     <item component="ComponentInfo{com.wandoujia.eyepetizer/com.wandoujia.eyepetizer.ui.activity.LandingActivity}" drawable="eyepetizer"/>
     <item component="ComponentInfo{com.ss.android.autoprice/com.ss.android.auto.activity.SplashActivity}" drawable="autoprice_speed"/>
+    <item component="ComponentInfo{com.ruanmei.ithome/com.ruanmei.ithome.MainActivity1}" drawable="ithome"/>
+    <item component="ComponentInfo{com.cictec.busintelligentonline/com.cictec.busintelligentonline.activity.LoadingActivity}" drawable="busintelligentonline"/>
+    <item component="ComponentInfo{com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity}" drawable="oneplus_game_space"/>
+    <item component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" drawable="message"/>
+    <item component="ComponentInfo{com.com2us.smon.normal.freefull.google.kr.android.common/com.com2us.smon.normal.freefull.google.kr.android.common.SubActivity}" drawable="summoners_war"/>
+    <item component="ComponentInfo{com.hypergryph.arknights.bilibili/com.u8.sdk.SplashActivity}" drawable="arknights"/>
+    <item component="ComponentInfo{com.chaozh.iReaderFree/com.chaozh.iReader.ui.activity.WelcomeActivity}" drawable="ireader"/>
+    <item component="ComponentInfo{com.netease.mail/com.netease.mobimail.activity.LaunchActivity}" drawable="netease_mail"/>
+    <item component="ComponentInfo{com.tmall.wireless/com.tmall.wireless.splash.TMSplashActivity}" drawable="tmall"/>
+    <item component="ComponentInfo{com.netease.newsreader.activity/com.netease.nr.biz.ad.newAd.AdActivity}" drawable="netease_news"/>
+    <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive"/>
+    <item component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}" drawable="onenote"/>
+    <item component="ComponentInfo{com.tencent.qqpim/com.tencent.qqpim.ui.QQPimAndroid}" drawable="qsync"/>
+    <item component="ComponentInfo{com.reader.mfxsdq/com.readtech.hmreader.app.biz.common.ui.MainActivity_}" drawable="tssq"/>
+    <item component="ComponentInfo{com.tiantonglaw.readlaw/com.tiantonglaw.readlaw.LaunchActivity}" drawable="tiantonglaw"/>
 
 
 
