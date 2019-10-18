@@ -52,16 +52,22 @@
         <item>chrome</item>
         <item>chromium</item>
         <item>clean_master</item>
+        <item>cleaner</item>
+        <item>cmb</item>
         <item>cmcc_ibelieve</item>
         <item>codoon</item>
         <item>colanotes</item>
         <item>contacts</item>
         <item>ct_client</item>
+        <item>dedao</item>
         <item>dialer</item>
+        <item>dialer</item>
+        <item>dialer_1</item>
         <item>didapinche</item>
         <item>didi_psngr</item>
         <item>dingding</item>
         <item>dong_che_di</item>
+        <item>dongqiudi</item>
         <item>douban</item>
         <item>doudoubird_weather</item>
         <item>douyu_tv</item>
@@ -80,8 +86,11 @@
         <item>evernote</item>
         <item>everphoto</item>
         <item>eyepetizer</item>
+        <item>facebook</item>
         <item>file_manager</item>
         <item>files</item>
+        <item>files</item>
+        <item>files_1</item>
         <item>firefox</item>
         <item>fluid_ng</item>
         <item>fm_radio</item>
@@ -95,6 +104,7 @@
         <item>google_calendar</item>
         <item>google_play</item>
         <item>google_translate</item>
+        <item>gotokeep</item>
         <item>gov_tax</item>
         <item>greenify</item>
         <item>greenline_guahao</item>
@@ -102,12 +112,15 @@
         <item>greenmusic</item>
         <item>hanks_note</item>
         <item>hemu</item>
+        <item>hhjz</item>
         <item>hhw</item>
+        <item>hlddz</item>
         <item>hsbb</item>
         <item>hupu</item>
         <item>huya_tv</item>
         <item>ifly_ime</item>
         <item>iherb_cn</item>
+        <item>instgram</item>
         <item>iqiyi</item>
         <item>ireader</item>
         <item>ithome</item>
@@ -150,6 +163,7 @@
         <item>netease_news</item>
         <item>netease_vopen</item>
         <item>note</item>
+        <item>nowcasting</item>
         <item>onedrive</item>
         <item>onenote</item>
         <item>oneplus_bbs</item>
@@ -187,12 +201,14 @@
         <item>sdmaid</item>
         <item>see</item>
         <item>settings</item>
+        <item>shanbay_words</item>
         <item>share</item>
         <item>shouji_market</item>
         <item>silencequan</item>
         <item>sim1_tool</item>
         <item>sim2_tool</item>
         <item>smzdm</item>
+        <item>snapseed</item>
         <item>sogou_ime</item>
         <item>sony_music</item>
         <item>sony_music</item>
@@ -234,6 +250,7 @@
         <item>via</item>
         <item>village</item>
         <item>voice_recorder</item>
+        <item>wbus</item>
         <item>wegame</item>
         <item>weibo</item>
         <item>weibo</item>
@@ -260,6 +277,7 @@
         <item>youdao_dict</item>
         <item>youku</item>
         <item>youtube</item>
+        <item>yulinrb</item>
         <item>yyets</item>
         <item>zarchiver</item>
         <item>zarchiver_pro</item>
@@ -315,18 +333,24 @@
         <item>chrome</item>
         <item>chromium</item>
         <item>clean_master</item>
+        <item>cleaner</item>
         <item>clock</item>
+        <item>cmb</item>
         <item>cmcc_ibelieve</item>
         <item>codoon</item>
         <item>colanotes</item>
         <item>contacts</item>
         <item>coolapk</item>
         <item>ct_client</item>
+        <item>dedao</item>
         <item>dialer</item>
+        <item>dialer</item>
+        <item>dialer_1</item>
         <item>didapinche</item>
         <item>didi_psngr</item>
         <item>dingding</item>
         <item>dong_che_di</item>
+        <item>dongqiudi</item>
         <item>douban</item>
         <item>doudoubird_weather</item>
         <item>douyu_tv</item>
@@ -345,8 +369,11 @@
         <item>evernote</item>
         <item>everphoto</item>
         <item>eyepetizer</item>
+        <item>facebook</item>
         <item>file_manager</item>
         <item>files</item>
+        <item>files</item>
+        <item>files_1</item>
         <item>firefox</item>
         <item>fluid_ng</item>
         <item>fm_radio</item>
@@ -360,6 +387,7 @@
         <item>google_calendar</item>
         <item>google_play</item>
         <item>google_translate</item>
+        <item>gotokeep</item>
         <item>gov_tax</item>
         <item>greenify</item>
         <item>greenline_guahao</item>
@@ -367,12 +395,15 @@
         <item>greenmusic</item>
         <item>hanks_note</item>
         <item>hemu</item>
+        <item>hhjz</item>
         <item>hhw</item>
+        <item>hlddz</item>
         <item>hsbb</item>
         <item>hupu</item>
         <item>huya_tv</item>
         <item>ifly_ime</item>
         <item>iherb_cn</item>
+        <item>instgram</item>
         <item>iqiyi</item>
         <item>ireader</item>
         <item>ithome</item>
@@ -417,6 +448,7 @@
         <item>netease_news</item>
         <item>netease_vopen</item>
         <item>note</item>
+        <item>nowcasting</item>
         <item>onedrive</item>
         <item>onenote</item>
         <item>oneplus_bbs</item>
@@ -455,12 +487,14 @@
         <item>sdmaid</item>
         <item>see</item>
         <item>settings</item>
+        <item>shanbay_words</item>
         <item>share</item>
         <item>shouji_market</item>
         <item>silencequan</item>
         <item>sim1_tool</item>
         <item>sim2_tool</item>
         <item>smzdm</item>
+        <item>snapseed</item>
         <item>sogou_ime</item>
         <item>sony_music</item>
         <item>sony_music</item>
@@ -504,6 +538,7 @@
         <item>via</item>
         <item>village</item>
         <item>voice_recorder</item>
+        <item>wbus</item>
         <item>wechat</item>
         <item>wegame</item>
         <item>weibo</item>
@@ -531,6 +566,7 @@
         <item>youdao_dict</item>
         <item>youku</item>
         <item>youtube</item>
+        <item>yulinrb</item>
         <item>yyets</item>
         <item>zarchiver</item>
         <item>zarchiver_pro</item>
