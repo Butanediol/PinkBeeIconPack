@@ -522,6 +522,50 @@
     <item component="ComponentInfo{com.xiaomi.xiaoailite/com.xiaomi.xiaoailite.presenter.activity.GuideActivity}" drawable="mi_ai"/>
     <item component="ComponentInfo{com.blackberry.batterycenter/com.blackberry.batterycenter.LaunchActivity}" drawable="power_center"/>
     <item component="ComponentInfo{com.gamersky/com.gamersky.WellcomeActivity}" drawable="youminxingkong"/>
+    <item component="ComponentInfo{com.sankuai.meituan.takeoutnew/com.sankuai.meituan.takeoutnew.ui.page.boot.WelcomeActivity}" drawable="meituan_takeoutnew"/>
+    <item component="ComponentInfo{com.yek.android.kfc.activitys/com.yum.brandkfc.SplashAct}" drawable="kfc"/>
+    <item component="ComponentInfo{com.wuba.zhuanzhuan/com.wuba.zhuanzhuan.presentation.view.activity.LaunchActivity}" drawable="zhuanzhuan"/>
+    <item component="ComponentInfo{com.kugou.android/com.kugou.android.app.splash.SplashActivity}" drawable="kugou"/>
+    <item component="ComponentInfo{com.baidu.lbs.waimai/com.baidu.lbs.waimai.SplashActivity}" drawable="eleme_xingxuan"/>
+    <item component="ComponentInfo{com.cubic.autohome/com.cubic.autohome.LogoActivity}" drawable="autohome"/>
+    <item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityMediaList}" drawable="mx_player"/> 
+    <item component="ComponentInfo{com.xfx.surfvpn/com.xfx.surfvpn.LoadingActivity}" drawable="surf_vpn"/>
+    <item component="ComponentInfo{com.One.WoodenLetter/com.One.WoodenLetter.LetterActivity}" drawable="woodenletter"/>
+    <item component="ComponentInfo{com.lemon.lv/com.vega.launcher.PreInstallConfirmActivity}" drawable="jianying"/>
+    <item component="ComponentInfo{com.wandoujia.eyepetizer/com.wandoujia.eyepetizer.ui.activity.LandingActivity}" drawable="eyepetizer"/>
+    <item component="ComponentInfo{com.ss.android.autoprice/com.ss.android.auto.activity.SplashActivity}" drawable="autoprice_speed"/>
+    <item component="ComponentInfo{com.ruanmei.ithome/com.ruanmei.ithome.MainActivity1}" drawable="ithome"/>
+    <item component="ComponentInfo{com.cictec.busintelligentonline/com.cictec.busintelligentonline.activity.LoadingActivity}" drawable="busintelligentonline"/>
+    <item component="ComponentInfo{com.oneplus.gamespace/com.oneplus.gamespace.ui.main.MainActivity}" drawable="oneplus_game_space"/>
+    <item component="ComponentInfo{com.oneplus.mms/com.android.mms.ui.ConversationList}" drawable="message"/>
+    <item component="ComponentInfo{com.com2us.smon.normal.freefull.google.kr.android.common/com.com2us.smon.normal.freefull.google.kr.android.common.SubActivity}" drawable="summoners_war"/>
+    <item component="ComponentInfo{com.hypergryph.arknights.bilibili/com.u8.sdk.SplashActivity}" drawable="arknights"/>
+    <item component="ComponentInfo{com.chaozh.iReaderFree/com.chaozh.iReader.ui.activity.WelcomeActivity}" drawable="ireader"/>
+    <item component="ComponentInfo{com.netease.mail/com.netease.mobimail.activity.LaunchActivity}" drawable="netease_mail"/>
+    <item component="ComponentInfo{com.tmall.wireless/com.tmall.wireless.splash.TMSplashActivity}" drawable="tmall"/>
+    <item component="ComponentInfo{com.netease.newsreader.activity/com.netease.nr.biz.ad.newAd.AdActivity}" drawable="netease_news"/>
+    <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive"/>
+    <item component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}" drawable="onenote"/>
+    <item component="ComponentInfo{com.tencent.qqpim/com.tencent.qqpim.ui.QQPimAndroid}" drawable="qsync"/>
+    <item component="ComponentInfo{com.reader.mfxsdq/com.readtech.hmreader.app.biz.common.ui.MainActivity_}" drawable="tssq"/>
+    <item component="ComponentInfo{com.tiantonglaw.readlaw/com.tiantonglaw.readlaw.LaunchActivity}" drawable="tiantonglaw"/>
+    <item component="ComponentInfo{com.miui.securitycleaner/com.miui.securitycleaner.MainActivity}" drawable="cleaner"/>
+    <item component="ComponentInfo{com.jrdcom.filemanager.bb/com.jrdcom.filemanager.activity.FileBrowserActivity}" drawable="files"/>
+    <item component="ComponentInfo{cmb.pb/cmb.pb.app.mainframe.PBEntryActivity}" drawable="cmb"/>
+    <item component="ComponentInfo{com.edcsc.wbus/com.edcsc.wbus.ui.WelcomeActivity}" drawable="wbus"/>
+    <item component="ComponentInfo{com.nowcasting.activity/com.nowcasting.activity.SplashActivity}" drawable="nowcasting"/>
+    <item component="ComponentInfo{com.gotokeep.keep/com.gotokeep.keep.splash.SplashActivity}" drawable="gotokeep"/>
+    <item component="ComponentInfo{com.instagram.android/com.instagram.android.activity.MainTabActivity}" drawable="instagram"/>
+    <item component="ComponentInfo{com.lofter.android/com.lofter.android.global.splash.SplashActivity}" drawable="lofter"/>
+    <item component="ComponentInfo{com.facebook.katana/com.facebook.katana.LoginActivity}" drawable="facebook"/>
+    <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}" drawable="snapseed"/>
+    <item component="ComponentInfo{com.pengda.mobile.hhjz/com.pengda.mobile.hhjz.ui.home.activity.BlankActivity}" drawable="hhjz"/>
+    <item component="ComponentInfo{com.shanbay.words/com.shanbay.words.startup.SplashActivity}" drawable="shanbay_words"/>
+    <item component="ComponentInfo{com.qqgame.hlddz/com.qqgame.hlddz.NewHLDDZ}" drawable="hlddz"/>
+    <item component="ComponentInfo{com.aheading.news.yulinrb/com.aheading.news.yulinrb.activity.LoadingActivity}" drawable="yulinrb"/>
+    <item component="ComponentInfo{com.ss.android.ugc.aweme/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="tik_tok"/>
+    <item component="ComponentInfo{com.dongqiudi.news/com.dongqiudi.news.BaseSplashActivity}" drawable="dongqiudi"/>
+    <item component="ComponentInfo{com.luojilab.player/com.luojilab.business.welcome.SplashActivity}" drawable="dedao"/>    
 
 
 
