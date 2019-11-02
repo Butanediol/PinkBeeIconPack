@@ -37,7 +37,10 @@
         <item>baidu_tieba</item>
         <item>baidu_translate</item>
         <item>baimiao</item>
+        <item>bj_ebus</item>
+        <item>blackberry_hub</item>
         <item>bluewhale</item>
+        <item>bmac_bjyikatong</item>
         <item>bmap</item>
         <item>boom_beach</item>
         <item>browser</item>
@@ -63,6 +66,7 @@
         <item>dialer</item>
         <item>dialer</item>
         <item>dialer_1</item>
+        <item>dianping</item>
         <item>didapinche</item>
         <item>didi_psngr</item>
         <item>dingding</item>
@@ -73,12 +77,14 @@
         <item>douyu_tv</item>
         <item>download</item>
         <item>duolingo</item>
+        <item>easybike_halo</item>
         <item>easylisten</item>
         <item>ecitic_bank</item>
         <item>ecitic_credit</item>
         <item>ehviewer</item>
         <item>eleme</item>
         <item>eleme_xingxuan</item>
+        <item>enfo_metro</item>
         <item>es_file_explorer</item>
         <item>es_file_explorer_pro</item>
         <item>etao</item>
@@ -147,6 +153,7 @@
         <item>meituan</item>
         <item>meituan_takeoutnew</item>
         <item>message</item>
+        <item>mi_ai</item>
         <item>mi_fit</item>
         <item>mixplorer</item>
         <item>momo_eng</item>
@@ -162,6 +169,7 @@
         <item>netease_mail</item>
         <item>netease_news</item>
         <item>netease_vopen</item>
+        <item>netspeed</item>
         <item>note</item>
         <item>nowcasting</item>
         <item>onedrive</item>
@@ -178,6 +186,7 @@
         <item>pic_acg</item>
         <item>picsart</item>
         <item>pivision</item>
+        <item>power_center</item>
         <item>power_clean</item>
         <item>private_notepad</item>
         <item>ps_cc</item>
@@ -207,6 +216,7 @@
         <item>silencequan</item>
         <item>sim1_tool</item>
         <item>sim2_tool</item>
+        <item>skype_for_business</item>
         <item>smzdm</item>
         <item>snapseed</item>
         <item>sogou_ime</item>
@@ -221,8 +231,10 @@
         <item>ssrr</item>
         <item>steam</item>
         <item>summoners_war</item>
+        <item>support_center</item>
         <item>surf_vpn</item>
         <item>taichi</item>
+        <item>tantan</item>
         <item>tazai</item>
         <item>telegram</item>
         <item>telegram_x</item>
@@ -267,7 +279,9 @@
         <item>wzry</item>
         <item>xbrowser</item>
         <item>xhs</item>
+        <item>xiachufang</item>
         <item>xianyu</item>
+        <item>xiaocao</item>
         <item>xiaomi_shop</item>
         <item>xiaomi_youpin</item>
         <item>ximalaya</item>
@@ -276,6 +290,7 @@
         <item>yingyonghui</item>
         <item>youdao_dict</item>
         <item>youku</item>
+        <item>youminxingkong</item>
         <item>youtube</item>
         <item>yulinrb</item>
         <item>yyets</item>
@@ -318,7 +333,10 @@
         <item>baidu_tieba</item>
         <item>baidu_translate</item>
         <item>baimiao</item>
+        <item>bj_ebus</item>
+        <item>blackberry_hub</item>
         <item>bluewhale</item>
+        <item>bmac_bjyikatong</item>
         <item>bmap</item>
         <item>boom_beach</item>
         <item>browser</item>
@@ -346,6 +364,7 @@
         <item>dialer</item>
         <item>dialer</item>
         <item>dialer_1</item>
+        <item>dianping</item>
         <item>didapinche</item>
         <item>didi_psngr</item>
         <item>dingding</item>
@@ -356,12 +375,14 @@
         <item>douyu_tv</item>
         <item>download</item>
         <item>duolingo</item>
+        <item>easybike_halo</item>
         <item>easylisten</item>
         <item>ecitic_bank</item>
         <item>ecitic_credit</item>
         <item>ehviewer</item>
         <item>eleme</item>
         <item>eleme_xingxuan</item>
+        <item>enfo_metro</item>
         <item>es_file_explorer</item>
         <item>es_file_explorer_pro</item>
         <item>etao</item>
@@ -431,6 +452,7 @@
         <item>meituan</item>
         <item>meituan_takeoutnew</item>
         <item>message</item>
+        <item>mi_ai</item>
         <item>mi_fit</item>
         <item>mixplorer</item>
         <item>momo_eng</item>
@@ -447,6 +469,7 @@
         <item>netease_mail</item>
         <item>netease_news</item>
         <item>netease_vopen</item>
+        <item>netspeed</item>
         <item>note</item>
         <item>nowcasting</item>
         <item>onedrive</item>
@@ -463,6 +486,7 @@
         <item>pic_acg</item>
         <item>picsart</item>
         <item>pivision</item>
+        <item>power_center</item>
         <item>power_clean</item>
         <item>private_notepad</item>
         <item>ps_cc</item>
@@ -493,6 +517,7 @@
         <item>silencequan</item>
         <item>sim1_tool</item>
         <item>sim2_tool</item>
+        <item>skype_for_business</item>
         <item>smzdm</item>
         <item>snapseed</item>
         <item>sogou_ime</item>
@@ -507,8 +532,10 @@
         <item>ssrr</item>
         <item>steam</item>
         <item>summoners_war</item>
+        <item>support_center</item>
         <item>surf_vpn</item>
         <item>taichi</item>
+        <item>tantan</item>
         <item>tazai</item>
         <item>telegram</item>
         <item>telegram_x</item>
@@ -556,7 +583,9 @@
         <item>wzry</item>
         <item>xbrowser</item>
         <item>xhs</item>
+        <item>xiachufang</item>
         <item>xianyu</item>
+        <item>xiaocao</item>
         <item>xiaomi_shop</item>
         <item>xiaomi_youpin</item>
         <item>ximalaya</item>
@@ -565,6 +594,7 @@
         <item>yingyonghui</item>
         <item>youdao_dict</item>
         <item>youku</item>
+        <item>youminxingkong</item>
         <item>youtube</item>
         <item>yulinrb</item>
         <item>yyets</item>
