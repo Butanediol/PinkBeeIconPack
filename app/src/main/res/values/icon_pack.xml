@@ -25,6 +25,7 @@
         <item>amap</item>
         <item>amazon_shopping</item>
         <item>amazon_shopping</item>
+        <item>apayer</item>
         <item>apkpure</item>
         <item>apkpure</item>
         <item>apps2sd_pro</item>
@@ -61,6 +62,7 @@
         <item>codoon</item>
         <item>colanotes</item>
         <item>contacts</item>
+        <item>cpwxw</item>
         <item>ct_client</item>
         <item>dedao</item>
         <item>dialer</item>
@@ -76,6 +78,7 @@
         <item>doudoubird_weather</item>
         <item>douyu_tv</item>
         <item>download</item>
+        <item>duokan</item>
         <item>duolingo</item>
         <item>easybike_halo</item>
         <item>easylisten</item>
@@ -121,6 +124,7 @@
         <item>hhjz</item>
         <item>hhw</item>
         <item>hlddz</item>
+        <item>hpjy</item>
         <item>hsbb</item>
         <item>hupu</item>
         <item>huya_tv</item>
@@ -137,6 +141,7 @@
         <item>jiemian_news</item>
         <item>jiemian_news</item>
         <item>jisu_browser</item>
+        <item>jjwxc_reader</item>
         <item>kancolle</item>
         <item>kcanotify</item>
         <item>kdjz</item>
@@ -147,8 +152,10 @@
         <item>langeasy</item>
         <item>laowang_vpn</item>
         <item>librera_pro</item>
+        <item>lol_qtl</item>
         <item>magisk_manager</item>
         <item>mail</item>
+        <item>material_islands</item>
         <item>meet_you</item>
         <item>meituan</item>
         <item>meituan_takeoutnew</item>
@@ -161,17 +168,22 @@
         <item>moo_music</item>
         <item>moon_reader_pro</item>
         <item>mt_manager</item>
+        <item>music_tag</item>
         <item>mx_player</item>
         <item>mx_player</item>
         <item>myandroidtools</item>
         <item>myandroidtools</item>
+        <item>myersplash</item>
+        <item>mysplash</item>
         <item>nekogram</item>
         <item>netease_mail</item>
         <item>netease_news</item>
         <item>netease_vopen</item>
         <item>netspeed</item>
+        <item>niagara_launcher</item>
         <item>note</item>
         <item>nowcasting</item>
+        <item>nutstore</item>
         <item>onedrive</item>
         <item>onenote</item>
         <item>oneplus_bbs</item>
@@ -230,6 +242,7 @@
         <item>ssr</item>
         <item>ssrr</item>
         <item>steam</item>
+        <item>storage_redirect</item>
         <item>summoners_war</item>
         <item>support_center</item>
         <item>surf_vpn</item>
@@ -238,6 +251,7 @@
         <item>tazai</item>
         <item>telegram</item>
         <item>telegram_x</item>
+        <item>tencent_map</item>
         <item>tencent_movie</item>
         <item>tencent_video</item>
         <item>the12306</item>
@@ -286,6 +300,7 @@
         <item>xiaomi_youpin</item>
         <item>ximalaya</item>
         <item>xny_sc</item>
+        <item>xuexitong</item>
         <item>yandex_browser</item>
         <item>yingyonghui</item>
         <item>youdao_dict</item>
@@ -294,6 +309,7 @@
         <item>youtube</item>
         <item>yulinrb</item>
         <item>yyets</item>
+        <item>yys</item>
         <item>zarchiver</item>
         <item>zarchiver_pro</item>
         <item>zhibo8</item>
@@ -320,6 +336,7 @@
         <item>amap</item>
         <item>amazon_shopping</item>
         <item>amazon_shopping</item>
+        <item>apayer</item>
         <item>apkpure</item>
         <item>apkpure</item>
         <item>apple_music</item>
@@ -359,6 +376,7 @@
         <item>colanotes</item>
         <item>contacts</item>
         <item>coolapk</item>
+        <item>cpwxw</item>
         <item>ct_client</item>
         <item>dedao</item>
         <item>dialer</item>
@@ -374,6 +392,7 @@
         <item>doudoubird_weather</item>
         <item>douyu_tv</item>
         <item>download</item>
+        <item>duokan</item>
         <item>duolingo</item>
         <item>easybike_halo</item>
         <item>easylisten</item>
@@ -419,6 +438,7 @@
         <item>hhjz</item>
         <item>hhw</item>
         <item>hlddz</item>
+        <item>hpjy</item>
         <item>hsbb</item>
         <item>hupu</item>
         <item>huya_tv</item>
@@ -435,6 +455,7 @@
         <item>jiemian_news</item>
         <item>jiemian_news</item>
         <item>jisu_browser</item>
+        <item>jjwxc_reader</item>
         <item>kancolle</item>
         <item>kcanotify</item>
         <item>kdjz</item>
@@ -445,8 +466,10 @@
         <item>langeasy</item>
         <item>laowang_vpn</item>
         <item>librera_pro</item>
+        <item>lol_qtl</item>
         <item>magisk_manager</item>
         <item>mail</item>
+        <item>material_islands</item>
         <item>meet_you</item>
         <item>meeye</item>
         <item>meituan</item>
@@ -460,18 +483,23 @@
         <item>moo_music</item>
         <item>moon_reader_pro</item>
         <item>mt_manager</item>
+        <item>music_tag</item>
         <item>mx_player</item>
         <item>mx_player</item>
         <item>myandroidtools</item>
         <item>myandroidtools</item>
+        <item>myersplash</item>
+        <item>mysplash</item>
         <item>nekogram</item>
         <item>netease_cloudmusic</item>
         <item>netease_mail</item>
         <item>netease_news</item>
         <item>netease_vopen</item>
         <item>netspeed</item>
+        <item>niagara_launcher</item>
         <item>note</item>
         <item>nowcasting</item>
+        <item>nutstore</item>
         <item>onedrive</item>
         <item>onenote</item>
         <item>oneplus_bbs</item>
@@ -531,6 +559,7 @@
         <item>ssr</item>
         <item>ssrr</item>
         <item>steam</item>
+        <item>storage_redirect</item>
         <item>summoners_war</item>
         <item>support_center</item>
         <item>surf_vpn</item>
@@ -539,6 +568,7 @@
         <item>tazai</item>
         <item>telegram</item>
         <item>telegram_x</item>
+        <item>tencent_map</item>
         <item>tencent_movie</item>
         <item>tencent_video</item>
         <item>the12306</item>
@@ -590,6 +620,7 @@
         <item>xiaomi_youpin</item>
         <item>ximalaya</item>
         <item>xny_sc</item>
+        <item>xuexitong</item>
         <item>yandex_browser</item>
         <item>yingyonghui</item>
         <item>youdao_dict</item>
@@ -598,6 +629,7 @@
         <item>youtube</item>
         <item>yulinrb</item>
         <item>yyets</item>
+        <item>yys</item>
         <item>zarchiver</item>
         <item>zarchiver_pro</item>
         <item>zhibo8</item>

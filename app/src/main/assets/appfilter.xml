@@ -566,7 +566,26 @@
     <item component="ComponentInfo{com.ss.android.ugc.aweme/com.ss.android.ugc.aweme.splash.SplashActivity}" drawable="tik_tok"/>
     <item component="ComponentInfo{com.dongqiudi.news/com.dongqiudi.news.BaseSplashActivity}" drawable="dongqiudi"/>
     <item component="ComponentInfo{com.luojilab.player/com.luojilab.business.welcome.SplashActivity}" drawable="dedao"/>    
-
+    <item component="ComponentInfo{com.duokan.reades/com.duokan.reader.DkReaderActivity}" drawable="duokan"/>
+    <item component="ComponentInfo{com.sinovatech.unicom.ui/com.sinovatech.unicom.basic.ui.activity.WelcomeClient}" drawable="chinaunicom"/>
+    <item component="ComponentInfo{com.tencent.map/com.tencent.map.WelcomeActivity}" drawable="tencent_map"/>
+    <item component="ComponentInfo{com.chaoxing.mobile/com.chaoxing.mobile.activity.SplashActivity}" drawable="xuexitong"/>
+    <item component="ComponentInfo{remix.myplayer/remix.myplayer.ui.activity.MainActivity}" drawable="aplayer"/>
+    <item component="ComponentInfo{moe.shizuku.redirectstorage/moe.shizuku.redirectstorage.MainActivity}" drawable="storage_redirect"/>
+    <item component="ComponentInfo{com.kingsoft.moffice_pro/cn.wps.moffice.documentmanager.PreStartActivity}" drawable="wps_office"/>
+    <item component="ComponentInfo{com.sonymobile.exactcalculator/com.sonymobile.exactcalculator.Calculator}" drawable="calculator"/>
+    <item component="ComponentInfo{com.tencent.tmgp.pubgmhd/com.epicgames.ue4.SplashActivity}" drawable="hpjy"/>
+    <item component="ComponentInfo{com.tencent.qt.qtl/com.tencent.qt.qtl.activity.main.LauncherActivity}" drawable="lol_qtl"/>
+    <item component="ComponentInfo{com.jjwxc.reader/com.example.jinjiangshucheng.AppStart}" drawable="jjwxc_reader"/>
+    <item component="ComponentInfo{net.cpwxw.cpfiction/com.cpwx.reader.ui.activity.SplashActivity}" drawable="cpwxw"/>
+    <item component="ComponentInfo{com.netease.onmyoji/com.netease.onmyoji.Launcher}" drawable="yys"/>
+    <item component="ComponentInfo{com.hippotech.materialislands/com.hippotech.materialislands.MainActivity_}" drawable="material_islands"/>
+    <item component="ComponentInfo{com.xjcheng.musictageditor/com.xjcheng.musictageditor.MainActivity}" drawable="music_tag"/>
+    <item component="ComponentInfo{com.juniperphoton.myersplash/com.juniperphoton.myersplash.MainActivity}" drawable="myersplash"/>
+    <item component="ComponentInfo{com.wangdaye.mysplash/com.wangdaye.mysplash.main.MainActivity}" drawable="mysplash"/>
+    <item component="ComponentInfo{bitpit.launcher/bitpit.launcher.ui.HomeActivity}" drawable="niagara_launcher"/>
+    <item component="ComponentInfo{nutstore.android/nutstore.android.SplashScreen}" drawable="nutstore"/>
+    <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive"/>
 
 
 

@@ -43,21 +43,22 @@
       <item drawable="voice_recorder" />
 
     <category title="New" />
-      <item drawable="bj_ebus" />
-      <item drawable="blackberry_hub" />
-      <item drawable="bmac_bjyikatong" />
-      <item drawable="dianping" />
-      <item drawable="easybike_halo" />
-      <item drawable="enfo_metro" />
-      <item drawable="mi_ai" />
-      <item drawable="netspeed" />
-      <item drawable="power_center" />
-      <item drawable="skype_for_business" />
-      <item drawable="support_center" />
-      <item drawable="tantan" />
-      <item drawable="xiachufang" />
-      <item drawable="xiaocao" />
-      <item drawable="youminxingkong" />
+      <item drawable="apayer" />
+      <item drawable="cpwxw" />
+      <item drawable="duokan" />
+      <item drawable="hpjy" />
+      <item drawable="jjwxc_reader" />
+      <item drawable="lol_qtl" />
+      <item drawable="material_islands" />
+      <item drawable="music_tag" />
+      <item drawable="myersplash" />
+      <item drawable="mysplash" />
+      <item drawable="niagara_launcher" />
+      <item drawable="nutstore" />
+      <item drawable="storage_redirect" />
+      <item drawable="tencent_map" />
+      <item drawable="xuexitong" />
+      <item drawable="yys" />
 
     <category title="Google" />
       <item drawable="chrome" />
@@ -74,6 +75,7 @@
       <item drawable="netease_mail" />
       <item drawable="netease_news" />
       <item drawable="netease_vopen" />
+      <item drawable="yys" />
 
     <category title="Baidu" />
       <item drawable="baidu_input" />
@@ -101,11 +103,13 @@
       <item drawable="boom_beach" />
       <item drawable="hhw" />
       <item drawable="hlddz" />
+      <item drawable="hpjy" />
       <item drawable="kancolle" />
       <item drawable="kcanotify" />
       <item drawable="summoners_war" />
       <item drawable="the4399" />
       <item drawable="wzry" />
+      <item drawable="yys" />
 
     <category title="All" />
       <item drawable="actions_services" />
@@ -116,6 +120,7 @@
       <item drawable="amap" />
       <item drawable="amazon_kindle" />
       <item drawable="amazon_shopping" />
+      <item drawable="apayer" />
       <item drawable="apkpure" />
       <item drawable="app_ops" />
       <item drawable="apple_music" />
@@ -161,6 +166,7 @@
       <item drawable="colanotes" />
       <item drawable="contacts" />
       <item drawable="coolapk" />
+      <item drawable="cpwxw" />
       <item drawable="ct_client" />
       <item drawable="ctrip" />
       <item drawable="dedao" />
@@ -177,6 +183,7 @@
       <item drawable="doudoubird_weather" />
       <item drawable="douyu_tv" />
       <item drawable="download" />
+      <item drawable="duokan" />
       <item drawable="duolingo" />
       <item drawable="easybike_halo" />
       <item drawable="easylisten" />
@@ -220,6 +227,7 @@
       <item drawable="hhjz" />
       <item drawable="hhw" />
       <item drawable="hlddz" />
+      <item drawable="hpjy" />
       <item drawable="hsbb" />
       <item drawable="hupu" />
       <item drawable="huya_tv" />
@@ -235,6 +243,7 @@
       <item drawable="jianying" />
       <item drawable="jiemian_news" />
       <item drawable="jisu_browser" />
+      <item drawable="jjwxc_reader" />
       <item drawable="kancolle" />
       <item drawable="kcanotify" />
       <item drawable="kdjz" />
@@ -245,8 +254,10 @@
       <item drawable="langeasy" />
       <item drawable="laowang_vpn" />
       <item drawable="librera_pro" />
+      <item drawable="lol_qtl" />
       <item drawable="magisk_manager" />
       <item drawable="mail" />
+      <item drawable="material_islands" />
       <item drawable="meet_you" />
       <item drawable="meeye" />
       <item drawable="meituan" />
@@ -260,16 +271,21 @@
       <item drawable="moo_music" />
       <item drawable="moon_reader_pro" />
       <item drawable="mt_manager" />
+      <item drawable="music_tag" />
       <item drawable="mx_player" />
       <item drawable="myandroidtools" />
+      <item drawable="myersplash" />
+      <item drawable="mysplash" />
       <item drawable="nekogram" />
       <item drawable="netease_cloudmusic" />
       <item drawable="netease_mail" />
       <item drawable="netease_news" />
       <item drawable="netease_vopen" />
       <item drawable="netspeed" />
+      <item drawable="niagara_launcher" />
       <item drawable="note" />
       <item drawable="nowcasting" />
+      <item drawable="nutstore" />
       <item drawable="onedrive" />
       <item drawable="onenote" />
       <item drawable="oneplus_bbs" />
@@ -327,6 +343,7 @@
       <item drawable="ssr" />
       <item drawable="ssrr" />
       <item drawable="steam" />
+      <item drawable="storage_redirect" />
       <item drawable="summoners_war" />
       <item drawable="support_center" />
       <item drawable="surf_vpn" />
@@ -336,6 +353,7 @@
       <item drawable="tazai" />
       <item drawable="telegram" />
       <item drawable="telegram_x" />
+      <item drawable="tencent_map" />
       <item drawable="tencent_movie" />
       <item drawable="tencent_video" />
       <item drawable="the12306" />
@@ -387,6 +405,7 @@
       <item drawable="xiaomi_youpin" />
       <item drawable="ximalaya" />
       <item drawable="xny_sc" />
+      <item drawable="xuexitong" />
       <item drawable="yandex_browser" />
       <item drawable="yingyonghui" />
       <item drawable="youdao_dict" />
@@ -395,6 +414,7 @@
       <item drawable="youtube" />
       <item drawable="yulinrb" />
       <item drawable="yyets" />
+      <item drawable="yys" />
       <item drawable="zarchiver" />
       <item drawable="zarchiver_pro" />
       <item drawable="zhibo8" />
