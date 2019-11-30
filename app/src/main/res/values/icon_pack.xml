@@ -25,11 +25,13 @@
         <item>amap</item>
         <item>amazon_shopping</item>
         <item>amazon_shopping</item>
+        <item>ankidroid</item>
         <item>apayer</item>
         <item>apkpure</item>
         <item>apkpure</item>
         <item>apps2sd_pro</item>
         <item>arknights</item>
+        <item>artstation</item>
         <item>autohome</item>
         <item>autoprice_speed</item>
         <item>baidu_input</item>
@@ -43,6 +45,7 @@
         <item>bluewhale</item>
         <item>bmac_bjyikatong</item>
         <item>bmap</item>
+        <item>bookshelf</item>
         <item>boom_beach</item>
         <item>browser</item>
         <item>busintelligentonline</item>
@@ -52,6 +55,7 @@
         <item>card_package</item>
         <item>ccb</item>
         <item>china_daily</item>
+        <item>chinatelecom_pay</item>
         <item>chinaunicom</item>
         <item>chrome</item>
         <item>chromium</item>
@@ -63,6 +67,7 @@
         <item>colanotes</item>
         <item>contacts</item>
         <item>cpwxw</item>
+        <item>csdn</item>
         <item>ct_client</item>
         <item>dedao</item>
         <item>dialer</item>
@@ -72,12 +77,15 @@
         <item>didapinche</item>
         <item>didi_psngr</item>
         <item>dingding</item>
+        <item>dmall</item>
+        <item>doing</item>
         <item>dong_che_di</item>
         <item>dongqiudi</item>
         <item>douban</item>
         <item>doudoubird_weather</item>
         <item>douyu_tv</item>
         <item>download</item>
+        <item>dribbble</item>
         <item>duokan</item>
         <item>duolingo</item>
         <item>easybike_halo</item>
@@ -104,13 +112,17 @@
         <item>fluid_ng</item>
         <item>fm_radio</item>
         <item>fm_radio</item>
+        <item>foodie</item>
         <item>gallery</item>
         <item>geometric_weather</item>
         <item>gh_helper</item>
         <item>gmail</item>
         <item>go_hosts</item>
+        <item>gome</item>
         <item>google</item>
         <item>google_calendar</item>
+        <item>google_japanese_input</item>
+        <item>google_pinyin_input</item>
         <item>google_play</item>
         <item>google_translate</item>
         <item>gotokeep</item>
@@ -198,10 +210,13 @@
         <item>pic_acg</item>
         <item>picsart</item>
         <item>pivision</item>
+        <item>pixiv</item>
         <item>power_center</item>
         <item>power_clean</item>
         <item>private_notepad</item>
+        <item>ps_app</item>
         <item>ps_cc</item>
+        <item>ps_communication</item>
         <item>q_plus</item>
         <item>qianji</item>
         <item>qihoo_appstore</item>
@@ -218,6 +233,7 @@
         <item>rimet_chuichui</item>
         <item>root_explorer</item>
         <item>rrmj</item>
+        <item>samsclub</item>
         <item>screen_recorder</item>
         <item>sdmaid</item>
         <item>see</item>
@@ -236,6 +252,7 @@
         <item>sony_music</item>
         <item>sony_support</item>
         <item>sony_weather</item>
+        <item>soul</item>
         <item>soundcloud</item>
         <item>speedtest</item>
         <item>speedtest_2</item>
@@ -248,6 +265,8 @@
         <item>surf_vpn</item>
         <item>taichi</item>
         <item>tantan</item>
+        <item>taobao_trip</item>
+        <item>taptap</item>
         <item>tazai</item>
         <item>telegram</item>
         <item>telegram_x</item>
@@ -294,6 +313,7 @@
         <item>xbrowser</item>
         <item>xhs</item>
         <item>xiachufang</item>
+        <item>xiami</item>
         <item>xianyu</item>
         <item>xiaocao</item>
         <item>xiaomi_shop</item>
@@ -336,12 +356,14 @@
         <item>amap</item>
         <item>amazon_shopping</item>
         <item>amazon_shopping</item>
+        <item>ankidroid</item>
         <item>apayer</item>
         <item>apkpure</item>
         <item>apkpure</item>
         <item>apple_music</item>
         <item>apps2sd_pro</item>
         <item>arknights</item>
+        <item>artstation</item>
         <item>autohome</item>
         <item>autoprice_speed</item>
         <item>baidu_input</item>
@@ -355,6 +377,7 @@
         <item>bluewhale</item>
         <item>bmac_bjyikatong</item>
         <item>bmap</item>
+        <item>bookshelf</item>
         <item>boom_beach</item>
         <item>browser</item>
         <item>busintelligentonline</item>
@@ -364,6 +387,7 @@
         <item>card_package</item>
         <item>ccb</item>
         <item>china_daily</item>
+        <item>chinatelecom_pay</item>
         <item>chinaunicom</item>
         <item>chrome</item>
         <item>chromium</item>
@@ -377,6 +401,7 @@
         <item>contacts</item>
         <item>coolapk</item>
         <item>cpwxw</item>
+        <item>csdn</item>
         <item>ct_client</item>
         <item>dedao</item>
         <item>dialer</item>
@@ -386,12 +411,15 @@
         <item>didapinche</item>
         <item>didi_psngr</item>
         <item>dingding</item>
+        <item>dmall</item>
+        <item>doing</item>
         <item>dong_che_di</item>
         <item>dongqiudi</item>
         <item>douban</item>
         <item>doudoubird_weather</item>
         <item>douyu_tv</item>
         <item>download</item>
+        <item>dribbble</item>
         <item>duokan</item>
         <item>duolingo</item>
         <item>easybike_halo</item>
@@ -418,13 +446,17 @@
         <item>fluid_ng</item>
         <item>fm_radio</item>
         <item>fm_radio</item>
+        <item>foodie</item>
         <item>gallery</item>
         <item>geometric_weather</item>
         <item>gh_helper</item>
         <item>gmail</item>
         <item>go_hosts</item>
+        <item>gome</item>
         <item>google</item>
         <item>google_calendar</item>
+        <item>google_japanese_input</item>
+        <item>google_pinyin_input</item>
         <item>google_play</item>
         <item>google_translate</item>
         <item>gotokeep</item>
@@ -514,10 +546,13 @@
         <item>pic_acg</item>
         <item>picsart</item>
         <item>pivision</item>
+        <item>pixiv</item>
         <item>power_center</item>
         <item>power_clean</item>
         <item>private_notepad</item>
+        <item>ps_app</item>
         <item>ps_cc</item>
+        <item>ps_communication</item>
         <item>q_plus</item>
         <item>qianji</item>
         <item>qihoo_appstore</item>
@@ -535,6 +570,7 @@
         <item>rimet_chuichui</item>
         <item>root_explorer</item>
         <item>rrmj</item>
+        <item>samsclub</item>
         <item>screen_recorder</item>
         <item>sdmaid</item>
         <item>see</item>
@@ -553,6 +589,7 @@
         <item>sony_music</item>
         <item>sony_support</item>
         <item>sony_weather</item>
+        <item>soul</item>
         <item>soundcloud</item>
         <item>speedtest</item>
         <item>speedtest_2</item>
@@ -565,6 +602,8 @@
         <item>surf_vpn</item>
         <item>taichi</item>
         <item>tantan</item>
+        <item>taobao_trip</item>
+        <item>taptap</item>
         <item>tazai</item>
         <item>telegram</item>
         <item>telegram_x</item>
@@ -614,6 +653,7 @@
         <item>xbrowser</item>
         <item>xhs</item>
         <item>xiachufang</item>
+        <item>xiami</item>
         <item>xianyu</item>
         <item>xiaocao</item>
         <item>xiaomi_shop</item>

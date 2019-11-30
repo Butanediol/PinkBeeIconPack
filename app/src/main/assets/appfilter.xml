@@ -586,6 +586,27 @@
     <item component="ComponentInfo{bitpit.launcher/bitpit.launcher.ui.HomeActivity}" drawable="niagara_launcher"/>
     <item component="ComponentInfo{nutstore.android/nutstore.android.SplashScreen}" drawable="nutstore"/>
     <item component="ComponentInfo{com.microsoft.skydrive/com.microsoft.skydrive.MainActivity}" drawable="onedrive"/>
+    <item component="ComponentInfo{com.ichi2.anki/com.ichi2.anki.IntentHandler}" drawable="ankidroid"/>
+    <item component="ComponentInfo{com.smartjinyu.mybookshelf/com.smartjinyu.mybookshelf.MainActivity}" drawable="bookshelf"/>
+    <item component="ComponentInfo{ganwu.doing/ganwu.doing.SplashActivity}" drawable="doing"/>
+    <item component="ComponentInfo{com.google.android.inputmethod.japanese/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="google_japanese_input"/>
+    <item component="ComponentInfo{com.google.android.inputmethod.pinyin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="google_pinyin_input"/>
+    <item component="ComponentInfo{com.drakeet.purewriter/com.drakeet.purewriter.WriterActivity}" drawable="pure_writer"/>
+    <item component="ComponentInfo{com.ballistiq.artstation/com.ballistiq.artstation.view.activity.SplashActivity}" drawable="artstation"/>
+    <item component="ComponentInfo{mathieumaree.rippple/mathieumaree.rippple.MainActivity}" drawable="dribbble"/>
+    <item component="ComponentInfo{com.linecorp.foodcam.android/com.linecorp.foodcam.android.camera.CameraActivity}" drawable="foodie"/>
+    <item component="ComponentInfo{com.scee.psxandroid/com.scee.psxandroid.activity.TopActivity}" drawable="ps_app"/>
+    <item component="ComponentInfo{com.playstation.mobilecommunity/com.playstation.mobilecommunity.activity.WelcomeActivity}" drawable="ps_communities"/>
+    <item component="ComponentInfo{com.taobao.trip/com.alipay.mobile.quinox.LauncherActivity}" drawable="taobao_trip"/>
+    <item component="ComponentInfo{fm.xiami.main/fm.xiami.main.SplashActivity}" drawable="xiami"/>
+    <item component="ComponentInfo{com.chinatelecom.bestpayclient/com.chinatelecom.bestpayclient.ui.activity.SplashActivity}" drawable="chinatelecom_pay"/>
+    <item component="ComponentInfo{cn.samsclub.app/com.thestore.main.sam.LoadingActivity}" drawable="samsclub"/>
+    <item component="ComponentInfo{com.wm.dmall/com.wm.dmall.DEFAULT}" drawable="dmall"/>
+    <item component="ComponentInfo{com.gome.eshopnew/com.gome.ecmall.home.LaunchActivity}" drawable="gome"/>
+    <item component="ComponentInfo{net.csdn.csdnplus/net.csdn.csdnplus.activity.MainActivity}" drawable="csdn"/> 
+    <item component="ComponentInfo{cn.soulapp.android/cn.soulapp.android.ui.splash.SplashActivity}" drawable="soul"/> 
+    <item component="ComponentInfo{com.taptap/com.play.taptap.ui.SplashAct}" drawable="taptap"/> 
+    <item component="ComponentInfo{jp.pxv.android/jp.pxv.android.activity.RoutingActivity}" drawable="pixiv"/>
 
 
 

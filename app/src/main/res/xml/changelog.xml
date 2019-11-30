@@ -15,13 +15,14 @@
   ~ limitations under the License.
   -->
 <resources>
-    <version title="\\dfrac{INT\\_MAX}{10^{9}}" />
+    <version title="7/3" />
     <item text="再次见面，请多关照！" />
     <item text="我们对后续的图标颜色进行了一些微调，如果你觉得某些图标不太合群，请务必[发邮件/在群里]告诉我们！" />
-    <item text="好多，好棒！新增了 16 只新图标。" />
-    <item text="大家好才是真的好，找回了 4 只走丢的图标。" />
+    <item text="好多，好棒！新增了 20 只新图标。" />
+    <item text="大家好才是真的好，找回了 2 只走丢的图标。" />
     <item text="喜欢丁二的图标就快去打个五星好评！不喜欢就喝口水再去打五星好评！" />
     <item text="本次更新请切换到图标浏览页，点击筛选，选择 New 标签" />
     <item text="请使用系统级主题的 OPPO、vivo、小米等用户取消系统主题后再发送申请" />
+    <item text="欢迎在评论区留言" />
     <item text="加入 Telegram 群组: https://t.me/joinchat/Dyb9qUal8Vwx2-7kFk9NcQ" /> <!-- this one is empty and therefore ignored -->
 </resources>
