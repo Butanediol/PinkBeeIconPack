@@ -607,7 +607,19 @@
     <item component="ComponentInfo{cn.soulapp.android/cn.soulapp.android.ui.splash.SplashActivity}" drawable="soul"/> 
     <item component="ComponentInfo{com.taptap/com.play.taptap.ui.SplashAct}" drawable="taptap"/> 
     <item component="ComponentInfo{jp.pxv.android/jp.pxv.android.activity.RoutingActivity}" drawable="pixiv"/>
-
+    <item component="ComponentInfo{com.apple.bnd/com.apple.vienna.v3.presentation.welcome.WelcomeActivity}" drawable="beats"/>
+    <item component="ComponentInfo{com.huawei.health/com.huawei.health.MainActivity}" drawable="huawei_health"/>
+    <item component="ComponentInfo{com.jrdcom.privatezone/com.jrdcom.filemanager.activity.ApplicationLockActivity}" drawable="locker"/>
+    <item component="ComponentInfo{com.blackberrymobile.aota/com.blackberrymobile.aota.UI.activity.NewMainActivity}" drawable="preview"/>
+    <item component="ComponentInfo{com.blackberry.universalsearch/com.blackberry.assistantapp.MainActivity}" drawable="device_search"/>
+    <item component="ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.app.launch.LauncherActivity}" drawable="didi_psnger"/>
+    <item component="ComponentInfo{com.xunmeng.pinduoduo/com.xunmeng.pinduoduo.ui.activity.MainFrameActivity}" drawable="pdd"/>
+    <item component="ComponentInfo{com.blackberry.privacydashboard/com.blackberry.privacydashboard.SafeguardActivity}" drawable="dtek"/>
+    <item component="ComponentInfo{net.oneplus.weather/net.oneplus.weather.app.MainActivity}" drawable="op_weather"/>
+    <item component="ComponentInfo{github.tornaco.android.thanos/github.tornaco.android.thanos.main.NavActivity}" drawable="thanox"/>
+    <item component="ComponentInfo{com.omarea.vtools/com.omarea.vtools.activities.ActivityStartSplash}" drawable="scene"/>
+    <item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="google_photos"/>
+    <item component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="files"/>
 
 
 

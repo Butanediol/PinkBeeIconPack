@@ -43,26 +43,18 @@
       <item drawable="voice_recorder" />
 
     <category title="New" />
-      <item drawable="ankidroid" />
-      <item drawable="artstation" />
-      <item drawable="bookshelf" />
-      <item drawable="chinatelecom_pay" />
-      <item drawable="csdn" />
-      <item drawable="dmall" />
-      <item drawable="doing" />
-      <item drawable="dribbble" />
-      <item drawable="foodie" />
-      <item drawable="gome" />
-      <item drawable="google_japanese_input" />
-      <item drawable="google_pinyin_input" />
-      <item drawable="pixiv" />
-      <item drawable="ps_app" />
-      <item drawable="ps_communication" />
-      <item drawable="samsclub" />
-      <item drawable="soul" />
-      <item drawable="taobao_trip" />
-      <item drawable="taptap" />
-      <item drawable="xiami" />
+      <item drawable="beats" />
+      <item drawable="device_search" />
+      <item drawable="didi_psnger" />
+      <item drawable="dtek" />
+      <item drawable="google_photos" />
+      <item drawable="huawei_health" />
+      <item drawable="locker" />
+      <item drawable="op_weather" />
+      <item drawable="pdd" />
+      <item drawable="prewview" />
+      <item drawable="scene" />
+      <item drawable="thanox" />
 
     <category title="Google" />
       <item drawable="chrome" />
@@ -70,6 +62,7 @@
       <item drawable="google" />
       <item drawable="google_calendar" />
       <item drawable="google_japanese_input" />
+      <item drawable="google_photos" />
       <item drawable="google_pinyin_input" />
       <item drawable="google_play" />
       <item drawable="google_translate" />
@@ -117,6 +110,10 @@
       <item drawable="wzry" />
       <item drawable="yys" />
 
+    <category title="Blackberry"/>
+      <item drawable="device_search" />
+      <item drawable="dtek" />
+
     <category title="All" />
       <item drawable="actions_services" />
       <item drawable="adguard_content_blocker" />
@@ -145,6 +142,7 @@
       <item drawable="baidu_translate" />
       <item drawable="baimiao" />
       <item drawable="balance" />
+      <item drawable="beats" />
       <item drawable="bilibili" />
       <item drawable="bj_ebus" />
       <item drawable="blackberry_hub" />
@@ -181,11 +179,13 @@
       <item drawable="ct_client" />
       <item drawable="ctrip" />
       <item drawable="dedao" />
+      <item drawable="device_search" />
       <item drawable="dialer" />
       <item drawable="dialer" />
       <item drawable="dialer_1" />
       <item drawable="dianping" />
       <item drawable="didapinche" />
+      <item drawable="didi_psnger" />
       <item drawable="didi_psngr" />
       <item drawable="dingding" />
       <item drawable="dmall" />
@@ -197,6 +197,7 @@
       <item drawable="douyu_tv" />
       <item drawable="download" />
       <item drawable="dribbble" />
+      <item drawable="dtek" />
       <item drawable="duokan" />
       <item drawable="duolingo" />
       <item drawable="easybike_halo" />
@@ -232,6 +233,7 @@
       <item drawable="google" />
       <item drawable="google_calendar" />
       <item drawable="google_japanese_input" />
+      <item drawable="google_photos" />
       <item drawable="google_pinyin_input" />
       <item drawable="google_play" />
       <item drawable="google_translate" />
@@ -247,6 +249,7 @@
       <item drawable="hlddz" />
       <item drawable="hpjy" />
       <item drawable="hsbb" />
+      <item drawable="huawei_health" />
       <item drawable="hupu" />
       <item drawable="huya_tv" />
       <item drawable="ifly_ime" />
@@ -272,6 +275,7 @@
       <item drawable="langeasy" />
       <item drawable="laowang_vpn" />
       <item drawable="librera_pro" />
+      <item drawable="locker" />
       <item drawable="lol_qtl" />
       <item drawable="magisk_manager" />
       <item drawable="mail" />
@@ -310,8 +314,10 @@
       <item drawable="oneplus_game_space" />
       <item drawable="oneplus_market" />
       <item drawable="oneplus_switch" />
+      <item drawable="op_weather" />
       <item drawable="outlook" />
       <item drawable="paypal" />
+      <item drawable="pdd" />
       <item drawable="phonograph" />
       <item drawable="photo_editor" />
       <item drawable="pic_acg" />
@@ -320,6 +326,7 @@
       <item drawable="pixiv" />
       <item drawable="power_center" />
       <item drawable="power_clean" />
+      <item drawable="prewview" />
       <item drawable="private_notepad" />
       <item drawable="ps_app" />
       <item drawable="ps_cc" />
@@ -342,6 +349,7 @@
       <item drawable="root_explorer" />
       <item drawable="rrmj" />
       <item drawable="samsclub" />
+      <item drawable="scene" />
       <item drawable="screen_recorder" />
       <item drawable="sdmaid" />
       <item drawable="see" />
@@ -381,6 +389,7 @@
       <item drawable="tencent_map" />
       <item drawable="tencent_movie" />
       <item drawable="tencent_video" />
+      <item drawable="thanox" />
       <item drawable="the12306" />
       <item drawable="the4399" />
       <item drawable="thunder" />
