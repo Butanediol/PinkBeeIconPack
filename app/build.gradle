@@ -55,8 +55,8 @@ android {
         applicationId "pink.bee"
         minSdkVersion versions.minSdk
         targetSdkVersion versions.targetSdk
-        versionCode 24
-        versionName "2.48163264128256512102420484096819216384327686553613107226214452428810485762097152"
+        versionCode 25
+        versionName "8221435BCCE913B5C2DC22EAF6CB6590"
         vectorDrawables.useSupportLibrary = true
         proguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'
         consumerProguardFiles 'proguard-android-optimize.txt', 'proguard-rules.pro'

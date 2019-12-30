@@ -19,6 +19,7 @@
 
     <!-- Make sure to put at least 8 icons -->
     <string-array name="icons_preview">
+        <item>a5yin</item>
         <item>adguard_content_blocker</item>
         <item>adm_pro</item>
         <item>airfrozen</item>
@@ -38,17 +39,22 @@
         <item>baidu_map</item>
         <item>baidu_netdisk</item>
         <item>baidu_tieba</item>
+        <item>baidu_tieba</item>
+        <item>baidu_tieba_lite</item>
         <item>baidu_translate</item>
         <item>baimiao</item>
         <item>beats</item>
         <item>bj_ebus</item>
         <item>blackberry_hub</item>
+        <item>blackberry_launcher</item>
         <item>bluewhale</item>
         <item>bmac_bjyikatong</item>
         <item>bmap</item>
         <item>bookshelf</item>
         <item>boom_beach</item>
+        <item>brevent</item>
         <item>browser</item>
+        <item>bunny</item>
         <item>busintelligentonline</item>
         <item>calculator</item>
         <item>camera</item>
@@ -80,7 +86,9 @@
         <item>didi_psnger</item>
         <item>didi_psngr</item>
         <item>dingding</item>
+        <item>diyidan</item>
         <item>dmall</item>
+        <item>dnf_helper</item>
         <item>doing</item>
         <item>dong_che_di</item>
         <item>dongqiudi</item>
@@ -118,6 +126,7 @@
         <item>fm_radio</item>
         <item>foodie</item>
         <item>gallery</item>
+        <item>gaokuaidian</item>
         <item>geometric_weather</item>
         <item>gh_helper</item>
         <item>gmail</item>
@@ -136,17 +145,21 @@
         <item>greenline_guahao</item>
         <item>greenline_guahao</item>
         <item>greenmusic</item>
+        <item>gtgj</item>
         <item>hanks_note</item>
         <item>hemu</item>
         <item>hhjz</item>
         <item>hhw</item>
+        <item>hibymusic</item>
         <item>hlddz</item>
         <item>hpjy</item>
         <item>hsbb</item>
         <item>huawei_health</item>
         <item>hupu</item>
         <item>huya_tv</item>
+        <item>icebox</item>
         <item>ifly_ime</item>
+        <item>igniter</item>
         <item>iherb_cn</item>
         <item>instgram</item>
         <item>iqiyi</item>
@@ -156,10 +169,12 @@
         <item>jd_jr</item>
         <item>jd_jxj</item>
         <item>jianying</item>
+        <item>jianyiys</item>
         <item>jiemian_news</item>
         <item>jiemian_news</item>
         <item>jisu_browser</item>
         <item>jjwxc_reader</item>
+        <item>jovi_home</item>
         <item>kancolle</item>
         <item>kcanotify</item>
         <item>kdjz</item>
@@ -181,6 +196,7 @@
         <item>message</item>
         <item>mi_ai</item>
         <item>mi_fit</item>
+        <item>mi_home</item>
         <item>mixplorer</item>
         <item>momo_eng</item>
         <item>monkeybook</item>
@@ -192,6 +208,7 @@
         <item>mx_player</item>
         <item>myandroidtools</item>
         <item>myandroidtools</item>
+        <item>mybus</item>
         <item>myersplash</item>
         <item>mysplash</item>
         <item>nekogram</item>
@@ -210,7 +227,9 @@
         <item>oneplus_market</item>
         <item>oneplus_switch</item>
         <item>op_weather</item>
+        <item>oppo_game_center</item>
         <item>outlook</item>
+        <item>palm_kitchen</item>
         <item>paypal</item>
         <item>paypal</item>
         <item>pdd</item>
@@ -251,11 +270,14 @@
         <item>settings</item>
         <item>shanbay_words</item>
         <item>share</item>
+        <item>shihuo</item>
         <item>shouji_market</item>
         <item>silencequan</item>
         <item>sim1_tool</item>
         <item>sim2_tool</item>
+        <item>sing5</item>
         <item>skype_for_business</item>
+        <item>small_word</item>
         <item>smzdm</item>
         <item>snapseed</item>
         <item>sogou_ime</item>
@@ -271,16 +293,19 @@
         <item>ssrr</item>
         <item>steam</item>
         <item>storage_redirect</item>
+        <item>substratum</item>
         <item>summoners_war</item>
         <item>support_center</item>
         <item>surf_vpn</item>
         <item>taichi</item>
         <item>tantan</item>
+        <item>taobao_lite</item>
         <item>taobao_trip</item>
         <item>taptap</item>
         <item>tazai</item>
         <item>telegram</item>
         <item>telegram_x</item>
+        <item>tencent_karaoke</item>
         <item>tencent_map</item>
         <item>tencent_movie</item>
         <item>tencent_video</item>
@@ -301,6 +326,7 @@
         <item>toutiao</item>
         <item>tssq</item>
         <item>tumblr</item>
+        <item>turing_wallpeper</item>
         <item>uc_browser</item>
         <item>unionpay</item>
         <item>uujian_browser</item>
@@ -320,8 +346,10 @@
         <item>wondertek_paper</item>
         <item>woodenletter</item>
         <item>wps_office</item>
+        <item>wuba58</item>
         <item>wutacam</item>
         <item>wzry</item>
+        <item>xbox</item>
         <item>xbrowser</item>
         <item>xhs</item>
         <item>xiachufang</item>
@@ -338,6 +366,7 @@
         <item>youdao_dict</item>
         <item>youku</item>
         <item>youminxingkong</item>
+        <item>youngpower_freenovel</item>
         <item>youtube</item>
         <item>yulinrb</item>
         <item>yyets</item>
@@ -361,6 +390,7 @@
     </string-array>
 
     <string-array name="all">
+        <item>a5yin</item>
         <item>adguard_content_blocker</item>
         <item>adm_pro</item>
         <item>airfrozen</item>
@@ -382,17 +412,22 @@
         <item>baidu_map</item>
         <item>baidu_netdisk</item>
         <item>baidu_tieba</item>
+        <item>baidu_tieba</item>
+        <item>baidu_tieba_lite</item>
         <item>baidu_translate</item>
         <item>baimiao</item>
         <item>beats</item>
         <item>bj_ebus</item>
         <item>blackberry_hub</item>
+        <item>blackberry_launcher</item>
         <item>bluewhale</item>
         <item>bmac_bjyikatong</item>
         <item>bmap</item>
         <item>bookshelf</item>
         <item>boom_beach</item>
+        <item>brevent</item>
         <item>browser</item>
+        <item>bunny</item>
         <item>busintelligentonline</item>
         <item>calculator</item>
         <item>camera</item>
@@ -426,7 +461,9 @@
         <item>didi_psnger</item>
         <item>didi_psngr</item>
         <item>dingding</item>
+        <item>diyidan</item>
         <item>dmall</item>
+        <item>dnf_helper</item>
         <item>doing</item>
         <item>dong_che_di</item>
         <item>dongqiudi</item>
@@ -464,6 +501,7 @@
         <item>fm_radio</item>
         <item>foodie</item>
         <item>gallery</item>
+        <item>gaokuaidian</item>
         <item>geometric_weather</item>
         <item>gh_helper</item>
         <item>gmail</item>
@@ -482,17 +520,21 @@
         <item>greenline_guahao</item>
         <item>greenline_guahao</item>
         <item>greenmusic</item>
+        <item>gtgj</item>
         <item>hanks_note</item>
         <item>hemu</item>
         <item>hhjz</item>
         <item>hhw</item>
+        <item>hibymusic</item>
         <item>hlddz</item>
         <item>hpjy</item>
         <item>hsbb</item>
         <item>huawei_health</item>
         <item>hupu</item>
         <item>huya_tv</item>
+        <item>icebox</item>
         <item>ifly_ime</item>
+        <item>igniter</item>
         <item>iherb_cn</item>
         <item>instgram</item>
         <item>iqiyi</item>
@@ -502,10 +544,12 @@
         <item>jd_jr</item>
         <item>jd_jxj</item>
         <item>jianying</item>
+        <item>jianyiys</item>
         <item>jiemian_news</item>
         <item>jiemian_news</item>
         <item>jisu_browser</item>
         <item>jjwxc_reader</item>
+        <item>jovi_home</item>
         <item>kancolle</item>
         <item>kcanotify</item>
         <item>kdjz</item>
@@ -528,6 +572,7 @@
         <item>message</item>
         <item>mi_ai</item>
         <item>mi_fit</item>
+        <item>mi_home</item>
         <item>mixplorer</item>
         <item>momo_eng</item>
         <item>monkeybook</item>
@@ -539,6 +584,7 @@
         <item>mx_player</item>
         <item>myandroidtools</item>
         <item>myandroidtools</item>
+        <item>mybus</item>
         <item>myersplash</item>
         <item>mysplash</item>
         <item>nekogram</item>
@@ -558,7 +604,9 @@
         <item>oneplus_market</item>
         <item>oneplus_switch</item>
         <item>op_weather</item>
+        <item>oppo_game_center</item>
         <item>outlook</item>
+        <item>palm_kitchen</item>
         <item>paypal</item>
         <item>paypal</item>
         <item>pdd</item>
@@ -600,11 +648,14 @@
         <item>settings</item>
         <item>shanbay_words</item>
         <item>share</item>
+        <item>shihuo</item>
         <item>shouji_market</item>
         <item>silencequan</item>
         <item>sim1_tool</item>
         <item>sim2_tool</item>
+        <item>sing5</item>
         <item>skype_for_business</item>
+        <item>small_word</item>
         <item>smzdm</item>
         <item>snapseed</item>
         <item>sogou_ime</item>
@@ -620,16 +671,19 @@
         <item>ssrr</item>
         <item>steam</item>
         <item>storage_redirect</item>
+        <item>substratum</item>
         <item>summoners_war</item>
         <item>support_center</item>
         <item>surf_vpn</item>
         <item>taichi</item>
         <item>tantan</item>
+        <item>taobao_lite</item>
         <item>taobao_trip</item>
         <item>taptap</item>
         <item>tazai</item>
         <item>telegram</item>
         <item>telegram_x</item>
+        <item>tencent_karaoke</item>
         <item>tencent_map</item>
         <item>tencent_movie</item>
         <item>tencent_video</item>
@@ -651,6 +705,7 @@
         <item>toutiao</item>
         <item>tssq</item>
         <item>tumblr</item>
+        <item>turing_wallpeper</item>
         <item>twitter</item>
         <item>uc_browser</item>
         <item>unionpay</item>
@@ -672,8 +727,10 @@
         <item>wondertek_paper</item>
         <item>woodenletter</item>
         <item>wps_office</item>
+        <item>wuba58</item>
         <item>wutacam</item>
         <item>wzry</item>
+        <item>xbox</item>
         <item>xbrowser</item>
         <item>xhs</item>
         <item>xiachufang</item>
@@ -690,6 +747,7 @@
         <item>youdao_dict</item>
         <item>youku</item>
         <item>youminxingkong</item>
+        <item>youngpower_freenovel</item>
         <item>youtube</item>
         <item>yulinrb</item>
         <item>yyets</item>

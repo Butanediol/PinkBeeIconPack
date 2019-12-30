@@ -620,6 +620,39 @@
     <item component="ComponentInfo{com.omarea.vtools/com.omarea.vtools.activities.ActivityStartSplash}" drawable="scene"/>
     <item component="ComponentInfo{com.google.android.apps.photos/com.google.android.apps.photos.home.HomeActivity}" drawable="google_photos"/>
     <item component="ComponentInfo{com.google.android.documentsui/com.android.documentsui.LauncherActivity}" drawable="files"/>
+    <item component="ComponentInfo{com.taobao.htao.android/com.taobao.tao.welcome.Welcome}" drawable="taobao_lite"/>
+    <item component="ComponentInfo{projekt.substratum.lite/projekt.substratum.lite.activity.SplashScreenActivity}" drawable="substratum"/>
+    <item component="ComponentInfo{com.microsoft.xboxone.smartglass/com.microsoft.xbox.xle.app.MainActivity}" drawable="xbox"/>
+    <item component="ComponentInfo{com.scee.psxandroid/com.scee.psxandroid.activity.TopActivity}" drawable="ps_app"/>
+    <item component="ComponentInfo{io.github.trojan_gfw.igniter/io.github.trojan_gfw.igniter.MainActivity}" drawable="igniter"/>
+    <item component="ComponentInfo{com.blackberry.blackberrylauncher/com.blackberry.blackberrylauncher.HomeIconActivity}" drawable="blackberry_launcher"/>
+    <item component="ComponentInfo{com.xiaomi.smarthome/com.xiaomi.smarthome.SmartHomeMainActivity}" drawable="mi_home"/>
+    <item component="ComponentInfo{small.word/small.word.Main}" drawable="small_word"/>
+    <item component="ComponentInfo{me.piebridge.brevent/me.piebridge.brevent.ui.BreventActivity}" drawable="brevent"/> 
+    <item component="ComponentInfo{com.tencent.gamehelper.dnf/com.tencent.gamehelper.ui.main.WelcomeActivity}" drawable="dnf_helper"/> 
+    <item component="ComponentInfo{com.hiby.music/com.hiby.music.Activity.StartActivity}" drawable="hibymusic"/> 
+    <item component="ComponentInfo{com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainAppActivity}" drawable="ice_box"/> 
+    <item component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.ui.splash.SplashActivity}" drawable="bilibili"/> 
+    <item component="ComponentInfo{com.huanchengfly.tieba.post/com.huanchengfly.tieba.post.MainActivity}" drawable="baidu_tieba_lite"/>
+    <item component="ComponentInfo{com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity}" drawable="contacts"/>
+    <item component="ComponentInfo{com.android.stk/com.android.stk.PrimaryStkMain}" drawable="sim1_tool"/>
+    <item component="ComponentInfo{com.hupu.shihuo/com.hupu.shihuo.view.WelcomeActivity}" drawable="shihuo"/> 
+    <item component="ComponentInfo{com.gtgj.view/com.gtgj.view.LaunchActivity}" drawable="gtgj"/> 
+    <item component="ComponentInfo{com.diyidan/com.diyidan.ui.launcher.LauncherActivity}" drawable="diyidan"/> 
+    <item component="ComponentInfo{com.mygolbs.mybus/com.mygolbs.mybus.LoginActivity}" drawable="mybus"/> 
+    <item component="ComponentInfo{com.laiyin.bunny/com.laiyin.bunny.activity.WelcomeActivity}" drawable="bunny"/>
+    <item component="ComponentInfo{com.wuba/com.wuba.activity.launch.LaunchActivity}" drawable="wuba58"/> 
+    <item component="ComponentInfo{com.oneplus.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="contacts"/> 
+    <item component="ComponentInfo{com.nearme.gamecenter/com.nearme.gamecenter.ui.activity.SplashActivity}" drawable="oppo_game_center"/> 
+    <item component="ComponentInfo{com.tencent.karaoke/com.tencent.karaoke.module.splash.ui.SplashBaseActivity}" drawable="tencent_karaoke"/> 
+    <item component="ComponentInfo{com.chan.cwallpaper/com.chan.cwallpaper.module.launch.LaunchActivity}" drawable="turing_wallpaper"/>
+    <item component="ComponentInfo{xyz.a5in.a5yin/xyz.a5in.a5yin.MainActivity}" drawable="a5yin"/> 
+    <item component="ComponentInfo{com.sing.client/com.sing.client.activity.DummyActivity}" drawable="sing5"/> 
+    <item component="ComponentInfo{com.vivo.vhome/com.vivo.vhome.ui.SplashActivity}" drawable="jovi_home"/> 
+    <item component="ComponentInfo{com.youngpower.freenovel/com.youngpower.freenovel.main.MainActivity}" drawable="youngpower_freenovel"/> 
+    <item component="ComponentInfo{com.gold.palm.kitchen/com.gold.palm.kitchen.ui.guide.ZSplashActivity}" drawable="palm_kitchen"/> 
+    <item component="ComponentInfo{com.gaokuaidian.cl/com.gaokuaidian.cl.ui.activity.SplashActivity}" drawable="gaokuaidian"/> 
+    <item component="ComponentInfo{com.xyz.jianyiys.playern/com.e4a.runtime.android.StartActivity}" drawable="jianyiys"/>
 
 
 

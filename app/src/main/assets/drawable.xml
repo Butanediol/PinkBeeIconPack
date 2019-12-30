@@ -43,18 +43,35 @@
       <item drawable="voice_recorder" />
 
     <category title="New" />
-      <item drawable="beats" />
-      <item drawable="device_search" />
-      <item drawable="didi_psnger" />
-      <item drawable="dtek" />
-      <item drawable="google_photos" />
-      <item drawable="huawei_health" />
-      <item drawable="locker" />
-      <item drawable="op_weather" />
-      <item drawable="pdd" />
-      <item drawable="prewview" />
-      <item drawable="scene" />
-      <item drawable="thanox" />
+      <item drawable="a5yin" />
+      <item drawable="baidu_tieba" />
+      <item drawable="baidu_tieba_lite" />
+      <item drawable="blackberry_launcher" />
+      <item drawable="brevent" />
+      <item drawable="bunny" />
+      <item drawable="diyidan" />
+      <item drawable="dnf_helper" />
+      <item drawable="gaokuaidian" />
+      <item drawable="gtgj" />
+      <item drawable="hibymusic" />
+      <item drawable="icebox" />
+      <item drawable="igniter" />
+      <item drawable="jianyiys" />
+      <item drawable="jovi_home" />
+      <item drawable="mi_home" />
+      <item drawable="mybus" />
+      <item drawable="oppo_game_center" />
+      <item drawable="palm_kitchen" />
+      <item drawable="shihuo" />
+      <item drawable="sing5" />
+      <item drawable="small_word" />
+      <item drawable="substratum" />
+      <item drawable="taobao_lite" />
+      <item drawable="tencent_karaoke" />
+      <item drawable="turing_wallpeper" />
+      <item drawable="wuba58" />
+      <item drawable="xbox" />
+      <item drawable="youngpower_freenovel" />
 
     <category title="Google" />
       <item drawable="chrome" />
@@ -81,6 +98,7 @@
       <item drawable="baidu_map" />
       <item drawable="baidu_netdisk" />
       <item drawable="baidu_tieba" />
+      <item drawable="baidu_tieba_lite" />
       <item drawable="baidu_translate" />
 
     <category title="OnePlus" />
@@ -111,10 +129,12 @@
       <item drawable="yys" />
 
     <category title="Blackberry"/>
+      <item drawable="blackberry_launcher" />
       <item drawable="device_search" />
       <item drawable="dtek" />
 
     <category title="All" />
+      <item drawable="a5yin" />
       <item drawable="actions_services" />
       <item drawable="adguard_content_blocker" />
       <item drawable="adm_pro" />
@@ -139,6 +159,8 @@
       <item drawable="baidu_map" />
       <item drawable="baidu_netdisk" />
       <item drawable="baidu_tieba" />
+      <item drawable="baidu_tieba" />
+      <item drawable="baidu_tieba_lite" />
       <item drawable="baidu_translate" />
       <item drawable="baimiao" />
       <item drawable="balance" />
@@ -146,6 +168,7 @@
       <item drawable="bilibili" />
       <item drawable="bj_ebus" />
       <item drawable="blackberry_hub" />
+      <item drawable="blackberry_launcher" />
       <item drawable="blocker" />
       <item drawable="bluewhale" />
       <item drawable="bmac_bjyikatong" />
@@ -153,7 +176,9 @@
       <item drawable="boc" />
       <item drawable="bookshelf" />
       <item drawable="boom_beach" />
+      <item drawable="brevent" />
       <item drawable="browser" />
+      <item drawable="bunny" />
       <item drawable="busintelligentonline" />
       <item drawable="calculator" />
       <item drawable="camera" />
@@ -188,7 +213,9 @@
       <item drawable="didi_psnger" />
       <item drawable="didi_psngr" />
       <item drawable="dingding" />
+      <item drawable="diyidan" />
       <item drawable="dmall" />
+      <item drawable="dnf_helper" />
       <item drawable="doing" />
       <item drawable="dong_che_di" />
       <item drawable="dongqiudi" />
@@ -225,6 +252,7 @@
       <item drawable="fm_radio" />
       <item drawable="foodie" />
       <item drawable="gallery" />
+      <item drawable="gaokuaidian" />
       <item drawable="geometric_weather" />
       <item drawable="gh_helper" />
       <item drawable="gmail" />
@@ -242,17 +270,21 @@
       <item drawable="greenify" />
       <item drawable="greenline_guahao" />
       <item drawable="greenmusic" />
+      <item drawable="gtgj" />
       <item drawable="hanks_note" />
       <item drawable="hemu" />
       <item drawable="hhjz" />
       <item drawable="hhw" />
+      <item drawable="hibymusic" />
       <item drawable="hlddz" />
       <item drawable="hpjy" />
       <item drawable="hsbb" />
       <item drawable="huawei_health" />
       <item drawable="hupu" />
       <item drawable="huya_tv" />
+      <item drawable="icebox" />
       <item drawable="ifly_ime" />
+      <item drawable="igniter" />
       <item drawable="iherb_cn" />
       <item drawable="instgram" />
       <item drawable="iqiyi" />
@@ -262,9 +294,11 @@
       <item drawable="jd_jr" />
       <item drawable="jd_jxj" />
       <item drawable="jianying" />
+      <item drawable="jianyiys" />
       <item drawable="jiemian_news" />
       <item drawable="jisu_browser" />
       <item drawable="jjwxc_reader" />
+      <item drawable="jovi_home" />
       <item drawable="kancolle" />
       <item drawable="kcanotify" />
       <item drawable="kdjz" />
@@ -287,6 +321,7 @@
       <item drawable="message" />
       <item drawable="mi_ai" />
       <item drawable="mi_fit" />
+      <item drawable="mi_home" />
       <item drawable="mixplorer" />
       <item drawable="momo_eng" />
       <item drawable="monkeybook" />
@@ -296,6 +331,7 @@
       <item drawable="music_tag" />
       <item drawable="mx_player" />
       <item drawable="myandroidtools" />
+      <item drawable="mybus" />
       <item drawable="myersplash" />
       <item drawable="mysplash" />
       <item drawable="nekogram" />
@@ -315,7 +351,9 @@
       <item drawable="oneplus_market" />
       <item drawable="oneplus_switch" />
       <item drawable="op_weather" />
+      <item drawable="oppo_game_center" />
       <item drawable="outlook" />
+      <item drawable="palm_kitchen" />
       <item drawable="paypal" />
       <item drawable="pdd" />
       <item drawable="phonograph" />
@@ -356,11 +394,14 @@
       <item drawable="settings" />
       <item drawable="shanbay_words" />
       <item drawable="share" />
+      <item drawable="shihuo" />
       <item drawable="shouji_market" />
       <item drawable="silencequan" />
       <item drawable="sim1_tool" />
       <item drawable="sim2_tool" />
+      <item drawable="sing5" />
       <item drawable="skype_for_business" />
+      <item drawable="small_word" />
       <item drawable="smzdm" />
       <item drawable="snapseed" />
       <item drawable="sogou_ime" />
@@ -375,17 +416,20 @@
       <item drawable="ssrr" />
       <item drawable="steam" />
       <item drawable="storage_redirect" />
+      <item drawable="substratum" />
       <item drawable="summoners_war" />
       <item drawable="support_center" />
       <item drawable="surf_vpn" />
       <item drawable="taichi" />
       <item drawable="tantan" />
       <item drawable="taobao" />
+      <item drawable="taobao_lite" />
       <item drawable="taobao_trip" />
       <item drawable="taptap" />
       <item drawable="tazai" />
       <item drawable="telegram" />
       <item drawable="telegram_x" />
+      <item drawable="tencent_karaoke" />
       <item drawable="tencent_map" />
       <item drawable="tencent_movie" />
       <item drawable="tencent_video" />
@@ -406,6 +450,7 @@
       <item drawable="toutiao" />
       <item drawable="tssq" />
       <item drawable="tumblr" />
+      <item drawable="turing_wallpeper" />
       <item drawable="twitter" />
       <item drawable="uc_browser" />
       <item drawable="unionpay" />
@@ -428,8 +473,10 @@
       <item drawable="wondertek_paper" />
       <item drawable="woodenletter" />
       <item drawable="wps_office" />
+      <item drawable="wuba58" />
       <item drawable="wutacam" />
       <item drawable="wzry" />
+      <item drawable="xbox" />
       <item drawable="xbrowser" />
       <item drawable="xhs" />
       <item drawable="xiachufang" />
@@ -446,6 +493,7 @@
       <item drawable="youdao_dict" />
       <item drawable="youku" />
       <item drawable="youminxingkong" />
+      <item drawable="youngpower_freenovel" />
       <item drawable="youtube" />
       <item drawable="yulinrb" />
       <item drawable="yyets" />
