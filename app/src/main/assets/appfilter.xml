@@ -34,7 +34,7 @@
     <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.GNBrowserActivity}" drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.android.browser.MainActivity}" drawable="browser" />
-    <item component="ComponentInfo{com.android.browser/com.tencent.mtt.SplashActivity}" drawable="oneplus_browser" />
+    <item component="ComponentInfo{com.android.browser/com.tencent.mtt.SplashActivity}" drawable="browser" />
     <item component="ComponentInfo{com.android.browser/com.UCMobile.main.UCMobile}" drawable="browser" />
     <item component="ComponentInfo{com.lenovo.browser/com.lenovo.browser.BrowserActivity}" drawable="browser" />
     <item component="ComponentInfo{com.mokee.yubrowser/com.google.android.apps.chrome.Main}" drawable="browser" />
@@ -327,6 +327,7 @@
     <item component="ComponentInfo{com.tencent.blackkey/com.tencent.blackkey.frontend.adapters.sap.ApplicationActivity}" drawable="moo_music"/>
     <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="mixplorer"/>
     <item component="ComponentInfo{cn.wq.myandroidtools/cn.wq.myandroidtoolspro.MainActivity}" drawable="myandroidtools"/>
+    <item component="ComponentInfo{cn.wq.myandroidtools/cn.wq.myandroidtoolspro.MainDarkActivity}" drawable="myandroidtoolsdark"/>
     <item component="ComponentInfo{mark.via/mark.via.ui.activity.BrowserActivity}" drawable="via"/>
     <item component="ComponentInfo{com.xiachufang/com.xiachufang.startpage.ui.StartPageActivity}" drawable="xiachufang"/>
     <item component="ComponentInfo{com.baidu.input/com.baidu.input.ImeAppMainActivity}" drawable="baidu_input"/>
@@ -340,6 +341,7 @@
     <item component="ComponentInfo{me.gfuil.bmap/me.gfuil.bmap.StartActivity}" drawable="bmap"/>
     <item component="ComponentInfo{com.sankuai.meituan/com.meituan.android.pt.homepage.activity.Welcome}" drawable="meituan"/>
     <item component="ComponentInfo{com.caij.see/com.caij.see.ui.activity.SplashActivity}" drawable="see"/>
+    <item component="ComponentInfo{com.caij.see/com.caij.see.ui.activity.home.MainContainActivity}" drawable="see"/>
     <item component="ComponentInfo{me.weishu.exp/me.weishu.exp.ui.MainActivity}" drawable="taichi"/>
     <item component="ComponentInfo{com.mmbox.xbrowser/com.mmbox.xbrowser.BrowserActivity}" drawable="xbrowser"/>
     <item component="ComponentInfo{com.findtheway/com.findtheway.activity.MainActivity}" drawable="laowang_vpn"/>
@@ -449,6 +451,7 @@
     <item component="ComponentInfo{com.yyets.pro/com.yyets.zimuzu.SplashActivity}" drawable="yyets"/>
     <item component="ComponentInfo{com.qihoo.contents/com.qihoo.contents.launcher.LauncherActivity}" drawable="jisu_browser"/>
     <item component="ComponentInfo{com.UCMobile/com.UCMobile.main.UCMobile}" drawable="uc_browser"/>
+    <item component="ComponentInfo{com.ucturbo/com.ucturbo.MainActivityNew}" drawable="uc_browser_turbo"/>
     <item component="ComponentInfo{com.yandex.browser/com.yandex.browser.YandexBrowserActivity}" drawable="yandex_browser"/>    <item component="ComponentInfo{x.hook.qqemoji/x.hook.qqemoji.MainActivity}" drawable="qqemoji"/>
     <item component="ComponentInfo{cn.qssq666.q.plus/cn.qssq666.common.QPlusMainActivity}" drawable="q_plus"/>
     <item component="ComponentInfo{com.linroid.zlive/com.linroid.zlive.screen.host.HostActivityThird}" drawable="zlive"/>
@@ -552,7 +555,8 @@
     <item component="ComponentInfo{com.tiantonglaw.readlaw/com.tiantonglaw.readlaw.LaunchActivity}" drawable="tiantonglaw"/>
     <item component="ComponentInfo{com.miui.securitycleaner/com.miui.securitycleaner.MainActivity}" drawable="cleaner"/>
     <item component="ComponentInfo{com.jrdcom.filemanager.bb/com.jrdcom.filemanager.activity.FileBrowserActivity}" drawable="files"/>
-    <item component="ComponentInfo{cmb.pb/cmb.pb.app.mainframe.PBEntryActivity}" drawable="cmb"/>
+    <item component="ComponentInfo{com.htc.filemanager/com.htc.filemanager.FileManagerActivity}" drawable="files"/>
+    <item component="ComponentInfo{cmb.pb/cmb.pb.app.mainframe.frame.PBEntryActivity}" drawable="cmb"/>
     <item component="ComponentInfo{com.edcsc.wbus/com.edcsc.wbus.ui.WelcomeActivity}" drawable="wbus"/>
     <item component="ComponentInfo{com.nowcasting.activity/com.nowcasting.activity.SplashActivity}" drawable="nowcasting"/>
     <item component="ComponentInfo{com.gotokeep.keep/com.gotokeep.keep.splash.SplashActivity}" drawable="gotokeep"/>
@@ -632,7 +636,7 @@
     <item component="ComponentInfo{me.piebridge.brevent/me.piebridge.brevent.ui.BreventActivity}" drawable="brevent"/> 
     <item component="ComponentInfo{com.tencent.gamehelper.dnf/com.tencent.gamehelper.ui.main.WelcomeActivity}" drawable="dnf_helper"/> 
     <item component="ComponentInfo{com.hiby.music/com.hiby.music.Activity.StartActivity}" drawable="hibymusic"/> 
-    <item component="ComponentInfo{com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainAppActivity}" drawable="ice_box"/> 
+    <item component="ComponentInfo{com.catchingnow.icebox/com.catchingnow.icebox.activity.mainActivity.MainAppActivity}" drawable="icebox"/> 
     <item component="ComponentInfo{com.bilibili.app.in/tv.danmaku.bili.ui.splash.SplashActivity}" drawable="bilibili"/> 
     <item component="ComponentInfo{com.huanchengfly.tieba.post/com.huanchengfly.tieba.post.MainActivity}" drawable="baidu_tieba_lite"/>
     <item component="ComponentInfo{com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity}" drawable="contacts"/>
@@ -691,6 +695,7 @@
     <item component="ComponentInfo{bbc.mobile.news.ww/bbc.mobile.news.v3.app.TopLevelActivity}" drawable="bbc_news"/>
     <item component="ComponentInfo{com.bbc.globaliplayerradio.international/uk.co.bbc.android.iplayerradiov2.ui.toplevelcomponents.mainactivity.MainActivity}" drawable="bbc_iplayer_radio"/>
     <item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar"/>
+    <item component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" drawable="calendar"/>
     <item component="ComponentInfo{com.github.kr328.clash/com.github.kr328.clash.MainActivity}" drawable="clash_for_android"/>
     <item component="ComponentInfo{com.sec.android.daemonapp/com.samsung.android.weather.app.AppLauncherActivity}" drawable="system_weather"/>
     <item component="ComponentInfo{com.samsung.android.videolist/com.samsung.android.videolist.list.activity.VideoList}" drawable="system_video"/>
@@ -724,6 +729,7 @@
     <item component="ComponentInfo{com.PEP.biaori/com.PEP.biaori.activity.SplashActivity}" drawable="pep_biaori"/>
     <item component="ComponentInfo{com.yeyebbc.play.meeye.iconpack/com.yeyebbc.play.meeye.iconpack.activities.SplashActivity}" drawable="meeye"/>
     <item component="ComponentInfo{com.microsoft.rdc.android/com.microsoft.rdc.ui.activities.HomeActivity}" drawable="microsoft_remote_desktop"/>
-
-
+    <item component="ComponentInfo{com.rhmsoft.edit.pro/com.rhmsoft.edit.activity.MainActivity}" drawable="quickedit"/>
+    <item component="ComponentInfo{com.htc.Weather/com.htc.Weather.WeatherEntryAlias}" drawable="system_weather"/>
+    <item component="ComponentInfo{com.tencent.fortuneplat/com.tencent.fortuneplat.ui.SplashActivity}" drawable="tencent_fortuneplat"/>
 </resources>
