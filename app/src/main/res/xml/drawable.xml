@@ -24,6 +24,7 @@
     <category title="System" />
       <item drawable="browser" />
       <item drawable="calculator" />
+      <item drawable="calendar" />
       <item drawable="camera" />
       <item drawable="clock" />
       <item drawable="contacts" />
@@ -246,6 +247,7 @@
       <item drawable="bunny" />
       <item drawable="busintelligentonline" />
       <item drawable="calculator" />
+      <item drawable="calendar" />
       <item drawable="camera" />
       <item drawable="canva" />
       <item drawable="card_package" />
@@ -283,7 +285,6 @@
       <item drawable="dianping" />
       <item drawable="didapinche" />
       <item drawable="didi_psnger" />
-      <item drawable="didi_psngr" />
       <item drawable="dingding" />
       <item drawable="diyidan" />
       <item drawable="dmall" />

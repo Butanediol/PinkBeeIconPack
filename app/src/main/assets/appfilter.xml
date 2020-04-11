@@ -445,7 +445,7 @@
     <item component="ComponentInfo{com.wondertek.paper/cn.thepaper.paper.ui.splash.welcome.LaunchActivity}" drawable="wondertek_paper"/>
     <item component="ComponentInfo{com.netease.vopen/com.netease.vopen.activity.WelcomeActivity}" drawable="netease_vopen"/>
     <item component="ComponentInfo{com.didapinche.booking/com.didapinche.booking.home.activity.StartActivity}" drawable="didapinche"/>
-    <item component="ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.app.launch.DidiLoadDexActivity}" drawable="didi_psngr"/>
+    <item component="ComponentInfo{com.sdu.didi.psnger/com.didi.sdk.app.launch.DidiLoadDexActivity}" drawable="didi_psnger"/>
     <item component="ComponentInfo{com.yingyonghui.market/com.yingyonghui.market.activity.SplashActivity}" drawable="yingyonghui"/>
     <item component="ComponentInfo{com.example.administrator.searchpicturetool/com.example.administrator.searchpicturetool.launch.LaunchActivity}" drawable="searchpicturetool"/>
     <item component="ComponentInfo{cn.uujian.browser/cn.uujian.SplashActivity}" drawable="uujian_browser"/>
