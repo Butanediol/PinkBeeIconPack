@@ -25,6 +25,7 @@
 
     <calendar component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" prefix="google_calendar_d"/>
     <calendar component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" prefix="google_calendar_d"/>
+    <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_d"/>
     <calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" prefix="calendar_d"/>
     <calendar component="ComponentInfo{com.huawei.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_d"/>
 
@@ -801,4 +802,34 @@
     <item component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity}" drawable="xposed_installer"/>
     <item component="ComponentInfo{hu.tagsoft.ttorrent.noads/hu.tagsoft.ttorrent.statuslist.SplashActivity}" drawable="ttorrent"/>
     <item component="ComponentInfo{com.simplemobiletools.gallery.pro/com.simplemobiletools.gallery.pro.activities.SplashActivity.Orange}" drawable="gallery"/>
+    <item component="ComponentInfo{app.errang.com.poems/app.errang.com.poems.main.activity.SplashActivity}" drawable="errang_poems"/>
+    <item component="ComponentInfo{app.podcast.cosmos/io.iftech.android.podcast.app.MainActivity}" drawable="podcast_cosmos"/>
+    <item component="ComponentInfo{com.android.email/com.android.email.activity.Welcome}" drawable="mail"/>
+    <item component="ComponentInfo{com.app.pornhub/com.app.pornhub.alias.normal}" drawable="pornhub"/>
+    <item component="ComponentInfo{com.baidu.searchbox/com.baidu.searchbox.SplashActivity}" drawable="baidu"/>
+    <item component="ComponentInfo{com.blizzard.bma/com.blizzard.bma.ui.welcome.SplashActivity}" drawable="blizzard_authenticator"/>
+    <item component="ComponentInfo{com.blizzard.messenger/com.blizzard.messenger.ui.SplashActivity}" drawable="battle_net"/>
+    <item component="ComponentInfo{com.chinasofti.shanghaihuateng.jnmetroapp/com.example.boya.importproject.activity.main.enter.SpalshActivity}" drawable="jnmetroapp"/>
+    <item component="ComponentInfo{com.evenwell.systemdashboard.mobileassistant/com.evenwell.systemdashboard.MainActivity}" drawable="smart_tuner"/>
+    <item component="ComponentInfo{com.farplace.qingzhuo/com.farplace.qingzhuo.views.MainActivity}" drawable="farplace_qingzhuo"/>
+    <item component="ComponentInfo{com.finshell.wallet/com.nearme.wallet.SplashActivity}" drawable="wallet"/>
+    <item component="ComponentInfo{com.google.android.apps.googlevoice/com.google.android.apps.googlevoice.SplashActivity}" drawable="google_voice"/>
+    <item component="ComponentInfo{com.heytap.market/com.heytap.market.activity.MainActivity}" drawable="heycap_market"/>
+    <item component="ComponentInfo{com.hmdglobal.appstore/com.siui.android.appstore.MainActivity}" drawable="hmd_appstore"/>
+    <item component="ComponentInfo{com.huawei.smarthome/com.huawei.smarthome.login.LauncherActivity}" drawable="ai_life"/>
+    <item component="ComponentInfo{com.hustzp.com.xichuangzhu/com.hustzp.com.xichuangzhu.SplashActivity}" drawable="xichuangzhu"/>
+    <item component="ComponentInfo{com.ideashower.readitlater.pro/com.ideashower.readitlater.activity.AppCacheCheckActivity}" drawable="pocket"/>
+    <item component="ComponentInfo{com.inspur.emmcloud/com.inspur.emmcloud.Standard}" drawable="inspur_emmcloud"/>
+    <item component="ComponentInfo{com.lvchengyao.liuyanzhentan/com.lvchengyao.liuyanzhentan.MainActivity}" drawable="liuyanzhentan"/>
+    <item component="ComponentInfo{com.microsoft.office.officehubrow/com.microsoft.office.officesuite.OfficeSuiteActivity}" drawable="office"/>
+    <item component="ComponentInfo{com.moji.mjweather/com.moji.mjweather.LauncherActivity}" drawable="mjweather"/>
+    <item component="ComponentInfo{com.netease.vopen/com.netease.vopen.feature.welcome.WelcomeActivity}" drawable="netease_vopen"/>
+    <item component="ComponentInfo{com.niu.cloud/com.niu.cloud.launch.WelcomeActivity}" drawable="niu_cloud"/>
+    <item component="ComponentInfo{com.oneplus.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar"/>
+    <item component="ComponentInfo{com.rayark.pluto/com.google.firebase.MessagingUnityPlayerActivity}" drawable="deemo"/>
+    <item component="ComponentInfo{com.sf.activity/com.sf.activity.MainActivity}" drawable="sf_express"/>
+    <item component="ComponentInfo{com.skype.insiders/com.skype4life.MainActivity}" drawable="skype"/>
+    <item component="ComponentInfo{com.sug3rs.manypaper/com.sug3rs.manypaper.SplashActivity}" drawable="manypaper"/>
+    <item component="ComponentInfo{com.yipiao/com.zt.main.entrance.ZTLaunchActivity}" drawable="a_12306智行火车票"/>
+    <item component="ComponentInfo{org.xinkb.blackboard.android/org.xinkb.blackboard.android.ui.activity.login.LoadingActivity}" drawable="xinkb_blackboard"/>
 </resources>

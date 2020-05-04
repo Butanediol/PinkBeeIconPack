@@ -27,6 +27,7 @@
         <item>adguard_content_blocker</item>
         <item>adm_pro</item>
         <item>adobe_acrobat</item>
+        <item>ai_life</item>
         <item>airfrozen</item>
         <item>alibaba</item>
         <item>allhistory</item>
@@ -58,12 +59,14 @@
         <item>baidu_tieba_lite</item>
         <item>baidu_translate</item>
         <item>baimiao</item>
+        <item>battle_net</item>
         <item>bbc_iplayer_radio</item>
         <item>bbc_news</item>
         <item>beats</item>
         <item>bj_ebus</item>
         <item>blackberry_hub</item>
         <item>blackberry_launcher</item>
+        <item>blizzard_authenticator</item>
         <item>bluewhale</item>
         <item>bmac_bjyikatong</item>
         <item>bmap</item>
@@ -100,6 +103,7 @@
         <item>ct_client</item>
         <item>customiuizer</item>
         <item>dedao</item>
+        <item>deemo</item>
         <item>device_info_hw</item>
         <item>device_search</item>
         <item>dialer</item>
@@ -135,6 +139,7 @@
         <item>eleme</item>
         <item>eleme_xingxuan</item>
         <item>enfo_metro</item>
+        <item>errang_poems</item>
         <item>es_file_explorer</item>
         <item>es_file_explorer_pro</item>
         <item>etao</item>
@@ -144,6 +149,7 @@
         <item>excel</item>
         <item>eyepetizer</item>
         <item>facebook</item>
+        <item>farplace_qingzhuo</item>
         <item>file_manager</item>
         <item>files</item>
         <item>files</item>
@@ -185,6 +191,7 @@
         <item>google_play_games</item>
         <item>google_podcasts</item>
         <item>google_translate</item>
+        <item>google_voice</item>
         <item>google_zhuyin_input</item>
         <item>gotokeep</item>
         <item>gov_tax</item>
@@ -197,10 +204,12 @@
         <item>hanju_tv</item>
         <item>hanks_note</item>
         <item>hemu</item>
+        <item>heycap_market</item>
         <item>hhjz</item>
         <item>hhw</item>
         <item>hibymusic</item>
         <item>hlddz</item>
+        <item>hmd_appstore</item>
         <item>hpjy</item>
         <item>hsbb</item>
         <item>huawei_health</item>
@@ -215,6 +224,7 @@
         <item>igniter</item>
         <item>iherb_cn</item>
         <item>imeihua</item>
+        <item>inspur_emmcloud</item>
         <item>instgram</item>
         <item>iqiyi</item>
         <item>iqiyi_ssports</item>
@@ -229,6 +239,7 @@
         <item>jiemian_news</item>
         <item>jisu_browser</item>
         <item>jjwxc_reader</item>
+        <item>jnmetroapp</item>
         <item>jovi_home</item>
         <item>jx3_linglong</item>
         <item>kancolle</item>
@@ -248,12 +259,14 @@
         <item>lehuzhibo</item>
         <item>librera_pro</item>
         <item>light_start</item>
+        <item>liuyanzhentan</item>
         <item>locker</item>
         <item>lol_qtl</item>
         <item>luckin_coffee</item>
         <item>magisk_manager</item>
         <item>mail</item>
         <item>maixiaoqi</item>
+        <item>manypaper</item>
         <item>material_islands</item>
         <item>meet_you</item>
         <item>mega</item>
@@ -267,6 +280,7 @@
         <item>microsoft_remote_desktop</item>
         <item>mistiness</item>
         <item>mixplorer</item>
+        <item>mjweather</item>
         <item>moedict</item>
         <item>momo_eng</item>
         <item>monkeybook</item>
@@ -290,10 +304,12 @@
         <item>nextcloud</item>
         <item>niagara_launcher</item>
         <item>nine</item>
+        <item>niu_cloud</item>
         <item>nongxin</item>
         <item>note</item>
         <item>nowcasting</item>
         <item>nutstore</item>
+        <item>office</item>
         <item>onedrive</item>
         <item>onenote</item>
         <item>oneplus_bbs</item>
@@ -318,6 +334,9 @@
         <item>pirate_fm</item>
         <item>pivision</item>
         <item>pixiv</item>
+        <item>pocket</item>
+        <item>podcast_cosmos</item>
+        <item>pornhub</item>
         <item>power_center</item>
         <item>power_clean</item>
         <item>prewview</item>
@@ -355,6 +374,7 @@
         <item>sdmaid</item>
         <item>see</item>
         <item>settings</item>
+        <item>sf_express</item>
         <item>sgs</item>
         <item>shanbay_words</item>
         <item>share</item>
@@ -364,8 +384,10 @@
         <item>sim1_tool</item>
         <item>sim2_tool</item>
         <item>sing5</item>
+        <item>skype</item>
         <item>skype_for_business</item>
         <item>small_word</item>
+        <item>smart_tuner</item>
         <item>smzdm</item>
         <item>snapseed</item>
         <item>sogou_ime</item>
@@ -444,6 +466,7 @@
         <item>vivo_photo</item>
         <item>vlc</item>
         <item>voice_recorder</item>
+        <item>wallet</item>
         <item>wbus</item>
         <item>wechat</item>
         <item>wegame</item>
@@ -473,7 +496,9 @@
         <item>xiaocao</item>
         <item>xiaomi_shop</item>
         <item>xiaomi_youpin</item>
+        <item>xichuangzhu</item>
         <item>ximalaya</item>
+        <item>xinkb_blackboard</item>
         <item>xny_sc</item>
         <item>xposed_installer</item>
         <item>xuexi</item>
@@ -481,6 +506,7 @@
         <item>yandex_browser</item>
         <item>yikaobang</item>
         <item>yingyonghui</item>
+        <item>yipiao_zhixing</item>
         <item>youdao_dict</item>
         <item>youku</item>
         <item>youminxingkong</item>
@@ -520,6 +546,7 @@
         <item>adguard_content_blocker</item>
         <item>adm_pro</item>
         <item>adobe_acrobat</item>
+        <item>ai_life</item>
         <item>airfrozen</item>
         <item>alibaba</item>
         <item>alipay</item>
@@ -553,12 +580,14 @@
         <item>baidu_tieba_lite</item>
         <item>baidu_translate</item>
         <item>baimiao</item>
+        <item>battle_net</item>
         <item>bbc_iplayer_radio</item>
         <item>bbc_news</item>
         <item>beats</item>
         <item>bj_ebus</item>
         <item>blackberry_hub</item>
         <item>blackberry_launcher</item>
+        <item>blizzard_authenticator</item>
         <item>bluewhale</item>
         <item>bmac_bjyikatong</item>
         <item>bmap</item>
@@ -597,6 +626,7 @@
         <item>ct_client</item>
         <item>customiuizer</item>
         <item>dedao</item>
+        <item>deemo</item>
         <item>device_info_hw</item>
         <item>device_search</item>
         <item>dialer</item>
@@ -632,6 +662,7 @@
         <item>eleme</item>
         <item>eleme_xingxuan</item>
         <item>enfo_metro</item>
+        <item>errang_poems</item>
         <item>es_file_explorer</item>
         <item>es_file_explorer_pro</item>
         <item>etao</item>
@@ -641,6 +672,7 @@
         <item>excel</item>
         <item>eyepetizer</item>
         <item>facebook</item>
+        <item>farplace_qingzhuo</item>
         <item>file_manager</item>
         <item>files</item>
         <item>files</item>
@@ -682,6 +714,7 @@
         <item>google_play_games</item>
         <item>google_podcasts</item>
         <item>google_translate</item>
+        <item>google_voice</item>
         <item>google_zhuyin_input</item>
         <item>gotokeep</item>
         <item>gov_tax</item>
@@ -694,10 +727,12 @@
         <item>hanju_tv</item>
         <item>hanks_note</item>
         <item>hemu</item>
+        <item>heycap_market</item>
         <item>hhjz</item>
         <item>hhw</item>
         <item>hibymusic</item>
         <item>hlddz</item>
+        <item>hmd_appstore</item>
         <item>hpjy</item>
         <item>hsbb</item>
         <item>huawei_health</item>
@@ -712,6 +747,7 @@
         <item>igniter</item>
         <item>iherb_cn</item>
         <item>imeihua</item>
+        <item>inspur_emmcloud</item>
         <item>instgram</item>
         <item>iqiyi</item>
         <item>iqiyi_ssports</item>
@@ -726,6 +762,7 @@
         <item>jiemian_news</item>
         <item>jisu_browser</item>
         <item>jjwxc_reader</item>
+        <item>jnmetroapp</item>
         <item>jovi_home</item>
         <item>jx3_linglong</item>
         <item>kancolle</item>
@@ -745,12 +782,14 @@
         <item>lehuzhibo</item>
         <item>librera_pro</item>
         <item>light_start</item>
+        <item>liuyanzhentan</item>
         <item>locker</item>
         <item>lol_qtl</item>
         <item>luckin_coffee</item>
         <item>magisk_manager</item>
         <item>mail</item>
         <item>maixiaoqi</item>
+        <item>manypaper</item>
         <item>material_islands</item>
         <item>meet_you</item>
         <item>meeye</item>
@@ -765,6 +804,7 @@
         <item>microsoft_remote_desktop</item>
         <item>mistiness</item>
         <item>mixplorer</item>
+        <item>mjweather</item>
         <item>moedict</item>
         <item>momo_eng</item>
         <item>monkeybook</item>
@@ -789,10 +829,12 @@
         <item>nextcloud</item>
         <item>niagara_launcher</item>
         <item>nine</item>
+        <item>niu_cloud</item>
         <item>nongxin</item>
         <item>note</item>
         <item>nowcasting</item>
         <item>nutstore</item>
+        <item>office</item>
         <item>onedrive</item>
         <item>onenote</item>
         <item>oneplus_bbs</item>
@@ -817,6 +859,9 @@
         <item>pirate_fm</item>
         <item>pivision</item>
         <item>pixiv</item>
+        <item>pocket</item>
+        <item>podcast_cosmos</item>
+        <item>pornhub</item>
         <item>power_center</item>
         <item>power_clean</item>
         <item>prewview</item>
@@ -855,6 +900,7 @@
         <item>sdmaid</item>
         <item>see</item>
         <item>settings</item>
+        <item>sf_express</item>
         <item>sgs</item>
         <item>shanbay_words</item>
         <item>share</item>
@@ -864,8 +910,10 @@
         <item>sim1_tool</item>
         <item>sim2_tool</item>
         <item>sing5</item>
+        <item>skype</item>
         <item>skype_for_business</item>
         <item>small_word</item>
+        <item>smart_tuner</item>
         <item>smzdm</item>
         <item>snapseed</item>
         <item>sogou_ime</item>
@@ -946,6 +994,7 @@
         <item>vivo_photo</item>
         <item>vlc</item>
         <item>voice_recorder</item>
+        <item>wallet</item>
         <item>wbus</item>
         <item>wechat</item>
         <item>wechat</item>
@@ -976,7 +1025,9 @@
         <item>xiaocao</item>
         <item>xiaomi_shop</item>
         <item>xiaomi_youpin</item>
+        <item>xichuangzhu</item>
         <item>ximalaya</item>
+        <item>xinkb_blackboard</item>
         <item>xny_sc</item>
         <item>xposed_installer</item>
         <item>xuexi</item>
@@ -984,6 +1035,7 @@
         <item>yandex_browser</item>
         <item>yikaobang</item>
         <item>yingyonghui</item>
+        <item>yipiao_zhixing</item>
         <item>youdao_dict</item>
         <item>youku</item>
         <item>youminxingkong</item>
