@@ -34,7 +34,9 @@
         <item>amap</item>
         <item>amazon_shopping</item>
         <item>amazon_shopping</item>
+        <item>amoy_space</item>
         <item>ankidroid</item>
+        <item>ants_avatar</item>
         <item>anyview</item>
         <item>apayer</item>
         <item>apkpure</item>
@@ -49,6 +51,8 @@
         <item>autohome</item>
         <item>autoprice_speed</item>
         <item>autoskip</item>
+        <item>azurlane</item>
+        <item>baicizhan</item>
         <item>baidu</item>
         <item>baidu_input</item>
         <item>baidu_map</item>
@@ -72,10 +76,12 @@
         <item>bmap</item>
         <item>bookshelf</item>
         <item>boom_beach</item>
+        <item>breeno_voice</item>
         <item>brevent</item>
         <item>browser</item>
         <item>bunny</item>
         <item>busintelligentonline</item>
+        <item>cainiao</item>
         <item>calculator</item>
         <item>camera</item>
         <item>canva</item>
@@ -87,6 +93,7 @@
         <item>china_mobile</item>
         <item>chinatelecom_pay</item>
         <item>chinaunicom</item>
+        <item>chrissen_card</item>
         <item>chrome</item>
         <item>chromium</item>
         <item>clash4android</item>
@@ -97,13 +104,18 @@
         <item>cntv</item>
         <item>codoon</item>
         <item>colanotes</item>
+        <item>compass</item>
+        <item>connect</item>
         <item>contacts</item>
         <item>cpwxw</item>
         <item>csdn</item>
         <item>ct_client</item>
+        <item>ctcms_amj</item>
         <item>customiuizer</item>
+        <item>cwallpaper</item>
         <item>dedao</item>
         <item>deemo</item>
+        <item>deepink_reader</item>
         <item>device_info_hw</item>
         <item>device_search</item>
         <item>dialer</item>
@@ -129,6 +141,7 @@
         <item>du_gif_maker</item>
         <item>duokan</item>
         <item>duolingo</item>
+        <item>easy_high_road</item>
         <item>easybike_halo</item>
         <item>easylisten</item>
         <item>ecitic_bank</item>
@@ -205,6 +218,7 @@
         <item>hanks_note</item>
         <item>hemu</item>
         <item>heycap_market</item>
+        <item>hf_cn_weather</item>
         <item>hhjz</item>
         <item>hhw</item>
         <item>hibymusic</item>
@@ -223,12 +237,14 @@
         <item>ifly_ime</item>
         <item>igniter</item>
         <item>iherb_cn</item>
+        <item>imaging_edge_mobile</item>
         <item>imeihua</item>
         <item>inspur_emmcloud</item>
         <item>instgram</item>
         <item>iqiyi</item>
         <item>iqiyi_ssports</item>
         <item>ireader</item>
+        <item>ishowedu_peiyin</item>
         <item>ithome</item>
         <item>jd</item>
         <item>jd_jr</item>
@@ -247,20 +263,28 @@
         <item>kdjz</item>
         <item>kfc</item>
         <item>kiwi_browser</item>
+        <item>kkbox</item>
         <item>klep2cats</item>
+        <item>ktls_fileinfo</item>
         <item>kuaishou</item>
         <item>kugou</item>
+        <item>kugou_ringtone</item>
         <item>kustom_widget</item>
         <item>kwai</item>
         <item>langeasy</item>
         <item>laowang_vpn</item>
+        <item>lastpass</item>
         <item>lawnchair</item>
+        <item>lazycook</item>
         <item>legado_read</item>
         <item>lehuzhibo</item>
         <item>librera_pro</item>
         <item>light_start</item>
+        <item>liulishuo</item>
         <item>liuyanzhentan</item>
+        <item>lnts_fc</item>
         <item>locker</item>
+        <item>logcat_reader</item>
         <item>lol_qtl</item>
         <item>luckin_coffee</item>
         <item>magisk_manager</item>
@@ -275,9 +299,11 @@
         <item>message</item>
         <item>mi_ai</item>
         <item>mi_ai</item>
+        <item>mi_community</item>
         <item>mi_fit</item>
         <item>mi_home</item>
         <item>microsoft_remote_desktop</item>
+        <item>midea_vm_washer</item>
         <item>mistiness</item>
         <item>mixplorer</item>
         <item>mjweather</item>
@@ -297,12 +323,14 @@
         <item>myersplash</item>
         <item>mysplash</item>
         <item>nekogram</item>
+        <item>nekogram_x</item>
         <item>netease_mail</item>
         <item>netease_news</item>
         <item>netease_vopen</item>
         <item>netspeed</item>
         <item>nextcloud</item>
         <item>niagara_launcher</item>
+        <item>night_screen</item>
         <item>nine</item>
         <item>niu_cloud</item>
         <item>nongxin</item>
@@ -329,6 +357,7 @@
         <item>pep_biaori</item>
         <item>phonograph</item>
         <item>photo_editor</item>
+        <item>photo_editor</item>
         <item>pic_acg</item>
         <item>picsart</item>
         <item>pirate_fm</item>
@@ -344,6 +373,8 @@
         <item>ps_app</item>
         <item>ps_cc</item>
         <item>ps_communication</item>
+        <item>pumpkinplayer</item>
+        <item>pureweather</item>
         <item>q_plus</item>
         <item>qec_pro</item>
         <item>qianji</item>
@@ -389,6 +420,7 @@
         <item>small_word</item>
         <item>smart_tuner</item>
         <item>smzdm</item>
+        <item>snapmod</item>
         <item>snapseed</item>
         <item>sogou_ime</item>
         <item>solid_explorer</item>
@@ -456,9 +488,11 @@
         <item>ttorrent</item>
         <item>tumblr</item>
         <item>turing_wallpeper</item>
+        <item>twidere</item>
         <item>uc_browser</item>
         <item>uc_browser_turbo</item>
         <item>uc_browser_turbo</item>
+        <item>ucmooc</item>
         <item>unionpay</item>
         <item>uujian_browser</item>
         <item>via</item>
@@ -466,6 +500,7 @@
         <item>vivo_photo</item>
         <item>vlc</item>
         <item>voice_recorder</item>
+        <item>wakeupschedule</item>
         <item>wallet</item>
         <item>wbus</item>
         <item>wechat</item>
@@ -479,6 +514,7 @@
         <item>whale_proxy</item>
         <item>what_s_new</item>
         <item>wifi_master_key</item>
+        <item>wikipedia</item>
         <item>willcloud_themestore</item>
         <item>wondertek_paper</item>
         <item>woodenletter</item>
@@ -523,6 +559,7 @@
         <item>zhiyoo</item>
         <item>zhizhou_days</item>
         <item>zhuanzhuan</item>
+        <item>zhuntiku</item>
         <item>zlive</item>
         <item>zuiyou</item>
         <item>zz_standard</item>
@@ -554,7 +591,9 @@
         <item>amap</item>
         <item>amazon_shopping</item>
         <item>amazon_shopping</item>
+        <item>amoy_space</item>
         <item>ankidroid</item>
+        <item>ants_avatar</item>
         <item>anyview</item>
         <item>apayer</item>
         <item>apkpure</item>
@@ -570,6 +609,8 @@
         <item>autohome</item>
         <item>autoprice_speed</item>
         <item>autoskip</item>
+        <item>azurlane</item>
+        <item>baicizhan</item>
         <item>baidu</item>
         <item>baidu_input</item>
         <item>baidu_map</item>
@@ -593,10 +634,12 @@
         <item>bmap</item>
         <item>bookshelf</item>
         <item>boom_beach</item>
+        <item>breeno_voice</item>
         <item>brevent</item>
         <item>browser</item>
         <item>bunny</item>
         <item>busintelligentonline</item>
+        <item>cainiao</item>
         <item>calculator</item>
         <item>camera</item>
         <item>canva</item>
@@ -608,6 +651,7 @@
         <item>china_mobile</item>
         <item>chinatelecom_pay</item>
         <item>chinaunicom</item>
+        <item>chrissen_card</item>
         <item>chrome</item>
         <item>chromium</item>
         <item>clash4android</item>
@@ -619,14 +663,19 @@
         <item>cntv</item>
         <item>codoon</item>
         <item>colanotes</item>
+        <item>compass</item>
+        <item>connect</item>
         <item>contacts</item>
         <item>coolapk</item>
         <item>cpwxw</item>
         <item>csdn</item>
         <item>ct_client</item>
+        <item>ctcms_amj</item>
         <item>customiuizer</item>
+        <item>cwallpaper</item>
         <item>dedao</item>
         <item>deemo</item>
+        <item>deepink_reader</item>
         <item>device_info_hw</item>
         <item>device_search</item>
         <item>dialer</item>
@@ -652,6 +701,7 @@
         <item>du_gif_maker</item>
         <item>duokan</item>
         <item>duolingo</item>
+        <item>easy_high_road</item>
         <item>easybike_halo</item>
         <item>easylisten</item>
         <item>ecitic_bank</item>
@@ -728,6 +778,7 @@
         <item>hanks_note</item>
         <item>hemu</item>
         <item>heycap_market</item>
+        <item>hf_cn_weather</item>
         <item>hhjz</item>
         <item>hhw</item>
         <item>hibymusic</item>
@@ -746,12 +797,14 @@
         <item>ifly_ime</item>
         <item>igniter</item>
         <item>iherb_cn</item>
+        <item>imaging_edge_mobile</item>
         <item>imeihua</item>
         <item>inspur_emmcloud</item>
         <item>instgram</item>
         <item>iqiyi</item>
         <item>iqiyi_ssports</item>
         <item>ireader</item>
+        <item>ishowedu_peiyin</item>
         <item>ithome</item>
         <item>jd</item>
         <item>jd_jr</item>
@@ -770,20 +823,28 @@
         <item>kdjz</item>
         <item>kfc</item>
         <item>kiwi_browser</item>
+        <item>kkbox</item>
         <item>klep2cats</item>
+        <item>ktls_fileinfo</item>
         <item>kuaishou</item>
         <item>kugou</item>
+        <item>kugou_ringtone</item>
         <item>kustom_widget</item>
         <item>kwai</item>
         <item>langeasy</item>
         <item>laowang_vpn</item>
+        <item>lastpass</item>
         <item>lawnchair</item>
+        <item>lazycook</item>
         <item>legado_read</item>
         <item>lehuzhibo</item>
         <item>librera_pro</item>
         <item>light_start</item>
+        <item>liulishuo</item>
         <item>liuyanzhentan</item>
+        <item>lnts_fc</item>
         <item>locker</item>
+        <item>logcat_reader</item>
         <item>lol_qtl</item>
         <item>luckin_coffee</item>
         <item>magisk_manager</item>
@@ -799,9 +860,11 @@
         <item>message</item>
         <item>mi_ai</item>
         <item>mi_ai</item>
+        <item>mi_community</item>
         <item>mi_fit</item>
         <item>mi_home</item>
         <item>microsoft_remote_desktop</item>
+        <item>midea_vm_washer</item>
         <item>mistiness</item>
         <item>mixplorer</item>
         <item>mjweather</item>
@@ -821,6 +884,7 @@
         <item>myersplash</item>
         <item>mysplash</item>
         <item>nekogram</item>
+        <item>nekogram_x</item>
         <item>netease_cloudmusic</item>
         <item>netease_mail</item>
         <item>netease_news</item>
@@ -828,6 +892,7 @@
         <item>netspeed</item>
         <item>nextcloud</item>
         <item>niagara_launcher</item>
+        <item>night_screen</item>
         <item>nine</item>
         <item>niu_cloud</item>
         <item>nongxin</item>
@@ -854,6 +919,7 @@
         <item>pep_biaori</item>
         <item>phonograph</item>
         <item>photo_editor</item>
+        <item>photo_editor</item>
         <item>pic_acg</item>
         <item>picsart</item>
         <item>pirate_fm</item>
@@ -869,6 +935,8 @@
         <item>ps_app</item>
         <item>ps_cc</item>
         <item>ps_communication</item>
+        <item>pumpkinplayer</item>
+        <item>pureweather</item>
         <item>q_plus</item>
         <item>qec_pro</item>
         <item>qianji</item>
@@ -915,6 +983,7 @@
         <item>small_word</item>
         <item>smart_tuner</item>
         <item>smzdm</item>
+        <item>snapmod</item>
         <item>snapseed</item>
         <item>sogou_ime</item>
         <item>solid_explorer</item>
@@ -983,10 +1052,12 @@
         <item>ttorrent</item>
         <item>tumblr</item>
         <item>turing_wallpeper</item>
+        <item>twidere</item>
         <item>twitter</item>
         <item>uc_browser</item>
         <item>uc_browser_turbo</item>
         <item>uc_browser_turbo</item>
+        <item>ucmooc</item>
         <item>unionpay</item>
         <item>uujian_browser</item>
         <item>via</item>
@@ -994,6 +1065,7 @@
         <item>vivo_photo</item>
         <item>vlc</item>
         <item>voice_recorder</item>
+        <item>wakeupschedule</item>
         <item>wallet</item>
         <item>wbus</item>
         <item>wechat</item>
@@ -1008,6 +1080,7 @@
         <item>whale_proxy</item>
         <item>what_s_new</item>
         <item>wifi_master_key</item>
+        <item>wikipedia</item>
         <item>willcloud_themestore</item>
         <item>wondertek_paper</item>
         <item>woodenletter</item>
@@ -1053,6 +1126,7 @@
         <item>zhiyoo</item>
         <item>zhizhou_days</item>
         <item>zhuanzhuan</item>
+        <item>zhuntiku</item>
         <item>zlive</item>
         <item>zuiyou</item>
         <item>zz_standard</item>

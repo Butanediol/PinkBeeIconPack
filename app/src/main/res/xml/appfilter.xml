@@ -28,7 +28,7 @@
     <calendar component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_d"/>
     <calendar component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}" prefix="calendar_d"/>
     <calendar component="ComponentInfo{com.huawei.calendar/com.android.calendar.AllInOneActivity}" prefix="calendar_d"/>
-
+    
     <item component="ComponentInfo{com.dv.adm.pay/com.dv.adm.pay.Main}" drawable="adm_pro" />
     <item component="ComponentInfo{com.dv.adm/com.dv.adm.Main}" drawable="adm_pro" />
     <item component="ComponentInfo{com.dv.adm.pay/com.dv.get.Main}" drawable="adm_pro"/>
@@ -832,4 +832,48 @@
     <item component="ComponentInfo{com.sug3rs.manypaper/com.sug3rs.manypaper.SplashActivity}" drawable="manypaper"/>
     <item component="ComponentInfo{com.yipiao/com.zt.main.entrance.ZTLaunchActivity}" drawable="a_12306智行火车票"/>
     <item component="ComponentInfo{org.xinkb.blackboard.android/org.xinkb.blackboard.android.ui.activity.login.LoadingActivity}" drawable="xinkb_blackboard"/>
+    <item component="ComponentInfo{cn.gavinliu.snapmod/cn.gavinliu.snapmod.ui.SplashActivity}" drawable="snapmod"/>
+    <item component="ComponentInfo{com.ss.android.article.news/com.ss.android.article.news.activity.MainActivity}" drawable="toutiao"/>
+    <item component="ComponentInfo{com.midea.vm.washer/com.midea.vm.washer.ui.activity.SplashActivity}" drawable="midea_vm_washer"/>
+    <item component="ComponentInfo{com.suda.yzune.wakeupschedule/com.suda.yzune.wakeupschedule.SplashActivity}" drawable="wakeupschedule"/>
+    <item component="ComponentInfo{com.hf/com.hf.activitys.WelcomeActivity}" drawable="hf_cn_weather"/>
+    <item component="ComponentInfo{com.chan.cwallpaper/com.chan.cwallpaper.module.launch.LaunchActivity}" drawable="cwallpaper"/>
+    <item component="ComponentInfo{com.ants.avatar/com.ants.avatar.ui.SplashActivity}" drawable="ants_avatar"/>
+    <item component="ComponentInfo{com.skysoft.kkbox.android/com.skysoft.kkbox.android.HomeActivity}" drawable="kkbox"/>
+    <item component="ComponentInfo{org.wikipedia/org.wikipedia.main.MainActivity}" drawable="wikipedia"/>
+    <item component="ComponentInfo{com.xiaomi.vipaccount/com.xiaomi.vipaccount.ui.splash.SplashActivity}" drawable="mi_community"/>
+    <item component="ComponentInfo{nekox.messenger/org.telegram.ui.LaunchActivity}" drawable="nekogram_x"/>
+    <item component="ComponentInfo{com.smzdm.client.android/com.smzdm.client.android.app.WelComeActivity}" drawable="smzdm"/>
+    <item component="ComponentInfo{com.liulishuo.engzo/com.liulishuo.engzo.app.activity.PrepositionPrivacyActivity}" drawable="liulishuo"/>
+    <item component="ComponentInfo{com.jiongji.andriod.card/com.baicizhan.main.activity.LoadingPageActivity}" drawable="baicizhan"/>
+    <item component="ComponentInfo{com.ishowedu.peiyin/refactor.business.splash.FZSplashActivity}" drawable="ishowedu_peiyin"/>
+    <item component="ComponentInfo{com.cainiao.wireless/com.cainiao.wireless.homepage.view.activity.WelcomeActivity}" drawable="cainiao"/>
+    <item component="ComponentInfo{com.kugou.android.ringtone/com.kugou.android.ringtone.activity.WecomeActivity}" drawable="kugou_ringtone"/>
+    <item component="ComponentInfo{org.mariotaku.twidere/org.mariotaku.twidere.activity.MainActivity}" drawable="twidere"/>
+    <item component="ComponentInfo{com.uzero.baimiaog/com.uzero.baimiao.Hello}" drawable="baimiao"/>
+    <item component="ComponentInfo{info.papdt.blackblub/info.papdt.blackblub.ui.MainActivity}" drawable="night_screen"/>
+    <item component="ComponentInfo{com.dp.logcatapp/com.dp.logcatapp.activities.SplashActivity}" drawable="logcat_reader"/>
+    <item component="ComponentInfo{com.lastpass.lpandroid/com.lastpass.lpandroid.activity.WebBrowserActivity}" drawable="lastpass"/>
+    <item component="ComponentInfo{com.sony.playmemories.mobile/com.sony.playmemories.mobile.splash.SplashActivity}" drawable="imaging_edge_mobile"/>
+    <item component="ComponentInfo{com.htc.photoenhancer/com.htc.photoenhancer.LandingPage}" drawable="photo_editor"/>
+    <item component="ComponentInfo{com.liulishuo.engzo/com.liulishuo.lingodarwin.app.LauncherActivity}" drawable="liulishuo"/>
+    <item component="ComponentInfo{cn.ctcms.amj/cn.ctcms.amj.activity.main.EmptyServiceActivity}" drawable="ctcms_amj"/>
+    <item component="ComponentInfo{com.ktls.fileinfo/com.ktls.fileinfo.MainSDClear}" drawable="ktls_fileinfo"/>
+    <item component="ComponentInfo{com.evenwell.android.memo/com.evenwell.android.memo.activity.MainActivity}" drawable="system_note"/>
+    <item component="ComponentInfo{net.androgames.compass/net.androgames.compass.Compass}" drawable="compass"/>
+    <item component="ComponentInfo{com.garmin.android.apps.connectmobile/com.garmin.android.apps.connectmobile.GCMActivityStartup}" drawable="connect"/>
+    <item component="ComponentInfo{code.name.monkey.retromusic/code.name.monkey.retromusic.ui.activities.MainActivity}" drawable="retro_music"/>
+    <item component="ComponentInfo{com.sdhs.easy.high.road/com.sdhs.easy.common.WelcomeActivity}" drawable="easy_high_road"/>
+    <item component="ComponentInfo{cn.wangxiao.zhuntiku/app.wangxiao.cn.page_module.SplashActivity}" drawable="zhuntiku"/>
+    <item component="ComponentInfo{com.xiachufang.lazycook/com.xiachufang.lazycook.ui.main.home.HomeActivity}" drawable="lazycook"/>
+    <item component="ComponentInfo{com.chrissen.card/com.chrissen.module_card.module_card.functions.main.mvp.view.activity.MainActivity}" drawable="chrissen_card"/>
+    <item component="ComponentInfo{com.pumpkinteam.pumpkinplayer/com.Stub.App}" drawable="pumpkinplayer"/>
+    <item component="ComponentInfo{com.amoy.space/com.amoy.space.UI.activity.SplashActivity}" drawable="amoy_space"/>
+    <item component="ComponentInfo{com.heytap.speechassist/com.heytap.speechassist.SpeechAssistMainActivity}" drawable="breeno_voice"/>
+    <item component="ComponentInfo{com.netease.edu.ucmooc/com.netease.edu.ucmooc.activity.ActivityWelcome}" drawable="ucmooc"/>
+    <item component="ComponentInfo{cn.deepink.reader/cn.deepink.reader.view.main.MainActivity}" drawable="deepink_reader"/>
+    <item component="ComponentInfo{com.maimemo.android.momo/com.maimemo.android.momo.ui.SplashActivity}" drawable="momo_eng"/>
+    <item component="ComponentInfo{com.bilibili.azurlane/com.manjuu.azurlane.MainActivity}" drawable="azurlane"/>
+    <item component="ComponentInfo{hanjie.app.pureweather/hanjie.app.pureweather.module.main.MainActivity}" drawable="pureweather"/>
+    <item component="ComponentInfo{cn.lnts.fc/cn.lnts.fc.ui.activity.SplashActivity}" drawable="lnts_fc"/>
 </resources>
